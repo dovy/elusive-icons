@@ -24,7 +24,7 @@ Get started at http://elusiveicons.com!
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://github.com/FortAwesome/Elusive-Icons/blob/master/CONTRIBUTING.md).
+Please read through our [contributing guidelines](https://github.com/ReduxFramework/Elusive-Icons/blob/master/CONTRIBUTING.md).
 Included are directions for opening issues, coding standards, and notes on development.
 
 ##Versioning
@@ -50,11 +50,11 @@ For more information on SemVer, please visit http://semver.org.
 ##Component
 To include as a [component](http://github.com/component/component), just run
 
-    $ component install FortAwesome/Elusive-Icons
+    $ component install ReduxFramework/Elusive-Icons
 
 Or add
 
-    "FortAwesome/Elusive-Icons": "*"
+    "ReduxFramework/Elusive-Icons": "*"
 
 to the `dependencies` in your `component.json`.
 
