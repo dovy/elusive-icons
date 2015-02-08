@@ -1,0 +1,36 @@
+<section id="animated">
+  <h2 class="page-header">
+    Animated Icons
+    <div class="pull-right text-default margin-top padding-top-sm hidden-xs">
+      <a href="https://github.com/FortAwesome/Elusive-Icons/blob/{{ site.elusiveicons.doc_blob }}/less/animated.less" class="text-muted padding-right">View LESS</a>
+      <a href="https://github.com/FortAwesome/Elusive-Icons/blob/{{ site.elusiveicons.doc_blob }}/scss/_animated.scss" class="text-muted">View SASS</a>
+    </div>
+  </h2>
+  <div class="row">
+    <div class="col-md-3 col-sm-4">
+      <p>
+        <i class="el el-spinner el-spin el-3x el-fw margin-bottom"></i>
+        <i class="el el-circle-o-notch el-spin el-3x el-fw margin-bottom"></i>
+        <i class="el el-refresh el-spin el-3x el-fw margin-bottom"></i>
+        <i class="el el-cog el-spin el-3x el-fw margin-bottom"></i>
+        <i class="el el-spinner el-pulse el-3x el-fw margin-bottom"></i>
+      </p>
+    </div>
+    <div class="col-md-9 col-sm-8">
+      <p>
+        Use the <code>el-spin</code> class to get any icon to rotate, and use <code>el-pulse</code> to have it rotate
+        with 8 steps. Works well with <code>el-spinner</code>, <code>el-refresh</code>, and <code>el-cog</code>.
+      </p>
+{% highlight html %}
+<i class="el el-spinner el-spin"></i>
+<i class="el el-circle-o-notch el-spin"></i>
+<i class="el el-refresh el-spin"></i>
+<i class="el el-cog el-spin"></i>
+<i class="el el-spinner el-pulse"></i>
+{% endhighlight %}
+      <p class="alert alert-success">
+        <i class="el el-info-circle"></i> CSS3 animations aren't supported in IE8 - IE9.
+      </p>
+    </div>
+  </div>
+</section>

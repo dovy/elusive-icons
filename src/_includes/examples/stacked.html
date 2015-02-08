@@ -1,0 +1,65 @@
+<section id="stacked">
+  <h2 class="page-header">
+    Stacked Icons
+    <div class="pull-right text-default margin-top padding-top-sm hidden-xs">
+      <a href="https://github.com/FortAwesome/Elusive-Icons/blob/{{ site.elusiveicons.doc_blob }}/less/stacked.less" class="text-muted padding-right">View LESS</a>
+      <a href="https://github.com/FortAwesome/Elusive-Icons/blob/{{ site.elusiveicons.doc_blob }}/scss/_stacked.scss" class="text-muted">View SASS</a>
+    </div>
+  </h2>
+  <div class="row">
+    <div class="col-md-3 col-sm-4">
+      <div class="margin-bottom">
+        <span class="el-stack el-lg">
+          <i class="el el-square-o el-stack-2x"></i>
+          <i class="el el-twitter el-stack-1x"></i>
+        </span>
+        el-twitter on el-square-o<br>
+        <span class="el-stack el-lg">
+          <i class="el el-circle el-stack-2x"></i>
+          <i class="el el-flag el-stack-1x el-inverse"></i>
+        </span>
+        el-flag on el-circle<br>
+        <span class="el-stack el-lg">
+          <i class="el el-square el-stack-2x"></i>
+          <i class="el el-terminal el-stack-1x el-inverse"></i>
+        </span>
+        el-terminal on el-square<br>
+        <span class="el-stack el-lg">
+          <i class="el el-camera el-stack-1x"></i>
+          <i class="el el-ban el-stack-2x text-danger"></i>
+        </span>
+        el-ban on el-camera
+      </div>
+    </div>
+    <div class="col-md-9 col-sm-8">
+      <p>
+        To stack multiple icons, use the <code>el-stack</code> class on the parent, the <code>el-stack-1x</code>
+        for the regularly sized icon, and <code>el-stack-2x</code> for the larger icon. <code>el-inverse</code>
+        can be used as an alternative icon color. You can even throw <a href="#larger">larger icon</a> classes on the parent
+        to get further control of sizing.
+      </p>
+{% highlight html %}
+<span class="el-stack el-lg">
+  <i class="el el-square-o el-stack-2x"></i>
+  <i class="el el-twitter el-stack-1x"></i>
+</span>
+el-twitter on el-square-o<br>
+<span class="el-stack el-lg">
+  <i class="el el-circle el-stack-2x"></i>
+  <i class="el el-flag el-stack-1x el-inverse"></i>
+</span>
+el-flag on el-circle<br>
+<span class="el-stack el-lg">
+  <i class="el el-square el-stack-2x"></i>
+  <i class="el el-terminal el-stack-1x el-inverse"></i>
+</span>
+el-terminal on el-square<br>
+<span class="el-stack el-lg">
+  <i class="el el-camera el-stack-1x"></i>
+  <i class="el el-ban el-stack-2x text-danger"></i>
+</span>
+el-ban on el-camera
+{% endhighlight %}
+    </div>
+  </div>
+</section>

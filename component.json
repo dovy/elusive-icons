@@ -1,0 +1,20 @@
+{
+  "name": "elusive-icons",
+  "repo": "ReduxFramework/Elusive-Icons",
+  "description": "Elusive Icons",
+  "version": "2.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "SIL, MIT, CC BY 3.0",
+  "styles": [
+    "css/elusive-icons.css"
+  ],
+  "fonts": [
+    "fonts/elusiveicons-webfont.eot",
+    "fonts/elusiveicons-webfont.svg",
+    "fonts/elusiveicons-webfont.ttf",
+    "fonts/elusiveicons-webfont.woff",
+    "fonts/ElusiveIcons.otf"
+  ]
+}

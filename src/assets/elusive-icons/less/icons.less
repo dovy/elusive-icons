@@ -1,0 +1,7 @@
+---
+---
+/* Elusive Icons uses the Unicode Private Use Area (PUA) to ensure screen
+   readers do not read off random characters that represent icons */
+{% for icon in icons %}{% for alias in icon.aliases %}
+.@{el-css-prefix}-{{ alias }}:before,{% endfor %}
+.@{el-css-prefix}-{{ icon.id }}:before { content: @el-var-{{ icon.id }}; }{% endfor %}

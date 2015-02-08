@@ -1,0 +1,51 @@
+<div class="jumbotron jumbotron-carousel hidden-print">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-sm-8 text-center">
+        <h1>Elusive Icons</h1>
+        <p>The iconic font and CSS toolkit</p>
+        <div class="actions">
+          <a class="btn btn-default btn-lg" href="{{ page.relative_path }}assets/elusive-icons-{{ site.elusiveicons.version }}.zip"
+             onClick="_gaq.push(['_trackEvent', 'Outbound Link', 'Download on GitHub']);">
+            <i class="el el-download el-lg"></i>&nbsp;&nbsp;
+            Download
+          </a>
+        </div>
+        <div class="shameless-self-promotion">
+          Version {{ site.elusiveicons.version }} &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+          <a href="{{ site.elusiveicons.github.url }}"
+             onClick="_gaq.push(['_trackEvent', 'Outbound Link', 'View Project on GitHub']);">
+            GitHub Project</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+            Created by <a href="http://twitter.com/{{ site.elusiveicons.author.twitter }}">Dave Gandy</a>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4">
+        <div id="icon-carousel" class="carousel slide">
+          <!-- Carousel items -->
+          <div class="carousel-inner">
+            <div class="active item"><div><i class="el el-flag"></i></div></div>
+            <div class="item"><div><i class="el el-birthday-cake"></i></div></div>
+            <div class="item"><div><i class="el el-paint-brush"></i></div></div>
+            <div class="item"><div><i class="el el-eyedropper"></i></div></div>
+            <div class="item"><div><i class="el el-envelope"></i></div></div>
+            <div class="item"><div><i class="el el-send-o"></i></div></div>
+            <div class="item"><div><i class="el el-book"></i></div></div>
+            <div class="item"><div><i class="el el-fighter-jet"></i></div></div>
+            <div class="item"><div><i class="el el-beer"></i></div></div>
+            <div class="item"><div><i class="el el-heart-o"></i></div></div>
+            <div class="item"><div><i class="el el-thumbs-o-up"></i></div></div>
+            <div class="item"><div><i class="el el-pied-piper-alt"></i></div></div>
+          </div>
+          <!-- Carousel nav -->
+          <a class="carousel-control left" href="#icon-carousel" data-slide="prev"
+             onClick="_gaq.push(['_trackEvent', 'iconCarousel', 'Prev']);">
+            <i class="el el-arrow-circle-left"></i></a>
+          <a class="carousel-control right" href="#icon-carousel" data-slide="next"
+             onClick="_gaq.push(['_trackEvent', 'iconCarousel', 'Next']);">
+            <i class="el el-arrow-circle-right"></i></a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

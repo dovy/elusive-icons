@@ -1,0 +1,34 @@
+---
+layout: base
+title: Elusive Icons Cheatsheet
+relative_path: ../
+---
+{% capture jumbotron_h1 %}<i class="el el-list-ul"></i>&nbsp; Cheatsheet{% endcapture %}
+{% capture jumbotron_p %}The complete Elusive Icons {{ site.elusiveicons.version }} icon reference{% endcapture %}
+
+{% include jumbotron.html %}
+{% include stripe-social.html %}
+
+<div class="container">
+  {% capture stripe_ad_content %}
+  <p class="lead">
+    Print this page to PDF for the complete set of vectors. Or to use on the desktop, install ElusiveIcons.otf, set it as the font in your application, and copy and paste the icons (not the unicode) directly from this page into your designs.
+  </p>
+  {% endcapture %}
+  {% include stripe-ad.html %}
+
+  <h2 class="page-header">Every Elusive Icons {{ site.elusiveicons.version }} Icon, CSS Class, &amp; Unicode</h2>
+
+  <div class="row">
+    {% assign sorted_icons = icons | expand_aliases | sort_by:'class' %}
+
+    {% for icon in sorted_icons %}
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#x{{ icon.unicode }}</i>
+      el-{{ icon.class }}
+      {% if icon.alias_of %} <span class="text-muted">(alias)</span>{% endif %}
+      <span class="muted">[&amp;#x{{ icon.unicode }};]</span>
+    </div>
+    {% endfor %}
+  </div>
+</div>
