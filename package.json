@@ -2,10 +2,17 @@
   "name": "elusive-icons",
   "description": "An iconic font and CSS framework",
   "version": "2.0.0",
-  "keywords": ["font", "elusive", "elusiveicons", "icon", "icons", "bootstrap"],
+  "keywords": [
+    "font",
+    "elusive",
+    "elusiveicons",
+    "icon",
+    "icons",
+    "bootstrap"
+  ],
   "homepage": "http://elusiveicons.com/",
   "bugs": {
-    "url" : "http://github.com/ReduxFramework/Elusive-Icons/issues"
+    "url": "http://github.com/ReduxFramework/Elusive-Icons/issues"
   },
   "author": {
     "name": "Dovy Paukstys",
@@ -16,8 +23,7 @@
     "type": "git",
     "url": "https://github.com/ReduxFramework/Elusive-Icons.git"
   },
-  "contributors": [
-  ],
+  "contributors": [],
   "licenses": [
     {
       "type": "OFL-1.1",
@@ -28,9 +34,12 @@
       "url": "http://opensource.org/licenses/mit-license.html"
     }
   ],
-  "dependencies": {
+  "dependencies": {},
+  "engines": {
+    "node": ">=0.10.3"
   },
-  "engines" : {
-    "node" : ">=0.10.3"
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-webfont": "^0.5.1"
   }
 }
