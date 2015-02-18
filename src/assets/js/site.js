@@ -1,10 +1,10 @@
 $(function() {
   var ads = [
-    { quote: "Take your icon game to the next level.", content: "ad_1_next_level"},
-    { quote: "Subset your icons, add your own, and serve up from a CDN.", content: "ad_2_all_value_add"},
-    { quote: "Make your icons load 10x faster!", content: "ad_3_faster_loading"},
-    { quote: "Looking for other great icon sets?", content: "ad_4_more_icons"},
-    { quote: "Need a custom icon in Elusive Icons?", content: "ad_5_custom_icons"}
+    { quote: "Take your theme & plugin development to the next level.", content: "ad_1_next_level"},
+    { quote: "Join with the other devs who made over $10+ million in 2014.", content: "ad_2_all_value_add"},
+    { quote: "Don't just make a plugin or theme, make a solution.", content: "ad_3_faster_loading"},
+    { quote: "Stop reinventing the wheel, make cool things.", content: "ad_4_more_icons"},
+    { quote: "Need custom WordPress development?", content: "ad_5_custom_icons"}
   ];
 
   selectFonticonsAd();

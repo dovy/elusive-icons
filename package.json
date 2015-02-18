@@ -40,6 +40,9 @@
   },
   "devDependencies": {
     "grunt": "^0.4.5",
+    "grunt-php": "^1.2.0",
+    "grunt-rename": "^0.1.4",
+    "grunt-shell": "^1.1.1",
     "grunt-webfont": "^0.5.1"
   }
 }

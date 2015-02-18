@@ -1,2691 +1,2701 @@
 icons:
-  - name:       Zoom Out
-    id:         zoom-out
-    unicode:    e600
-    created:    1.0
+  - 
+    name: Zoom Out
+    id: zoom-out
+    unicode: f22c
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Zoom In
-    id:         zoom-in
-    unicode:    e601
-    created:    1.0
+  - 
+    name: Zoom In
+    id: zoom-in
+    unicode: f22b
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Youtube
-    id:         youtube
-    unicode:    e602
-    created:    1.0
+  - 
+    name: Youtube
+    id: youtube
+    unicode: f22a
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Wrench Alt
-    id:         wrench-alt
-    unicode:    e603
-    created:    1.0
+  - 
+    name: Wrench Alt
+    id: wrench-alt
+    unicode: f228
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Wrench
-    id:         wrench
-    unicode:    e604
-    created:    1.0
+  - 
+    name: Wrench
+    id: wrench
+    unicode: f229
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Wordpress
-    id:         wordpress
-    unicode:    e605
-    created:    1.0
+  - 
+    name: Wordpress
+    id: wordpress
+    unicode: f227
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Wheelchair
-    id:         wheelchair
-    unicode:    e606
-    created:    1.0
+  - 
+    name: Wheelchair
+    id: wheelchair
+    unicode: f226
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Website Alt
-    id:         website-alt
-    unicode:    e607
-    created:    1.0
+  - 
+    name: Website Alt
+    id: website-alt
+    unicode: f224
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Website
-    id:         website
-    unicode:    e608
-    created:    1.0
+  - 
+    name: Website
+    id: website
+    unicode: f225
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Warning Sign
-    id:         warning-sign
-    unicode:    e609
-    created:    1.0
+  - 
+    name: Warning Sign
+    id: warning-sign
+    unicode: f223
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       W3c
-    id:         w3c
-    unicode:    e60a
-    created:    1.0
+  - 
+    name: W3c
+    id: w3c
+    unicode: f222
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Volume Up
-    id:         volume-up
-    unicode:    e60b
-    created:    1.0
+  - 
+    name: Volume Up
+    id: volume-up
+    unicode: f221
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Volume Off
-    id:         volume-off
-    unicode:    e60c
-    created:    1.0
+  - 
+    name: Volume Off
+    id: volume-off
+    unicode: f220
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Volume Down
-    id:         volume-down
-    unicode:    e60d
-    created:    1.0
+  - 
+    name: Volume Down
+    id: volume-down
+    unicode: f21f
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Vkontakte
-    id:         vkontakte
-    unicode:    e60e
-    created:    1.0
+  - 
+    name: Vkontakte
+    id: vkontakte
+    unicode: f21e
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Vimeo
-    id:         vimeo
-    unicode:    e60f
-    created:    1.0
+  - 
+    name: Vimeo
+    id: vimeo
+    unicode: f21d
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       View Mode
-    id:         view-mode
-    unicode:    e610
-    created:    1.0
+  - 
+    name: View Mode
+    id: view-mode
+    unicode: f21c
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Video Chat
-    id:         video-chat
-    unicode:    e611
-    created:    1.0
+  - 
+    name: Video Chat
+    id: video-chat
+    unicode: f21a
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Video Alt
-    id:         video-alt
-    unicode:    e612
-    created:    1.0
+  - 
+    name: Video Alt
+    id: video-alt
+    unicode: f219
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Video
-    id:         video
-    unicode:    e613
-    created:    1.0
+  - 
+    name: Video
+    id: video
+    unicode: f21b
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Viadeo
-    id:         viadeo
-    unicode:    e614
-    created:    1.0
+  - 
+    name: Viadeo
+    id: viadeo
+    unicode: f218
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       User
-    id:         user
-    unicode:    e615
-    created:    1.0
+  - 
+    name: User
+    id: user
+    unicode: f217
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Usd
-    id:         usd
-    unicode:    e616
-    created:    1.0
+  - 
+    name: Usd
+    id: usd
+    unicode: f216
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Upload
-    id:         upload
-    unicode:    e617
-    created:    1.0
+  - 
+    name: Upload
+    id: upload
+    unicode: f215
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Unlock Alt
-    id:         unlock-alt
-    unicode:    e618
-    created:    1.0
+  - 
+    name: Unlock Alt
+    id: unlock-alt
+    unicode: f213
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Unlock
-    id:         unlock
-    unicode:    e619
-    created:    1.0
+  - 
+    name: Unlock
+    id: unlock
+    unicode: f214
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Universal Access
-    id:         universal-access
-    unicode:    e61a
-    created:    1.0
+  - 
+    name: Universal Access
+    id: universal-access
+    unicode: f212
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Twitter
-    id:         twitter
-    unicode:    e61b
-    created:    1.0
+  - 
+    name: Twitter
+    id: twitter
+    unicode: f211
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Tumblr
-    id:         tumblr
-    unicode:    e61c
-    created:    1.0
+  - 
+    name: Tumblr
+    id: tumblr
+    unicode: f210
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Trash Alt
-    id:         trash-alt
-    unicode:    e61d
-    created:    1.0
+  - 
+    name: Trash Alt
+    id: trash-alt
+    unicode: f20e
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Trash
-    id:         trash
-    unicode:    e61e
-    created:    1.0
+  - 
+    name: Trash
+    id: trash
+    unicode: f20f
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Torso
-    id:         torso
-    unicode:    e61f
-    created:    1.0
+  - 
+    name: Torso
+    id: torso
+    unicode: f20d
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Tint
-    id:         tint
-    unicode:    e620
-    created:    1.0
+  - 
+    name: Tint
+    id: tint
+    unicode: f20c
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Time Alt
-    id:         time-alt
-    unicode:    e621
-    created:    1.0
+  - 
+    name: Time Alt
+    id: time-alt
+    unicode: f20a
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Time
-    id:         time
-    unicode:    e622
-    created:    1.0
+  - 
+    name: Time
+    id: time
+    unicode: f20b
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Thumbs Up
-    id:         thumbs-up
-    unicode:    e623
-    created:    1.0
+  - 
+    name: Thumbs Up
+    id: thumbs-up
+    unicode: f209
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Thumbs Down
-    id:         thumbs-down
-    unicode:    e624
-    created:    1.0
+  - 
+    name: Thumbs Down
+    id: thumbs-down
+    unicode: f208
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Th List
-    id:         th-list
-    unicode:    e625
-    created:    1.0
+  - 
+    name: Th List
+    id: th-list
+    unicode: f206
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Th Large
-    id:         th-large
-    unicode:    e626
-    created:    1.0
+  - 
+    name: Th Large
+    id: th-large
+    unicode: f205
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Th
-    id:         th
-    unicode:    e627
-    created:    1.0
+  - 
+    name: Th
+    id: th
+    unicode: f207
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Text Width
-    id:         text-width
-    unicode:    e628
-    created:    1.0
+  - 
+    name: Text Width
+    id: text-width
+    unicode: f204
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Text Height
-    id:         text-height
-    unicode:    e629
-    created:    1.0
+  - 
+    name: Text Height
+    id: text-height
+    unicode: f203
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Tasks
-    id:         tasks
-    unicode:    e62a
-    created:    1.0
+  - 
+    name: Tasks
+    id: tasks
+    unicode: f202
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Tags
-    id:         tags
-    unicode:    e62b
-    created:    1.0
+  - 
+    name: Tags
+    id: tags
+    unicode: f201
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Tag
-    id:         tag
-    unicode:    e62c
-    created:    1.0
+  - 
+    name: Tag
+    id: tag
+    unicode: f200
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Stumbleupon
-    id:         stumbleupon
-    unicode:    e62d
-    created:    1.0
+  - 
+    name: Stumbleupon
+    id: stumbleupon
+    unicode: f1ff
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Stop Alt
-    id:         stop-alt
-    unicode:    e62e
-    created:    1.0
+  - 
+    name: Stop Alt
+    id: stop-alt
+    unicode: f1fd
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Stop
-    id:         stop
-    unicode:    e62f
-    created:    1.0
+  - 
+    name: Stop
+    id: stop
+    unicode: f1fe
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Step Forward
-    id:         step-forward
-    unicode:    e630
-    created:    1.0
+  - 
+    name: Step Forward
+    id: step-forward
+    unicode: f1fc
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Step Backward
-    id:         step-backward
-    unicode:    e631
-    created:    1.0
+  - 
+    name: Step Backward
+    id: step-backward
+    unicode: f1fb
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Star Empty
-    id:         star-empty
-    unicode:    e632
-    created:    1.0
+  - 
+    name: Star Empty
+    id: star-empty
+    unicode: f1f9
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Star Alt
-    id:         star-alt
-    unicode:    e633
-    created:    1.0
+  - 
+    name: Star Alt
+    id: star-alt
+    unicode: f1f8
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Star
-    id:         star
-    unicode:    e634
-    created:    1.0
+  - 
+    name: Star
+    id: star
+    unicode: f1fa
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Stackoverflow
-    id:         stackoverflow
-    unicode:    e635
-    created:    1.0
+  - 
+    name: Stackoverflow
+    id: stackoverflow
+    unicode: f1f7
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Spotify
-    id:         spotify
-    unicode:    e636
-    created:    1.0
+  - 
+    name: Spotify
+    id: spotify
+    unicode: f1f6
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Speaker
-    id:         speaker
-    unicode:    e637
-    created:    1.0
+  - 
+    name: Speaker
+    id: speaker
+    unicode: f1f5
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Soundcloud
-    id:         soundcloud
-    unicode:    e638
-    created:    1.0
+  - 
+    name: Soundcloud
+    id: soundcloud
+    unicode: f1f4
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Smiley Alt
-    id:         smiley-alt
-    unicode:    e639
-    created:    1.0
+  - 
+    name: Smiley Alt
+    id: smiley-alt
+    unicode: f1f2
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Smiley
-    id:         smiley
-    unicode:    e63a
-    created:    1.0
+  - 
+    name: Smiley
+    id: smiley
+    unicode: f1f3
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Slideshare
-    id:         slideshare
-    unicode:    e63b
-    created:    1.0
+  - 
+    name: Slideshare
+    id: slideshare
+    unicode: f1f1
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Skype
-    id:         skype
-    unicode:    e63c
-    created:    1.0
+  - 
+    name: Skype
+    id: skype
+    unicode: f1f0
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Signal
-    id:         signal
-    unicode:    e63d
-    created:    1.0
+  - 
+    name: Signal
+    id: signal
+    unicode: f1ef
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Shopping Cart Sign
-    id:         shopping-cart-sign
-    unicode:    e63e
-    created:    1.0
+  - 
+    name: Shopping Cart Sign
+    id: shopping-cart-sign
+    unicode: f1ed
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Shopping Cart
-    id:         shopping-cart
-    unicode:    e63f
-    created:    1.0
+  - 
+    name: Shopping Cart
+    id: shopping-cart
+    unicode: f1ee
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Share Alt
-    id:         share-alt
-    unicode:    e640
-    created:    1.0
+  - 
+    name: Share Alt
+    id: share-alt
+    unicode: f1eb
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Share
-    id:         share
-    unicode:    e641
-    created:    1.0
+  - 
+    name: Share
+    id: share
+    unicode: f1ec
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Search Alt
-    id:         search-alt
-    unicode:    e642
-    created:    1.0
+  - 
+    name: Search Alt
+    id: search-alt
+    unicode: f1e9
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Search
-    id:         search
-    unicode:    e643
-    created:    1.0
+  - 
+    name: Search
+    id: search
+    unicode: f1ea
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Screenshot
-    id:         screenshot
-    unicode:    e644
-    created:    1.0
+  - 
+    name: Screenshot
+    id: screenshot
+    unicode: f1e8
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Screen Alt
-    id:         screen-alt
-    unicode:    e645
-    created:    1.0
+  - 
+    name: Screen Alt
+    id: screen-alt
+    unicode: f1e6
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Screen
-    id:         screen
-    unicode:    e646
-    created:    1.0
+  - 
+    name: Screen
+    id: screen
+    unicode: f1e7
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Scissors
-    id:         scissors
-    unicode:    e647
-    created:    1.0
+  - 
+    name: Scissors
+    id: scissors
+    unicode: f1e5
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Rss
-    id:         rss
-    unicode:    e648
-    created:    1.0
+  - 
+    name: Rss
+    id: rss
+    unicode: f1e4
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Road
-    id:         road
-    unicode:    e649
-    created:    1.0
+  - 
+    name: Road
+    id: road
+    unicode: f1e3
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Reverse Alt
-    id:         reverse-alt
-    unicode:    e64a
-    created:    1.0
+  - 
+    name: Reverse Alt
+    id: reverse-alt
+    unicode: f1e2
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Retweet
-    id:         retweet
-    unicode:    e64b
-    created:    1.0
+  - 
+    name: Retweet
+    id: retweet
+    unicode: f1e1
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Return Key
-    id:         return-key
-    unicode:    e64c
-    created:    1.0
+  - 
+    name: Return Key
+    id: return-key
+    unicode: f1e0
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Resize Vertical
-    id:         resize-vertical
-    unicode:    e64d
-    created:    1.0
+  - 
+    name: Resize Vertical
+    id: resize-vertical
+    unicode: f1df
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Resize Small
-    id:         resize-small
-    unicode:    e64e
-    created:    1.0
+  - 
+    name: Resize Small
+    id: resize-small
+    unicode: f1de
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Resize Horizontal
-    id:         resize-horizontal
-    unicode:    e64f
-    created:    1.0
+  - 
+    name: Resize Horizontal
+    id: resize-horizontal
+    unicode: f1dd
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Resize Full
-    id:         resize-full
-    unicode:    e650
-    created:    1.0
+  - 
+    name: Resize Full
+    id: resize-full
+    unicode: f1dc
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Repeat Alt
-    id:         repeat-alt
-    unicode:    e651
-    created:    1.0
+  - 
+    name: Repeat Alt
+    id: repeat-alt
+    unicode: f1da
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Repeat
-    id:         repeat
-    unicode:    e652
-    created:    1.0
+  - 
+    name: Repeat
+    id: repeat
+    unicode: f1db
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Remove Sign
-    id:         remove-sign
-    unicode:    e653
-    created:    1.0
+  - 
+    name: Remove Sign
+    id: remove-sign
+    unicode: f1d8
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Remove Circle
-    id:         remove-circle
-    unicode:    e654
-    created:    1.0
+  - 
+    name: Remove Circle
+    id: remove-circle
+    unicode: f1d7
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Remove
-    id:         remove
-    unicode:    e655
-    created:    1.0
+  - 
+    name: Remove
+    id: remove
+    unicode: f1d9
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Refresh
-    id:         refresh
-    unicode:    e656
-    created:    1.0
+  - 
+    name: Refresh
+    id: refresh
+    unicode: f1d6
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Reddit
-    id:         reddit
-    unicode:    e657
-    created:    1.0
+  - 
+    name: Reddit
+    id: reddit
+    unicode: f1d4
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Record
-    id:         record
-    unicode:    e658
-    created:    1.0
+  - 
+    name: Record
+    id: record
+    unicode: f1d3
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Random
-    id:         random
-    unicode:    e659
-    created:    1.0
+  - 
+    name: Random
+    id: random
+    unicode: f1d2
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Quotes Alt
-    id:         quotes-alt
-    unicode:    e65a
-    created:    1.0
+  - 
+    name: Quotes Alt
+    id: quotes-alt
+    unicode: f1d0
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Quotes
-    id:         quotes
-    unicode:    e65b
-    created:    1.0
+  - 
+    name: Quotes
+    id: quotes
+    unicode: f1d1
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Question Sign
-    id:         question-sign
-    unicode:    e65c
-    created:    1.0
+  - 
+    name: Question Sign
+    id: question-sign
+    unicode: f1ce
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Question
-    id:         question
-    unicode:    e65d
-    created:    1.0
+  - 
+    name: Question
+    id: question
+    unicode: f1cf
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Qrcode
-    id:         qrcode
-    unicode:    e65e
-    created:    1.0
+  - 
+    name: Qrcode
+    id: qrcode
+    unicode: f1cd
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Puzzle
-    id:         puzzle
-    unicode:    e65f
-    created:    1.0
+  - 
+    name: Puzzle
+    id: puzzle
+    unicode: f1cc
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Print
-    id:         print
-    unicode:    e660
-    created:    1.0
+  - 
+    name: Print
+    id: print
+    unicode: f1cb
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Podcast
-    id:         podcast
-    unicode:    e661
-    created:    1.0
+  - 
+    name: Podcast
+    id: podcast
+    unicode: f1ca
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Plus Sign
-    id:         plus-sign
-    unicode:    e662
-    created:    1.0
+  - 
+    name: Plus Sign
+    id: plus-sign
+    unicode: f1c8
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Plus
-    id:         plus
-    unicode:    e663
-    created:    1.0
+  - 
+    name: Plus
+    id: plus
+    unicode: f1c9
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Play Circle
-    id:         play-circle
-    unicode:    e664
-    created:    1.0
+  - 
+    name: Play Circle
+    id: play-circle
+    unicode: f1c6
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Play Alt
-    id:         play-alt
-    unicode:    e665
-    created:    1.0
+  - 
+    name: Play Alt
+    id: play-alt
+    unicode: f1c5
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Play
-    id:         play
-    unicode:    e666
-    created:    1.0
+  - 
+    name: Play
+    id: play
+    unicode: f1c7
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Plane
-    id:         plane
-    unicode:    e667
-    created:    1.0
+  - 
+    name: Plane
+    id: plane
+    unicode: f1c4
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Pinterest
-    id:         pinterest
-    unicode:    e668
-    created:    1.0
+  - 
+    name: Pinterest
+    id: pinterest
+    unicode: f1c3
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Picture
-    id:         picture
-    unicode:    e669
-    created:    1.0
+  - 
+    name: Picture
+    id: picture
+    unicode: f1c2
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Picasa
-    id:         picasa
-    unicode:    e66a
-    created:    1.0
+  - 
+    name: Picasa
+    id: picasa
+    unicode: f1c1
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Photo Alt
-    id:         photo-alt
-    unicode:    e66b
-    created:    1.0
+  - 
+    name: Photo Alt
+    id: photo-alt
+    unicode: f1bf
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Photo
-    id:         photo
-    unicode:    e66c
-    created:    1.0
+  - 
+    name: Photo
+    id: photo
+    unicode: f1c0
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Phone Alt
-    id:         phone-alt
-    unicode:    e66d
-    created:    1.0
+  - 
+    name: Phone Alt
+    id: phone-alt
+    unicode: f1bd
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Phone
-    id:         phone
-    unicode:    e66e
-    created:    1.0
+  - 
+    name: Phone
+    id: phone
+    unicode: f1be
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Person
-    id:         person
-    unicode:    e66f
-    created:    1.0
+  - 
+    name: Person
+    id: person
+    unicode: f1bc
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Pencil Alt
-    id:         pencil-alt
-    unicode:    e670
-    created:    1.0
+  - 
+    name: Pencil Alt
+    id: pencil-alt
+    unicode: f1ba
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Pencil
-    id:         pencil
-    unicode:    e671
-    created:    1.0
+  - 
+    name: Pencil
+    id: pencil
+    unicode: f1bb
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Pause Alt
-    id:         pause-alt
-    unicode:    e672
-    created:    1.0
+  - 
+    name: Pause Alt
+    id: pause-alt
+    unicode: f1b8
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Pause
-    id:         pause
-    unicode:    e673
-    created:    1.0
+  - 
+    name: Pause
+    id: pause
+    unicode: f1b9
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Path
-    id:         path
-    unicode:    e674
-    created:    1.0
+  - 
+    name: Path
+    id: path
+    unicode: f1b7
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Paper Clip Alt
-    id:         paper-clip-alt
-    unicode:    e675
-    created:    1.0
+  - 
+    name: Paper Clip Alt
+    id: paper-clip-alt
+    unicode: f1b5
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Paper Clip
-    id:         paper-clip
-    unicode:    e676
-    created:    1.0
+  - 
+    name: Paper Clip
+    id: paper-clip
+    unicode: f1b6
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Opensource
-    id:         opensource
-    unicode:    e677
-    created:    1.0
+  - 
+    name: Opensource
+    id: opensource
+    unicode: f1b4
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Ok Sign
-    id:         ok-sign
-    unicode:    e678
-    created:    1.0
+  - 
+    name: Ok Sign
+    id: ok-sign
+    unicode: f1b2
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Ok Circle
-    id:         ok-circle
-    unicode:    e679
-    created:    1.0
+  - 
+    name: Ok Circle
+    id: ok-circle
+    unicode: f1b1
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Ok
-    id:         ok
-    unicode:    e67a
-    created:    1.0
+  - 
+    name: Ok
+    id: ok
+    unicode: f1b3
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Off2
-    id:         off2
-    unicode:    e67b
-    created:    1.0
+  - 
+    name: Network
+    id: network
+    unicode: f1af
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Network
-    id:         network
-    unicode:    e67c
-    created:    1.0
+  - 
+    name: Myspace
+    id: myspace
+    unicode: f1ae
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Myspace
-    id:         myspace
-    unicode:    e67d
-    created:    1.0
+  - 
+    name: Music
+    id: music
+    unicode: f1ad
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Music
-    id:         music
-    unicode:    e67e
-    created:    1.0
+  - 
+    name: Move
+    id: move
+    unicode: f1ac
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Move
-    id:         move
-    unicode:    e67f
-    created:    1.0
+  - 
+    name: Minus Sign
+    id: minus-sign
+    unicode: f1aa
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Minus Sign
-    id:         minus-sign
-    unicode:    e680
-    created:    1.0
+  - 
+    name: Minus
+    id: minus
+    unicode: f1ab
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Minus
-    id:         minus
-    unicode:    e681
-    created:    1.0
+  - 
+    name: Mic Alt
+    id: mic-alt
+    unicode: f1a8
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Mic Alt
-    id:         mic-alt
-    unicode:    e682
-    created:    1.0
+  - 
+    name: Mic
+    id: mic
+    unicode: f1a9
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Mic
-    id:         mic
-    unicode:    e683
-    created:    1.0
+  - 
+    name: Map Marker Alt
+    id: map-marker-alt
+    unicode: f1a6
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Map Marker Alt
-    id:         map-marker-alt
-    unicode:    e684
-    created:    1.0
+  - 
+    name: Map Marker
+    id: map-marker
+    unicode: f1a7
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Map Marker
-    id:         map-marker
-    unicode:    e685
-    created:    1.0
+  - 
+    name: Male
+    id: male
+    unicode: f1a5
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Male
-    id:         male
-    unicode:    e686
-    created:    1.0
+  - 
+    name: Magnet
+    id: magnet
+    unicode: f1a4
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Magnet
-    id:         magnet
-    unicode:    e687
-    created:    1.0
+  - 
+    name: Magic
+    id: magic
+    unicode: f1a3
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Magic
-    id:         magic
-    unicode:    e688
-    created:    1.0
+  - 
+    name: Lock Alt
+    id: lock-alt
+    unicode: f1a1
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Lock Alt
-    id:         lock-alt
-    unicode:    e689
-    created:    1.0
+  - 
+    name: Lock
+    id: lock
+    unicode: f1a2
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Lock
-    id:         lock
-    unicode:    e68a
-    created:    1.0
+  - 
+    name: Livejournal
+    id: livejournal
+    unicode: f1a0
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Livejournal
-    id:         livejournal
-    unicode:    e68b
-    created:    1.0
+  - 
+    name: List Alt
+    id: list-alt
+    unicode: f19e
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       List Alt
-    id:         list-alt
-    unicode:    e68c
-    created:    1.0
+  - 
+    name: List
+    id: list
+    unicode: f19f
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       List
-    id:         list
-    unicode:    e68d
-    created:    1.0
+  - 
+    name: Linkedin
+    id: linkedin
+    unicode: f19d
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Linkedin
-    id:         linkedin
-    unicode:    e68e
-    created:    1.0
+  - 
+    name: Link
+    id: link
+    unicode: f19c
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Link
-    id:         link
-    unicode:    e68f
-    created:    1.0
+  - 
+    name: Lines
+    id: lines
+    unicode: f19b
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Lines
-    id:         lines
-    unicode:    e690
-    created:    1.0
+  - 
+    name: Leaf
+    id: leaf
+    unicode: f19a
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Leaf
-    id:         leaf
-    unicode:    e691
-    created:    1.0
+  - 
+    name: Lastfm
+    id: lastfm
+    unicode: f199
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Lastfm
-    id:         lastfm
-    unicode:    e692
-    created:    1.0
+  - 
+    name: Laptop Alt
+    id: laptop-alt
+    unicode: f197
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Laptop Alt
-    id:         laptop-alt
-    unicode:    e693
-    created:    1.0
+  - 
+    name: Laptop
+    id: laptop
+    unicode: f198
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Laptop
-    id:         laptop
-    unicode:    e694
-    created:    1.0
+  - 
+    name: Key
+    id: key
+    unicode: f196
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Key
-    id:         key
-    unicode:    e695
-    created:    1.0
+  - 
+    name: Italic
+    id: italic
+    unicode: f195
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Italic
-    id:         italic
-    unicode:    e696
-    created:    1.0
+  - 
+    name: Iphone Home
+    id: iphone-home
+    unicode: f194
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Iphone Home
-    id:         iphone-home
-    unicode:    e697
-    created:    1.0
+  - 
+    name: Instagram
+    id: instagram
+    unicode: f193
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Instagram
-    id:         instagram
-    unicode:    e698
-    created:    1.0
+  - 
+    name: Info Sign
+    id: info-sign
+    unicode: f192
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Info Sign
-    id:         info-sign
-    unicode:    e699
-    created:    1.0
+  - 
+    name: Indent Right
+    id: indent-right
+    unicode: f191
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Indent Right
-    id:         indent-right
-    unicode:    e69a
-    created:    1.0
+  - 
+    name: Indent Left
+    id: indent-left
+    unicode: f190
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Indent Left
-    id:         indent-left
-    unicode:    e69b
-    created:    1.0
+  - 
+    name: Inbox Box
+    id: inbox-box
+    unicode: f18e
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Inbox Box
-    id:         inbox-box
-    unicode:    e69c
-    created:    1.0
+  - 
+    name: Inbox Alt
+    id: inbox-alt
+    unicode: f18d
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Inbox Alt
-    id:         inbox-alt
-    unicode:    e69d
-    created:    1.0
+  - 
+    name: Inbox
+    id: inbox
+    unicode: f18f
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Inbox
-    id:         inbox
-    unicode:    e69e
-    created:    1.0
+  - 
+    name: Idea Alt
+    id: idea-alt
+    unicode: f18b
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Idea Alt
-    id:         idea-alt
-    unicode:    e69f
-    created:    1.0
+  - 
+    name: Idea
+    id: idea
+    unicode: f18c
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Idea
-    id:         idea
-    unicode:    e6a0
-    created:    1.0
+  - 
+    name: Hourglass
+    id: hourglass
+    unicode: f18a
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Hourglass
-    id:         hourglass
-    unicode:    e6a1
-    created:    1.0
+  - 
+    name: Home Alt
+    id: home-alt
+    unicode: f188
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Home Alt
-    id:         home-alt
-    unicode:    e6a2
-    created:    1.0
+  - 
+    name: Home
+    id: home
+    unicode: f189
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Home
-    id:         home
-    unicode:    e6a3
-    created:    1.0
+  - 
+    name: Heart Empty
+    id: heart-empty
+    unicode: f186
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Heart Empty
-    id:         heart-empty
-    unicode:    e6a4
-    created:    1.0
+  - 
+    name: Heart Alt
+    id: heart-alt
+    unicode: f185
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Heart Alt
-    id:         heart-alt
-    unicode:    e6a5
-    created:    1.0
+  - 
+    name: Heart
+    id: heart
+    unicode: f187
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Heart
-    id:         heart
-    unicode:    e6a6
-    created:    1.0
+  - 
+    name: Hearing Impaired
+    id: hearing-impaired
+    unicode: f184
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Hearing Impaired
-    id:         hearing-impaired
-    unicode:    e6a7
-    created:    1.0
+  - 
+    name: Headphones
+    id: headphones
+    unicode: f183
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Headphones
-    id:         headphones
-    unicode:    e6a8
-    created:    1.0
+  - 
+    name: Hdd
+    id: hdd
+    unicode: f182
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Hdd
-    id:         hdd
-    unicode:    e6a9
-    created:    1.0
+  - 
+    name: Hand Up
+    id: hand-up
+    unicode: f181
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Hand Up
-    id:         hand-up
-    unicode:    e6aa
-    created:    1.0
+  - 
+    name: Hand Right
+    id: hand-right
+    unicode: f180
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Hand Right
-    id:         hand-right
-    unicode:    e6ab
-    created:    1.0
+  - 
+    name: Hand Left
+    id: hand-left
+    unicode: f17f
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Hand Left
-    id:         hand-left
-    unicode:    e6ac
-    created:    1.0
+  - 
+    name: Hand Down
+    id: hand-down
+    unicode: f17e
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Hand Down
-    id:         hand-down
-    unicode:    e6ad
-    created:    1.0
+  - 
+    name: Guidedog
+    id: guidedog
+    unicode: f17d
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Guidedog
-    id:         guidedog
-    unicode:    e6ae
-    created:    1.0
+  - 
+    name: Group Alt
+    id: group-alt
+    unicode: f17b
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Group Alt
-    id:         group-alt
-    unicode:    e6af
-    created:    1.0
+  - 
+    name: Group
+    id: group
+    unicode: f17c
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Group
-    id:         group
-    unicode:    e6b0
-    created:    1.0
+  - 
+    name: Graph Alt
+    id: graph-alt
+    unicode: f179
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Graph Alt
-    id:         graph-alt
-    unicode:    e6b1
-    created:    1.0
+  - 
+    name: Graph
+    id: graph
+    unicode: f17a
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Graph
-    id:         graph
-    unicode:    e6b2
-    created:    1.0
+  - 
+    name: Googleplus
+    id: googleplus
+    unicode: f178
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Googleplus
-    id:         googleplus
-    unicode:    e6b3
-    created:    1.0
+  - 
+    name: Globe Alt
+    id: globe-alt
+    unicode: f176
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Globe Alt
-    id:         globe-alt
-    unicode:    e6b4
-    created:    1.0
+  - 
+    name: Globe
+    id: globe
+    unicode: f177
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Globe
-    id:         globe
-    unicode:    e6b5
-    created:    1.0
+  - 
+    name: Glasses
+    id: glasses
+    unicode: f175
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Glasses
-    id:         glasses
-    unicode:    e6b6
-    created:    1.0
+  - 
+    name: Glass
+    id: glass
+    unicode: f174
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Glass
-    id:         glass
-    unicode:    e6b7
-    created:    1.0
+  - 
+    name: Github Text
+    id: github-text
+    unicode: f172
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Github Text
-    id:         github-text
-    unicode:    e6b8
-    created:    1.0
+  - 
+    name: Github
+    id: github
+    unicode: f173
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Github
-    id:         github
-    unicode:    e6b9
-    created:    1.0
+  - 
+    name: Gift
+    id: gift
+    unicode: f171
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Gift
-    id:         gift
-    unicode:    e6ba
-    created:    1.0
+  - 
+    name: Gbp
+    id: gbp
+    unicode: f170
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Gbp
-    id:         gbp
-    unicode:    e6bb
-    created:    1.0
+  - 
+    name: Fullscreen
+    id: fullscreen
+    unicode: f16f
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Fullscreen
-    id:         fullscreen
-    unicode:    e6bc
-    created:    1.0
+  - 
+    name: Friendfeed Rect
+    id: friendfeed-rect
+    unicode: f16d
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Friendfeed Rect
-    id:         friendfeed-rect
-    unicode:    e6bd
-    created:    1.0
+  - 
+    name: Friendfeed
+    id: friendfeed
+    unicode: f16e
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Friendfeed
-    id:         friendfeed
-    unicode:    e6be
-    created:    1.0
+  - 
+    name: Foursquare
+    id: foursquare
+    unicode: f16c
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Foursquare
-    id:         foursquare
-    unicode:    e6bf
-    created:    1.0
+  - 
+    name: Forward Alt
+    id: forward-alt
+    unicode: f16a
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Forward Alt
-    id:         forward-alt
-    unicode:    e6c0
-    created:    1.0
+  - 
+    name: Forward
+    id: forward
+    unicode: f16b
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Forward
-    id:         forward
-    unicode:    e6c1
-    created:    1.0
+  - 
+    name: Fork
+    id: fork
+    unicode: f169
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Fork
-    id:         fork
-    unicode:    e6c2
-    created:    1.0
+  - 
+    name: Fontsize
+    id: fontsize
+    unicode: f168
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Fontsize
-    id:         fontsize
-    unicode:    e6c3
-    created:    1.0
+  - 
+    name: Font
+    id: font
+    unicode: f167
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Font
-    id:         font
-    unicode:    e6c4
-    created:    1.0
+  - 
+    name: Folder Sign
+    id: folder-sign
+    unicode: f165
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Folder Sign
-    id:         folder-sign
-    unicode:    e6c5
-    created:    1.0
+  - 
+    name: Folder Open
+    id: folder-open
+    unicode: f164
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Folder Open
-    id:         folder-open
-    unicode:    e6c6
-    created:    1.0
+  - 
+    name: Folder Close
+    id: folder-close
+    unicode: f163
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Folder Close
-    id:         folder-close
-    unicode:    e6c7
-    created:    1.0
+  - 
+    name: Folder
+    id: folder
+    unicode: f166
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Folder
-    id:         folder
-    unicode:    e6c8
-    created:    1.0
+  - 
+    name: Flickr
+    id: flickr
+    unicode: f162
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Flickr
-    id:         flickr
-    unicode:    e6c9
-    created:    1.0
+  - 
+    name: Flag Alt
+    id: flag-alt
+    unicode: f160
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Flag Alt
-    id:         flag-alt
-    unicode:    e6ca
-    created:    1.0
+  - 
+    name: Flag
+    id: flag
+    unicode: f161
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Flag
-    id:         flag
-    unicode:    e6cb
-    created:    1.0
+  - 
+    name: Fire
+    id: fire
+    unicode: f15f
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Fire
-    id:         fire
-    unicode:    e6cc
-    created:    1.0
+  - 
+    name: Filter
+    id: filter
+    unicode: f15e
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Filter
-    id:         filter
-    unicode:    e6cd
-    created:    1.0
+  - 
+    name: Film
+    id: film
+    unicode: f15d
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Film
-    id:         film
-    unicode:    e6ce
-    created:    1.0
+  - 
+    name: File New Alt
+    id: file-new-alt
+    unicode: f15a
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       File New Alt
-    id:         file-new-alt
-    unicode:    e6cf
-    created:    1.0
+  - 
+    name: File New
+    id: file-new
+    unicode: f15b
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       File New
-    id:         file-new
-    unicode:    e6d0
-    created:    1.0
+  - 
+    name: File Edit Alt
+    id: file-edit-alt
+    unicode: f158
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       File Edit Alt
-    id:         file-edit-alt
-    unicode:    e6d1
-    created:    1.0
+  - 
+    name: File Edit
+    id: file-edit
+    unicode: f159
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       File Edit
-    id:         file-edit
-    unicode:    e6d2
-    created:    1.0
+  - 
+    name: File Alt
+    id: file-alt
+    unicode: f157
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       File Alt
-    id:         file-alt
-    unicode:    e6d3
-    created:    1.0
+  - 
+    name: File
+    id: file
+    unicode: f15c
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       File
-    id:         file
-    unicode:    e6d4
-    created:    1.0
+  - 
+    name: Female
+    id: female
+    unicode: f156
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Female
-    id:         female
-    unicode:    e6d5
-    created:    1.0
+  - 
+    name: Fast Forward
+    id: fast-forward
+    unicode: f155
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Fast Forward
-    id:         fast-forward
-    unicode:    e6d6
-    created:    1.0
+  - 
+    name: Fast Backward
+    id: fast-backward
+    unicode: f154
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Fast Backward
-    id:         fast-backward
-    unicode:    e6d7
-    created:    1.0
+  - 
+    name: Facetime Video
+    id: facetime-video
+    unicode: f153
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Facetime Video
-    id:         facetime-video
-    unicode:    e6d8
-    created:    1.0
+  - 
+    name: Facebook
+    id: facebook
+    unicode: f152
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Facebook
-    id:         facebook
-    unicode:    e6d9
-    created:    1.0
+  - 
+    name: Eye Open
+    id: eye-open
+    unicode: f151
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Eye Open
-    id:         eye-open
-    unicode:    e6da
-    created:    1.0
+  - 
+    name: Eye Close
+    id: eye-close
+    unicode: f150
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Eye Close
-    id:         eye-close
-    unicode:    e6db
-    created:    1.0
+  - 
+    name: Exclamation Sign
+    id: exclamation-sign
+    unicode: f14f
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Exclamation Sign
-    id:         exclamation-sign
-    unicode:    e6dc
-    created:    1.0
+  - 
+    name: Eur
+    id: eur
+    unicode: f14e
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Eur
-    id:         eur
-    unicode:    e6dd
-    created:    1.0
+  - 
+    name: Error Alt
+    id: error-alt
+    unicode: f14c
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Error Alt
-    id:         error-alt
-    unicode:    e6de
-    created:    1.0
+  - 
+    name: Error
+    id: error
+    unicode: f14d
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Error
-    id:         error
-    unicode:    e6df
-    created:    1.0
+  - 
+    name: Envelope Alt
+    id: envelope-alt
+    unicode: f14a
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Envelope Alt
-    id:         envelope-alt
-    unicode:    e6e0
-    created:    1.0
+  - 
+    name: Envelope
+    id: envelope
+    unicode: f14b
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Envelope
-    id:         envelope
-    unicode:    e6e1
-    created:    1.0
+  - 
+    name: Eject
+    id: eject
+    unicode: f149
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Eject
-    id:         eject
-    unicode:    e6e2
-    created:    1.0
+  - 
+    name: Edit
+    id: edit
+    unicode: f148
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Edit
-    id:         edit
-    unicode:    e6e3
-    created:    1.0
+  - 
+    name: Dribbble
+    id: dribbble
+    unicode: f147
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Dribbble
-    id:         dribbble
-    unicode:    e6e4
-    created:    1.0
+  - 
+    name: Download Alt
+    id: download-alt
+    unicode: f145
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Download Alt
-    id:         download-alt
-    unicode:    e6e5
-    created:    1.0
+  - 
+    name: Download
+    id: download
+    unicode: f146
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Download
-    id:         download
-    unicode:    e6e6
-    created:    1.0
+  - 
+    name: Digg
+    id: digg
+    unicode: f144
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Digg
-    id:         digg
-    unicode:    e6e7
-    created:    1.0
+  - 
+    name: Deviantart
+    id: deviantart
+    unicode: f143
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Deviantart
-    id:         deviantart
-    unicode:    e6e8
-    created:    1.0
+  - 
+    name: Delicious
+    id: delicious
+    unicode: f142
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Delicious
-    id:         delicious
-    unicode:    e6e9
-    created:    1.0
+  - 
+    name: Dashboard
+    id: dashboard
+    unicode: f141
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Dashboard
-    id:         dashboard
-    unicode:    e6ea
-    created:    1.0
+  - 
+    name: Css
+    id: css
+    unicode: f140
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Css
-    id:         css
-    unicode:    e6eb
-    created:    1.0
+  - 
+    name: Credit Card
+    id: credit-card
+    unicode: f13f
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Credit Card
-    id:         credit-card
-    unicode:    e6ec
-    created:    1.0
+  - 
+    name: Compass Alt
+    id: compass-alt
+    unicode: f13d
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Compass Alt
-    id:         compass-alt
-    unicode:    e6ed
-    created:    1.0
+  - 
+    name: Compass
+    id: compass
+    unicode: f13e
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Compass
-    id:         compass
-    unicode:    e6ee
-    created:    1.0
+  - 
+    name: Comment Alt
+    id: comment-alt
+    unicode: f13b
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Comment Alt
-    id:         comment-alt
-    unicode:    e6ef
-    created:    1.0
+  - 
+    name: Comment
+    id: comment
+    unicode: f13c
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Comment
-    id:         comment
-    unicode:    e6f0
-    created:    1.0
+  - 
+    name: Cogs
+    id: cogs
+    unicode: f13a
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Cogs
-    id:         cogs
-    unicode:    e6f1
-    created:    1.0
+  - 
+    name: Cog Alt
+    id: cog-alt
+    unicode: f138
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Cog Alt
-    id:         cog-alt
-    unicode:    e6f2
-    created:    1.0
+  - 
+    name: Cog
+    id: cog
+    unicode: f139
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Cog
-    id:         cog
-    unicode:    e6f3
-    created:    1.0
+  - 
+    name: Cloud Alt
+    id: cloud-alt
+    unicode: f136
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Cloud Alt
-    id:         cloud-alt
-    unicode:    e6f4
-    created:    1.0
+  - 
+    name: Cloud
+    id: cloud
+    unicode: f137
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Cloud
-    id:         cloud
-    unicode:    e6f5
-    created:    1.0
+  - 
+    name: Circle Arrow Up
+    id: circle-arrow-up
+    unicode: f135
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Circle Arrow Up
-    id:         circle-arrow-up
-    unicode:    e6f6
-    created:    1.0
+  - 
+    name: Circle Arrow Right
+    id: circle-arrow-right
+    unicode: f134
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Circle Arrow Right
-    id:         circle-arrow-right
-    unicode:    e6f7
-    created:    1.0
+  - 
+    name: Circle Arrow Left
+    id: circle-arrow-left
+    unicode: f133
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Circle Arrow Left
-    id:         circle-arrow-left
-    unicode:    e6f8
-    created:    1.0
+  - 
+    name: Circle Arrow Down
+    id: circle-arrow-down
+    unicode: f132
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Circle Arrow Down
-    id:         circle-arrow-down
-    unicode:    e6f9
-    created:    1.0
+  - 
+    name: Child
+    id: child
+    unicode: f131
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Child
-    id:         child
-    unicode:    e6fa
-    created:    1.0
+  - 
+    name: Chevron Up
+    id: chevron-up
+    unicode: f130
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Chevron Up
-    id:         chevron-up
-    unicode:    e6fb
-    created:    1.0
+  - 
+    name: Chevron Right
+    id: chevron-right
+    unicode: f12f
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Chevron Right
-    id:         chevron-right
-    unicode:    e6fc
-    created:    1.0
+  - 
+    name: Chevron Left
+    id: chevron-left
+    unicode: f12e
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Chevron Left
-    id:         chevron-left
-    unicode:    e6fd
-    created:    1.0
+  - 
+    name: Chevron Down
+    id: chevron-down
+    unicode: f12d
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Chevron Down
-    id:         chevron-down
-    unicode:    e6fe
-    created:    1.0
+  - 
+    name: Check Empty
+    id: check-empty
+    unicode: f12b
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Check Empty
-    id:         check-empty
-    unicode:    e6ff
-    created:    1.0
+  - 
+    name: Check
+    id: check
+    unicode: f12c
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Check
-    id:         check
-    unicode:    e700
-    created:    1.0
+  - 
+    name: Certificate
+    id: certificate
+    unicode: f12a
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Certificate
-    id:         certificate
-    unicode:    e701
-    created:    1.0
+  - 
+    name: Cc
+    id: cc
+    unicode: f129
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Cc
-    id:         cc
-    unicode:    e702
-    created:    1.0
+  - 
+    name: Caret Up
+    id: caret-up
+    unicode: f128
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Caret Up
-    id:         caret-up
-    unicode:    e703
-    created:    1.0
+  - 
+    name: Caret Right
+    id: caret-right
+    unicode: f127
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Caret Right
-    id:         caret-right
-    unicode:    e704
-    created:    1.0
+  - 
+    name: Caret Left
+    id: caret-left
+    unicode: f126
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Caret Left
-    id:         caret-left
-    unicode:    e705
-    created:    1.0
+  - 
+    name: Caret Down
+    id: caret-down
+    unicode: f125
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Caret Down
-    id:         caret-down
-    unicode:    e706
-    created:    1.0
+  - 
+    name: Car
+    id: car
+    unicode: f124
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Car
-    id:         car
-    unicode:    e707
-    created:    1.0
+  - 
+    name: Camera
+    id: camera
+    unicode: f123
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Camera
-    id:         camera
-    unicode:    e708
-    created:    1.0
+  - 
+    name: Calendar Sign
+    id: calendar-sign
+    unicode: f121
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Calendar Sign
-    id:         calendar-sign
-    unicode:    e709
-    created:    1.0
+  - 
+    name: Calendar
+    id: calendar
+    unicode: f122
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Calendar
-    id:         calendar
-    unicode:    e70a
-    created:    1.0
+  - 
+    name: Bullhorn
+    id: bullhorn
+    unicode: f120
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Bullhorn
-    id:         bullhorn
-    unicode:    e70b
-    created:    1.0
+  - 
+    name: Bulb
+    id: bulb
+    unicode: f11f
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Bulb
-    id:         bulb
-    unicode:    e70c
-    created:    1.0
+  - 
+    name: Brush
+    id: brush
+    unicode: f11e
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Brush
-    id:         brush
-    unicode:    e70d
-    created:    1.0
+  - 
+    name: Broom
+    id: broom
+    unicode: f11d
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Broom
-    id:         broom
-    unicode:    e70e
-    created:    1.0
+  - 
+    name: Briefcase
+    id: briefcase
+    unicode: f11c
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Briefcase
-    id:         briefcase
-    unicode:    e70f
-    created:    1.0
+  - 
+    name: Braille
+    id: braille
+    unicode: f11b
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Braille
-    id:         braille
-    unicode:    e710
-    created:    1.0
+  - 
+    name: Bookmark Empty
+    id: bookmark-empty
+    unicode: f119
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Bookmark Empty
-    id:         bookmark-empty
-    unicode:    e711
-    created:    1.0
+  - 
+    name: Bookmark
+    id: bookmark
+    unicode: f11a
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Bookmark
-    id:         bookmark
-    unicode:    e712
-    created:    1.0
+  - 
+    name: Book
+    id: book
+    unicode: f118
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Book
-    id:         book
-    unicode:    e713
-    created:    1.0
+  - 
+    name: Bold
+    id: bold
+    unicode: f117
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Bold
-    id:         bold
-    unicode:    e714
-    created:    1.0
+  - 
+    name: Blogger
+    id: blogger
+    unicode: f116
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Blogger
-    id:         blogger
-    unicode:    e715
-    created:    1.0
+  - 
+    name: Blind
+    id: blind
+    unicode: f115
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Blind
-    id:         blind
-    unicode:    e716
-    created:    1.0
+  - 
+    name: Bell
+    id: bell
+    unicode: f114
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Bell
-    id:         bell
-    unicode:    e717
-    created:    1.0
+  - 
+    name: Behance
+    id: behance
+    unicode: f113
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Behance
-    id:         behance
-    unicode:    e718
-    created:    1.0
+  - 
+    name: Barcode
+    id: barcode
+    unicode: f112
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Barcode
-    id:         barcode
-    unicode:    e719
-    created:    1.0
+  - 
+    name: Ban Circle
+    id: ban-circle
+    unicode: f111
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Ban Circle
-    id:         ban-circle
-    unicode:    e71a
-    created:    1.0
+  - 
+    name: Backward
+    id: backward
+    unicode: f110
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Backward
-    id:         backward
-    unicode:    e71b
-    created:    1.0
+  - 
+    name: Asl
+    id: asl
+    unicode: f10e
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Asl
-    id:         asl
-    unicode:    e71c
-    created:    1.0
+  - 
+    name: Arrow Up
+    id: arrow-up
+    unicode: f10d
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Arrow Up
-    id:         arrow-up
-    unicode:    e71d
-    created:    1.0
+  - 
+    name: Arrow Right
+    id: arrow-right
+    unicode: f10c
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Arrow Right
-    id:         arrow-right
-    unicode:    e71e
-    created:    1.0
+  - 
+    name: Arrow Left
+    id: arrow-left
+    unicode: f10b
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Arrow Left
-    id:         arrow-left
-    unicode:    e71f
-    created:    1.0
+  - 
+    name: Arrow Down
+    id: arrow-down
+    unicode: f10a
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Arrow Down
-    id:         arrow-down
-    unicode:    e720
-    created:    1.0
+  - 
+    name: Align Right
+    id: align-right
+    unicode: f109
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Align Right
-    id:         align-right
-    unicode:    e721
-    created:    1.0
+  - 
+    name: Align Left
+    id: align-left
+    unicode: f108
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Align Left
-    id:         align-left
-    unicode:    e722
-    created:    1.0
+  - 
+    name: Align Justify
+    id: align-justify
+    unicode: f107
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Align Justify
-    id:         align-justify
-    unicode:    e723
-    created:    1.0
+  - 
+    name: Align Center
+    id: align-center
+    unicode: f106
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Align Center
-    id:         align-center
-    unicode:    e724
-    created:    1.0
+  - 
+    name: Adult
+    id: adult
+    unicode: f105
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Adult
-    id:         adult
-    unicode:    e725
-    created:    1.0
+  - 
+    name: Adjust Alt
+    id: adjust-alt
+    unicode: f103
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Adjust Alt
-    id:         adjust-alt
-    unicode:    e726
-    created:    1.0
+  - 
+    name: Adjust
+    id: adjust
+    unicode: f104
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Adjust
-    id:         adjust
-    unicode:    e727
-    created:    1.0
+  - 
+    name: Address Book Alt
+    id: address-book-alt
+    unicode: f101
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Address Book Alt
-    id:         address-book-alt
-    unicode:    e728
-    created:    1.0
+  - 
+    name: Address Book
+    id: address-book
+    unicode: f102
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Address Book
-    id:         address-book
-    unicode:    e729
-    created:    1.0
+  - 
+    name: Asterisk
+    id: asterisk
+    unicode: f10f
+    created: "1.0"
     filter:
       - elusiveicons
     categories:
       - Web Application Icons
-
-  - name:       Asterisk
-    id:         asterisk
-    unicode:    e72a
-    created:    1.0
+  - 
+    name: 'off'
+    id: 'off'
+    unicode: f1b0
+    created: "2.0"
     filter:
-      - elusiveicons
+      - 'off'
+    categories:
+      - Web Application Icons
+  - 
+    name: redux
+    id: redux
+    unicode: f1d5
+    created: "2.0"
+    filter:
+      - redux
     categories:
       - Web Application Icons

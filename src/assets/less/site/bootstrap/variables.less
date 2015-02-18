@@ -52,26 +52,27 @@
 @font-family-alt:       proxima-nova-sc-osf, "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 
+
 // BOOTSTRAP OVERRIDES
 // -------------------
 
 // Brand colors
-@brand-success:         mix(@el-green, #fff, 70%);
+@brand-success:         mix(@purple-dark, #fff, 70%);
 
 
 // Links
-@link-color:            lighten(@el-green, 5%);
-@link-hover-color:      darken(@el-green, 5%);
+@link-color:            lighten(@purple-dark, 5%);
+@link-hover-color:      darken(@purple-dark, 5%);
 
 
 // Typography
-@font-family-sans-serif:  proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
-@font-family-serif:       museo-slab, Georgia, "Times New Roman", Times, serif;
+@font-family-sans-serif:  'Open Sans', Helvetica, Arial, sans-serif;
+@font-family-serif:       'Dosis', Georgia, "Times New Roman", Times, serif;
 @headings-font-family:    @font-family-serif;
 
 
 // Components
-@component-active-bg:            @el-green;
+@component-active-bg:            @purple-dark;
 
 
 // Navbar
@@ -79,28 +80,28 @@
 @navbar-inverse-brand-color:        #fff;
 
 // Reset inverted navbar basics
-@navbar-inverse-color:                      mix(@el-green, #fff, 50%);
-@navbar-inverse-bg:                         @el-green;
+@navbar-inverse-color:                      mix(@purple-dark, #fff, 50%);
+@navbar-inverse-bg:                         @purple-dark;
 @navbar-inverse-border:                     @jumbotron-border;
 
 // Inverted navbar links
-@navbar-inverse-link-color:                 mix(@el-green, #fff, 35%);
+@navbar-inverse-link-color:                 mix(@purple-dark, #fff, 35%);
 @navbar-inverse-link-hover-color:           #fff;
 @navbar-inverse-link-active-bg:             @navbar-inverse-border;
 
 // Inverted navbar toggle
 @navbar-inverse-toggle-hover-bg:            @jumbotron-color;
-@navbar-inverse-toggle-border-color:        mix(@jumbotron-color, @el-green, 75%);
+@navbar-inverse-toggle-border-color:        mix(@jumbotron-color, @purple-dark, 75%);
 
 
 // Jumbotron
 @jumbotron-color:               #fff;
-@jumbotron-bg:                  @el-green;
+@jumbotron-bg:                  @purple-dark;
 
 
 // Form states and alerts
-@state-success-text:            @el-green;
-@state-success-bg:              mix(@el-green, #fff, 6%);
+@state-success-text:            @purple-dark;
+@state-success-bg:              mix(@purple-dark, #fff, 6%);
 @state-success-border:          darken(spin(@state-success-bg, -10), 5%);
 
 @state-info-text:               mix(@blue-dark, @blue, 50%);
@@ -111,7 +112,7 @@
 // Carousel
 @carousel-text-shadow:          0 1px 0 rgba(255,255,255,0.25);
 
-@carousel-control-color:        @el-green-dark;
+@carousel-control-color:        @purple-darker;
 @carousel-control-font-size:    30px;
 
 
