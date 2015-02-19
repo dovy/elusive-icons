@@ -1,6 +1,7 @@
+{% assign icons_spinner = icons | expand_aliases | category:"Spinner Icons" | sort_by:'class' %}
+{% if icons_spinner != empty %}
 <section id="spinner">
   <h2 class="page-header">Spinner Icons</h2>
-
   <div class="alert alert-success">
     <ul class="el-ul">
       <li>
@@ -10,12 +11,10 @@
       </li>
     </ul>
   </div>
-
   <div class="row elusiveicons-icon-list">
-    {% assign icons_spinner = icons | expand_aliases | category:"Spinner Icons" | sort_by:'class' %}
-
     {% for icon in icons_spinner %}
       <div class="el-hover col-md-3 col-sm-4"><a href="{{ page.relative_path }}icon/{{ icon.id }}"><i class="el el-{{ icon.class }}"></i> {{ icon.class }}{% if icon.alias_of %} <span class="text-muted">(alias)</span>{% endif %}</a></div>
     {% endfor %}
   </div>
 </section>
+{% endif %}

@@ -5,2293 +5,2793 @@ icons:
     unicode: f22c
     created: "1.0"
     filter:
-      - elusiveicons
+      - zoom
+      - out
+      - Zoom Out
+      - zoom-out
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Zoom In
     id: zoom-in
     unicode: f22b
     created: "1.0"
     filter:
-      - elusiveicons
+      - zoom
+      - in
+      - Zoom In
+      - zoom-in
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Youtube
     id: youtube
     unicode: f22a
     created: "1.0"
     filter:
-      - elusiveicons
+      - youtube
+      - Youtube
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Wrench Alt
     id: wrench-alt
     unicode: f228
     created: "1.0"
     filter:
-      - elusiveicons
+      - wrench
+      - alt
+      - Wrench Alt
+      - wrench-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Wrench
     id: wrench
     unicode: f229
     created: "1.0"
     filter:
-      - elusiveicons
+      - wrench
+      - Wrench
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Wordpress
     id: wordpress
     unicode: f227
     created: "1.0"
     filter:
-      - elusiveicons
+      - wordpress
+      - Wordpress
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Wheelchair
     id: wheelchair
     unicode: f226
     created: "1.0"
     filter:
-      - elusiveicons
+      - wheelchair
+      - Wheelchair
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Website Alt
     id: website-alt
     unicode: f224
     created: "1.0"
     filter:
-      - elusiveicons
+      - website
+      - alt
+      - Website Alt
+      - website-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Website
     id: website
     unicode: f225
     created: "1.0"
     filter:
-      - elusiveicons
+      - website
+      - Website
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Warning Sign
     id: warning-sign
     unicode: f223
     created: "1.0"
     filter:
-      - elusiveicons
+      - warning
+      - sign
+      - Warning Sign
+      - warning-sign
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: W3c
     id: w3c
     unicode: f222
     created: "1.0"
     filter:
-      - elusiveicons
+      - w3c
+      - W3c
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Volume Up
     id: volume-up
     unicode: f221
     created: "1.0"
     filter:
-      - elusiveicons
+      - volume
+      - up
+      - Volume Up
+      - volume-up
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Volume Off
     id: volume-off
     unicode: f220
     created: "1.0"
     filter:
-      - elusiveicons
+      - volume
+      - 'off'
+      - Volume Off
+      - volume-off
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Volume Down
     id: volume-down
     unicode: f21f
     created: "1.0"
     filter:
-      - elusiveicons
+      - volume
+      - down
+      - Volume Down
+      - volume-down
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Vkontakte
     id: vkontakte
     unicode: f21e
     created: "1.0"
     filter:
-      - elusiveicons
+      - vkontakte
+      - Vkontakte
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Vimeo
     id: vimeo
     unicode: f21d
     created: "1.0"
     filter:
-      - elusiveicons
+      - vimeo
+      - Vimeo
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: View Mode
     id: view-mode
     unicode: f21c
     created: "1.0"
     filter:
-      - elusiveicons
+      - view
+      - mode
+      - View Mode
+      - view-mode
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Video Chat
     id: video-chat
     unicode: f21a
     created: "1.0"
     filter:
-      - elusiveicons
+      - video
+      - chat
+      - Video Chat
+      - video-chat
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Video Alt
     id: video-alt
     unicode: f219
     created: "1.0"
     filter:
-      - elusiveicons
+      - video
+      - alt
+      - Video Alt
+      - video-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Video
     id: video
     unicode: f21b
     created: "1.0"
     filter:
-      - elusiveicons
+      - video
+      - Video
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Viadeo
     id: viadeo
     unicode: f218
     created: "1.0"
     filter:
-      - elusiveicons
+      - viadeo
+      - Viadeo
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: User
     id: user
     unicode: f217
     created: "1.0"
     filter:
-      - elusiveicons
+      - user
+      - User
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Usd
     id: usd
     unicode: f216
     created: "1.0"
     filter:
-      - elusiveicons
+      - usd
+      - Usd
+    alias:
+      - dollar
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Upload
     id: upload
     unicode: f215
     created: "1.0"
     filter:
-      - elusiveicons
+      - upload
+      - Upload
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Unlock Alt
     id: unlock-alt
     unicode: f213
     created: "1.0"
     filter:
-      - elusiveicons
+      - unlock
+      - alt
+      - Unlock Alt
+      - unlock-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Unlock
     id: unlock
     unicode: f214
     created: "1.0"
     filter:
-      - elusiveicons
+      - unlock
+      - Unlock
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Universal Access
     id: universal-access
     unicode: f212
     created: "1.0"
     filter:
-      - elusiveicons
+      - universal
+      - access
+      - Universal Access
+      - universal-access
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Twitter
     id: twitter
     unicode: f211
     created: "1.0"
     filter:
-      - elusiveicons
+      - twitter
+      - Twitter
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Tumblr
     id: tumblr
     unicode: f210
     created: "1.0"
     filter:
-      - elusiveicons
+      - tumblr
+      - Tumblr
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Trash Alt
     id: trash-alt
     unicode: f20e
     created: "1.0"
     filter:
-      - elusiveicons
+      - trash
+      - alt
+      - Trash Alt
+      - trash-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Trash
     id: trash
     unicode: f20f
     created: "1.0"
     filter:
-      - elusiveicons
+      - trash
+      - Trash
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Torso
     id: torso
     unicode: f20d
     created: "1.0"
     filter:
-      - elusiveicons
+      - torso
+      - Torso
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Tint
     id: tint
     unicode: f20c
     created: "1.0"
     filter:
-      - elusiveicons
+      - tint
+      - Tint
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Time Alt
     id: time-alt
     unicode: f20a
     created: "1.0"
     filter:
-      - elusiveicons
+      - time
+      - alt
+      - Time Alt
+      - time-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Time
     id: time
     unicode: f20b
     created: "1.0"
     filter:
-      - elusiveicons
+      - time
+      - Time
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Thumbs Up
     id: thumbs-up
     unicode: f209
     created: "1.0"
     filter:
-      - elusiveicons
+      - thumbs
+      - up
+      - Thumbs Up
+      - thumbs-up
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Thumbs Down
     id: thumbs-down
     unicode: f208
     created: "1.0"
     filter:
-      - elusiveicons
+      - thumbs
+      - down
+      - Thumbs Down
+      - thumbs-down
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Th List
     id: th-list
     unicode: f206
     created: "1.0"
     filter:
-      - elusiveicons
+      - th
+      - list
+      - Th List
+      - th-list
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Th Large
     id: th-large
     unicode: f205
     created: "1.0"
     filter:
-      - elusiveicons
+      - th
+      - large
+      - Th Large
+      - th-large
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Th
     id: th
     unicode: f207
     created: "1.0"
     filter:
-      - elusiveicons
+      - th
+      - Th
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Text Width
     id: text-width
     unicode: f204
     created: "1.0"
     filter:
-      - elusiveicons
+      - text
+      - width
+      - Text Width
+      - text-width
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Text Height
     id: text-height
     unicode: f203
     created: "1.0"
     filter:
-      - elusiveicons
+      - text
+      - height
+      - Text Height
+      - text-height
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Tasks
     id: tasks
     unicode: f202
     created: "1.0"
     filter:
-      - elusiveicons
+      - tasks
+      - Tasks
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Tags
     id: tags
     unicode: f201
     created: "1.0"
     filter:
-      - elusiveicons
+      - tags
+      - Tags
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Tag
     id: tag
     unicode: f200
     created: "1.0"
     filter:
-      - elusiveicons
+      - tag
+      - Tag
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Stumbleupon
     id: stumbleupon
     unicode: f1ff
     created: "1.0"
     filter:
-      - elusiveicons
+      - stumbleupon
+      - Stumbleupon
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Stop Alt
     id: stop-alt
     unicode: f1fd
     created: "1.0"
     filter:
-      - elusiveicons
+      - stop
+      - alt
+      - Stop Alt
+      - stop-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Stop
     id: stop
     unicode: f1fe
     created: "1.0"
     filter:
-      - elusiveicons
+      - stop
+      - Stop
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Step Forward
     id: step-forward
     unicode: f1fc
     created: "1.0"
     filter:
-      - elusiveicons
+      - step
+      - forward
+      - Step Forward
+      - step-forward
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Step Backward
     id: step-backward
     unicode: f1fb
     created: "1.0"
     filter:
-      - elusiveicons
+      - step
+      - backward
+      - Step Backward
+      - step-backward
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Star Empty
     id: star-empty
     unicode: f1f9
     created: "1.0"
     filter:
-      - elusiveicons
+      - star
+      - empty
+      - Star Empty
+      - star-empty
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Star Alt
     id: star-alt
     unicode: f1f8
     created: "1.0"
     filter:
-      - elusiveicons
+      - star
+      - alt
+      - Star Alt
+      - star-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Star
     id: star
     unicode: f1fa
     created: "1.0"
     filter:
-      - elusiveicons
+      - star
+      - Star
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Stackoverflow
     id: stackoverflow
     unicode: f1f7
     created: "1.0"
     filter:
-      - elusiveicons
+      - stackoverflow
+      - Stackoverflow
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Spotify
     id: spotify
     unicode: f1f6
     created: "1.0"
     filter:
-      - elusiveicons
+      - spotify
+      - Spotify
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Speaker
     id: speaker
     unicode: f1f5
     created: "1.0"
     filter:
-      - elusiveicons
+      - speaker
+      - Speaker
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Soundcloud
     id: soundcloud
     unicode: f1f4
     created: "1.0"
     filter:
-      - elusiveicons
+      - soundcloud
+      - Soundcloud
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Smiley Alt
     id: smiley-alt
     unicode: f1f2
     created: "1.0"
     filter:
-      - elusiveicons
+      - smiley
+      - alt
+      - Smiley Alt
+      - smiley-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Smiley
     id: smiley
     unicode: f1f3
     created: "1.0"
     filter:
-      - elusiveicons
+      - smiley
+      - Smiley
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Slideshare
     id: slideshare
     unicode: f1f1
     created: "1.0"
     filter:
-      - elusiveicons
+      - slideshare
+      - Slideshare
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Skype
     id: skype
     unicode: f1f0
     created: "1.0"
     filter:
-      - elusiveicons
+      - skype
+      - Skype
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Signal
     id: signal
     unicode: f1ef
     created: "1.0"
     filter:
-      - elusiveicons
+      - signal
+      - Signal
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Shopping Cart Sign
     id: shopping-cart-sign
     unicode: f1ed
     created: "1.0"
     filter:
-      - elusiveicons
+      - shopping
+      - cart
+      - sign
+      - Shopping Cart Sign
+      - shopping-cart-sign
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Shopping Cart
     id: shopping-cart
     unicode: f1ee
     created: "1.0"
     filter:
-      - elusiveicons
+      - shopping
+      - cart
+      - Shopping Cart
+      - shopping-cart
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Share Alt
     id: share-alt
     unicode: f1eb
     created: "1.0"
     filter:
-      - elusiveicons
+      - share
+      - alt
+      - Share Alt
+      - share-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Share
     id: share
     unicode: f1ec
     created: "1.0"
     filter:
-      - elusiveicons
+      - share
+      - Share
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Search Alt
     id: search-alt
     unicode: f1e9
     created: "1.0"
     filter:
-      - elusiveicons
+      - search
+      - alt
+      - Search Alt
+      - search-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Search
     id: search
     unicode: f1ea
     created: "1.0"
     filter:
-      - elusiveicons
+      - search
+      - Search
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Screenshot
     id: screenshot
     unicode: f1e8
     created: "1.0"
     filter:
-      - elusiveicons
+      - screenshot
+      - Screenshot
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Screen Alt
     id: screen-alt
     unicode: f1e6
     created: "1.0"
     filter:
-      - elusiveicons
+      - screen
+      - alt
+      - Screen Alt
+      - screen-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Screen
     id: screen
     unicode: f1e7
     created: "1.0"
     filter:
-      - elusiveicons
+      - screen
+      - Screen
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Scissors
     id: scissors
     unicode: f1e5
     created: "1.0"
     filter:
-      - elusiveicons
+      - scissors
+      - Scissors
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Rss
     id: rss
     unicode: f1e4
     created: "1.0"
     filter:
-      - elusiveicons
+      - rss
+      - Rss
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Road
     id: road
     unicode: f1e3
     created: "1.0"
     filter:
-      - elusiveicons
+      - road
+      - Road
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Reverse Alt
     id: reverse-alt
     unicode: f1e2
     created: "1.0"
     filter:
-      - elusiveicons
+      - reverse
+      - alt
+      - Reverse Alt
+      - reverse-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Retweet
     id: retweet
     unicode: f1e1
     created: "1.0"
     filter:
-      - elusiveicons
+      - retweet
+      - Retweet
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Return Key
     id: return-key
     unicode: f1e0
     created: "1.0"
     filter:
-      - elusiveicons
+      - return
+      - key
+      - Return Key
+      - return-key
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Resize Vertical
     id: resize-vertical
     unicode: f1df
     created: "1.0"
     filter:
-      - elusiveicons
+      - resize
+      - vertical
+      - Resize Vertical
+      - resize-vertical
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Resize Small
     id: resize-small
     unicode: f1de
     created: "1.0"
     filter:
-      - elusiveicons
+      - resize
+      - small
+      - Resize Small
+      - resize-small
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Resize Horizontal
     id: resize-horizontal
     unicode: f1dd
     created: "1.0"
     filter:
-      - elusiveicons
+      - resize
+      - horizontal
+      - Resize Horizontal
+      - resize-horizontal
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Resize Full
     id: resize-full
     unicode: f1dc
     created: "1.0"
     filter:
-      - elusiveicons
+      - resize
+      - full
+      - Resize Full
+      - resize-full
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Repeat Alt
     id: repeat-alt
     unicode: f1da
     created: "1.0"
     filter:
-      - elusiveicons
+      - repeat
+      - alt
+      - Repeat Alt
+      - repeat-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Repeat
     id: repeat
     unicode: f1db
     created: "1.0"
     filter:
-      - elusiveicons
+      - repeat
+      - Repeat
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Remove Sign
     id: remove-sign
     unicode: f1d8
     created: "1.0"
     filter:
-      - elusiveicons
+      - remove
+      - sign
+      - Remove Sign
+      - remove-sign
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Remove Circle
     id: remove-circle
     unicode: f1d7
     created: "1.0"
     filter:
-      - elusiveicons
+      - remove
+      - circle
+      - Remove Circle
+      - remove-circle
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Remove
     id: remove
     unicode: f1d9
     created: "1.0"
     filter:
-      - elusiveicons
+      - remove
+      - Remove
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Refresh
     id: refresh
     unicode: f1d6
     created: "1.0"
     filter:
-      - elusiveicons
+      - refresh
+      - Refresh
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Reddit
     id: reddit
     unicode: f1d4
     created: "1.0"
     filter:
-      - elusiveicons
+      - reddit
+      - Reddit
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Record
     id: record
     unicode: f1d3
     created: "1.0"
     filter:
-      - elusiveicons
+      - record
+      - Record
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Random
     id: random
     unicode: f1d2
     created: "1.0"
     filter:
-      - elusiveicons
+      - random
+      - Random
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Quotes Alt
     id: quotes-alt
     unicode: f1d0
     created: "1.0"
     filter:
-      - elusiveicons
+      - quotes
+      - alt
+      - Quotes Alt
+      - quotes-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Quotes
     id: quotes
     unicode: f1d1
     created: "1.0"
     filter:
-      - elusiveicons
+      - quotes
+      - Quotes
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Question Sign
     id: question-sign
     unicode: f1ce
     created: "1.0"
     filter:
-      - elusiveicons
+      - question
+      - sign
+      - Question Sign
+      - question-sign
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Question
     id: question
     unicode: f1cf
     created: "1.0"
     filter:
-      - elusiveicons
+      - question
+      - Question
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Qrcode
     id: qrcode
     unicode: f1cd
     created: "1.0"
     filter:
-      - elusiveicons
+      - qrcode
+      - Qrcode
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Puzzle
     id: puzzle
     unicode: f1cc
     created: "1.0"
     filter:
-      - elusiveicons
+      - puzzle
+      - Puzzle
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Print
     id: print
     unicode: f1cb
     created: "1.0"
     filter:
-      - elusiveicons
+      - print
+      - Print
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Podcast
     id: podcast
     unicode: f1ca
     created: "1.0"
     filter:
-      - elusiveicons
+      - podcast
+      - Podcast
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Plus Sign
     id: plus-sign
     unicode: f1c8
     created: "1.0"
     filter:
-      - elusiveicons
+      - plus
+      - sign
+      - Plus Sign
+      - plus-sign
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Plus
     id: plus
     unicode: f1c9
     created: "1.0"
     filter:
-      - elusiveicons
+      - plus
+      - Plus
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Play Circle
     id: play-circle
     unicode: f1c6
     created: "1.0"
     filter:
-      - elusiveicons
+      - play
+      - circle
+      - Play Circle
+      - play-circle
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Play Alt
     id: play-alt
     unicode: f1c5
     created: "1.0"
     filter:
-      - elusiveicons
+      - play
+      - alt
+      - Play Alt
+      - play-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Play
     id: play
     unicode: f1c7
     created: "1.0"
     filter:
-      - elusiveicons
+      - play
+      - Play
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Plane
     id: plane
     unicode: f1c4
     created: "1.0"
     filter:
-      - elusiveicons
+      - plane
+      - Plane
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Pinterest
     id: pinterest
     unicode: f1c3
     created: "1.0"
     filter:
-      - elusiveicons
+      - pinterest
+      - Pinterest
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Picture
     id: picture
     unicode: f1c2
     created: "1.0"
     filter:
-      - elusiveicons
+      - picture
+      - Picture
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Picasa
     id: picasa
     unicode: f1c1
     created: "1.0"
     filter:
-      - elusiveicons
+      - picasa
+      - Picasa
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Photo Alt
     id: photo-alt
     unicode: f1bf
     created: "1.0"
     filter:
-      - elusiveicons
+      - photo
+      - alt
+      - Photo Alt
+      - photo-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Photo
     id: photo
     unicode: f1c0
     created: "1.0"
     filter:
-      - elusiveicons
+      - photo
+      - Photo
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Phone Alt
     id: phone-alt
     unicode: f1bd
     created: "1.0"
     filter:
-      - elusiveicons
+      - phone
+      - alt
+      - Phone Alt
+      - phone-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Phone
     id: phone
     unicode: f1be
     created: "1.0"
     filter:
-      - elusiveicons
+      - phone
+      - Phone
+    alias:
+      - earphone
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Person
     id: person
     unicode: f1bc
     created: "1.0"
     filter:
-      - elusiveicons
+      - person
+      - Person
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Pencil Alt
     id: pencil-alt
     unicode: f1ba
     created: "1.0"
     filter:
-      - elusiveicons
+      - pencil
+      - alt
+      - Pencil Alt
+      - pencil-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Pencil
     id: pencil
     unicode: f1bb
     created: "1.0"
     filter:
-      - elusiveicons
+      - pencil
+      - Pencil
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Pause Alt
     id: pause-alt
     unicode: f1b8
     created: "1.0"
     filter:
-      - elusiveicons
+      - pause
+      - alt
+      - Pause Alt
+      - pause-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Pause
     id: pause
     unicode: f1b9
     created: "1.0"
     filter:
-      - elusiveicons
+      - pause
+      - Pause
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Path
     id: path
     unicode: f1b7
     created: "1.0"
     filter:
-      - elusiveicons
+      - path
+      - Path
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Paper Clip Alt
     id: paper-clip-alt
     unicode: f1b5
     created: "1.0"
     filter:
-      - elusiveicons
+      - paper
+      - clip
+      - alt
+      - Paper Clip Alt
+      - paper-clip-alt
+    alias:
+      - paperclip-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Paper Clip
     id: paper-clip
     unicode: f1b6
     created: "1.0"
     filter:
-      - elusiveicons
+      - paper
+      - clip
+      - Paper Clip
+      - paper-clip
+    alias:
+      - paperclip
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Opensource
     id: opensource
     unicode: f1b4
     created: "1.0"
     filter:
-      - elusiveicons
+      - opensource
+      - Opensource
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Ok Sign
     id: ok-sign
     unicode: f1b2
     created: "1.0"
     filter:
-      - elusiveicons
+      - ok
+      - sign
+      - Ok Sign
+      - ok-sign
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Ok Circle
     id: ok-circle
     unicode: f1b1
     created: "1.0"
     filter:
-      - elusiveicons
+      - ok
+      - circle
+      - Ok Circle
+      - ok-circle
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Ok
     id: ok
     unicode: f1b3
     created: "1.0"
     filter:
-      - elusiveicons
+      - ok
+      - Ok
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Network
     id: network
     unicode: f1af
     created: "1.0"
     filter:
-      - elusiveicons
+      - network
+      - Network
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Myspace
     id: myspace
     unicode: f1ae
     created: "1.0"
     filter:
-      - elusiveicons
+      - myspace
+      - Myspace
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Music
     id: music
     unicode: f1ad
     created: "1.0"
     filter:
-      - elusiveicons
+      - music
+      - Music
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Move
     id: move
     unicode: f1ac
     created: "1.0"
     filter:
-      - elusiveicons
+      - move
+      - Move
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Minus Sign
     id: minus-sign
     unicode: f1aa
     created: "1.0"
     filter:
-      - elusiveicons
+      - minus
+      - sign
+      - Minus Sign
+      - minus-sign
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Minus
     id: minus
     unicode: f1ab
     created: "1.0"
     filter:
-      - elusiveicons
+      - minus
+      - Minus
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Mic Alt
     id: mic-alt
     unicode: f1a8
     created: "1.0"
     filter:
-      - elusiveicons
+      - mic
+      - alt
+      - Mic Alt
+      - mic-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Mic
     id: mic
     unicode: f1a9
     created: "1.0"
     filter:
-      - elusiveicons
+      - mic
+      - Mic
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Map Marker Alt
     id: map-marker-alt
     unicode: f1a6
     created: "1.0"
     filter:
-      - elusiveicons
+      - map
+      - marker
+      - alt
+      - Map Marker Alt
+      - map-marker-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Map Marker
     id: map-marker
     unicode: f1a7
     created: "1.0"
     filter:
-      - elusiveicons
+      - map
+      - marker
+      - Map Marker
+      - map-marker
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Male
     id: male
     unicode: f1a5
     created: "1.0"
     filter:
-      - elusiveicons
+      - male
+      - Male
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Magnet
     id: magnet
     unicode: f1a4
     created: "1.0"
     filter:
-      - elusiveicons
+      - magnet
+      - Magnet
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Magic
     id: magic
     unicode: f1a3
     created: "1.0"
     filter:
-      - elusiveicons
+      - magic
+      - Magic
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Lock Alt
     id: lock-alt
     unicode: f1a1
     created: "1.0"
     filter:
-      - elusiveicons
+      - lock
+      - alt
+      - Lock Alt
+      - lock-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Lock
     id: lock
     unicode: f1a2
     created: "1.0"
     filter:
-      - elusiveicons
+      - lock
+      - Lock
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Livejournal
     id: livejournal
     unicode: f1a0
     created: "1.0"
     filter:
-      - elusiveicons
+      - livejournal
+      - Livejournal
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: List Alt
     id: list-alt
     unicode: f19e
     created: "1.0"
     filter:
-      - elusiveicons
+      - list
+      - alt
+      - List Alt
+      - list-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: List
     id: list
     unicode: f19f
     created: "1.0"
     filter:
-      - elusiveicons
+      - list
+      - List
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Linkedin
     id: linkedin
     unicode: f19d
     created: "1.0"
     filter:
-      - elusiveicons
+      - linkedin
+      - Linkedin
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Link
     id: link
     unicode: f19c
     created: "1.0"
     filter:
-      - elusiveicons
+      - link
+      - Link
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Lines
     id: lines
     unicode: f19b
     created: "1.0"
     filter:
-      - elusiveicons
+      - lines
+      - Lines
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Leaf
     id: leaf
     unicode: f19a
     created: "1.0"
     filter:
-      - elusiveicons
+      - leaf
+      - Leaf
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Lastfm
     id: lastfm
     unicode: f199
     created: "1.0"
     filter:
-      - elusiveicons
+      - lastfm
+      - Lastfm
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Laptop Alt
     id: laptop-alt
     unicode: f197
     created: "1.0"
     filter:
-      - elusiveicons
+      - laptop
+      - alt
+      - Laptop Alt
+      - laptop-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Laptop
     id: laptop
     unicode: f198
     created: "1.0"
     filter:
-      - elusiveicons
+      - laptop
+      - Laptop
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Key
     id: key
     unicode: f196
     created: "1.0"
     filter:
-      - elusiveicons
+      - key
+      - Key
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Italic
     id: italic
     unicode: f195
     created: "1.0"
     filter:
-      - elusiveicons
+      - italic
+      - Italic
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Iphone Home
     id: iphone-home
     unicode: f194
     created: "1.0"
     filter:
-      - elusiveicons
+      - iphone
+      - home
+      - Iphone Home
+      - iphone-home
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Instagram
     id: instagram
     unicode: f193
     created: "1.0"
     filter:
-      - elusiveicons
+      - instagram
+      - Instagram
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Info Sign
     id: info-sign
     unicode: f192
     created: "1.0"
     filter:
-      - elusiveicons
+      - info
+      - sign
+      - Info Sign
+      - info-sign
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Indent Right
     id: indent-right
     unicode: f191
     created: "1.0"
     filter:
-      - elusiveicons
+      - indent
+      - right
+      - Indent Right
+      - indent-right
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Indent Left
     id: indent-left
     unicode: f190
     created: "1.0"
     filter:
-      - elusiveicons
+      - indent
+      - left
+      - Indent Left
+      - indent-left
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Inbox Box
     id: inbox-box
     unicode: f18e
     created: "1.0"
     filter:
-      - elusiveicons
+      - inbox
+      - box
+      - Inbox Box
+      - inbox-box
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Inbox Alt
     id: inbox-alt
     unicode: f18d
     created: "1.0"
     filter:
-      - elusiveicons
+      - inbox
+      - alt
+      - Inbox Alt
+      - inbox-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Inbox
     id: inbox
     unicode: f18f
     created: "1.0"
     filter:
-      - elusiveicons
+      - inbox
+      - Inbox
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Idea Alt
     id: idea-alt
     unicode: f18b
     created: "1.0"
     filter:
-      - elusiveicons
+      - idea
+      - alt
+      - Idea Alt
+      - idea-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Idea
     id: idea
     unicode: f18c
     created: "1.0"
     filter:
-      - elusiveicons
+      - idea
+      - Idea
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Hourglass
     id: hourglass
     unicode: f18a
     created: "1.0"
     filter:
-      - elusiveicons
+      - hourglass
+      - Hourglass
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Home Alt
     id: home-alt
     unicode: f188
     created: "1.0"
     filter:
-      - elusiveicons
+      - home
+      - alt
+      - Home Alt
+      - home-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Home
     id: home
     unicode: f189
     created: "1.0"
     filter:
-      - elusiveicons
+      - home
+      - Home
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Heart Empty
     id: heart-empty
     unicode: f186
     created: "1.0"
     filter:
-      - elusiveicons
+      - heart
+      - empty
+      - Heart Empty
+      - heart-empty
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Heart Alt
     id: heart-alt
     unicode: f185
     created: "1.0"
     filter:
-      - elusiveicons
+      - heart
+      - alt
+      - Heart Alt
+      - heart-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Heart
     id: heart
     unicode: f187
     created: "1.0"
     filter:
-      - elusiveicons
+      - heart
+      - Heart
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Hearing Impaired
     id: hearing-impaired
     unicode: f184
     created: "1.0"
     filter:
-      - elusiveicons
+      - hearing
+      - impaired
+      - Hearing Impaired
+      - hearing-impaired
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Headphones
     id: headphones
     unicode: f183
     created: "1.0"
     filter:
-      - elusiveicons
+      - headphones
+      - Headphones
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Hdd
     id: hdd
     unicode: f182
     created: "1.0"
     filter:
-      - elusiveicons
+      - hdd
+      - Hdd
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Hand Up
     id: hand-up
     unicode: f181
     created: "1.0"
     filter:
-      - elusiveicons
+      - hand
+      - up
+      - Hand Up
+      - hand-up
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Hand Right
     id: hand-right
     unicode: f180
     created: "1.0"
     filter:
-      - elusiveicons
+      - hand
+      - right
+      - Hand Right
+      - hand-right
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Hand Left
     id: hand-left
     unicode: f17f
     created: "1.0"
     filter:
-      - elusiveicons
+      - hand
+      - left
+      - Hand Left
+      - hand-left
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Hand Down
     id: hand-down
     unicode: f17e
     created: "1.0"
     filter:
-      - elusiveicons
+      - hand
+      - down
+      - Hand Down
+      - hand-down
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Guidedog
     id: guidedog
     unicode: f17d
     created: "1.0"
     filter:
-      - elusiveicons
+      - guidedog
+      - Guidedog
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Group Alt
     id: group-alt
     unicode: f17b
     created: "1.0"
     filter:
-      - elusiveicons
+      - group
+      - alt
+      - Group Alt
+      - group-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Group
     id: group
     unicode: f17c
     created: "1.0"
     filter:
-      - elusiveicons
+      - group
+      - Group
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Graph Alt
     id: graph-alt
     unicode: f179
     created: "1.0"
     filter:
-      - elusiveicons
+      - graph
+      - alt
+      - Graph Alt
+      - graph-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Graph
     id: graph
     unicode: f17a
     created: "1.0"
     filter:
-      - elusiveicons
+      - graph
+      - Graph
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Googleplus
     id: googleplus
     unicode: f178
     created: "1.0"
     filter:
-      - elusiveicons
+      - googleplus
+      - Googleplus
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Globe Alt
     id: globe-alt
     unicode: f176
     created: "1.0"
     filter:
-      - elusiveicons
+      - globe
+      - alt
+      - Globe Alt
+      - globe-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Globe
     id: globe
     unicode: f177
     created: "1.0"
     filter:
-      - elusiveicons
+      - globe
+      - Globe
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Glasses
     id: glasses
     unicode: f175
     created: "1.0"
     filter:
-      - elusiveicons
+      - glasses
+      - Glasses
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Glass
     id: glass
     unicode: f174
     created: "1.0"
     filter:
-      - elusiveicons
+      - glass
+      - Glass
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Github Text
     id: github-text
     unicode: f172
     created: "1.0"
     filter:
-      - elusiveicons
+      - github
+      - text
+      - Github Text
+      - github-text
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Github
     id: github
     unicode: f173
     created: "1.0"
     filter:
-      - elusiveicons
+      - github
+      - Github
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Gift
     id: gift
     unicode: f171
     created: "1.0"
     filter:
-      - elusiveicons
+      - gift
+      - Gift
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Gbp
     id: gbp
     unicode: f170
     created: "1.0"
     filter:
-      - elusiveicons
+      - gbp
+      - Gbp
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Fullscreen
     id: fullscreen
     unicode: f16f
     created: "1.0"
     filter:
-      - elusiveicons
+      - fullscreen
+      - Fullscreen
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Friendfeed Rect
     id: friendfeed-rect
     unicode: f16d
     created: "1.0"
     filter:
-      - elusiveicons
+      - friendfeed
+      - rect
+      - Friendfeed Rect
+      - friendfeed-rect
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Friendfeed
     id: friendfeed
     unicode: f16e
     created: "1.0"
     filter:
-      - elusiveicons
+      - friendfeed
+      - Friendfeed
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Foursquare
     id: foursquare
     unicode: f16c
     created: "1.0"
     filter:
-      - elusiveicons
+      - foursquare
+      - Foursquare
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Forward Alt
     id: forward-alt
     unicode: f16a
     created: "1.0"
     filter:
-      - elusiveicons
+      - forward
+      - alt
+      - Forward Alt
+      - forward-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Forward
     id: forward
     unicode: f16b
     created: "1.0"
     filter:
-      - elusiveicons
+      - forward
+      - Forward
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Fork
     id: fork
     unicode: f169
     created: "1.0"
     filter:
-      - elusiveicons
+      - fork
+      - Fork
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Fontsize
     id: fontsize
     unicode: f168
     created: "1.0"
     filter:
-      - elusiveicons
+      - fontsize
+      - Fontsize
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Font
     id: font
     unicode: f167
     created: "1.0"
     filter:
-      - elusiveicons
+      - font
+      - Font
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Folder Sign
     id: folder-sign
     unicode: f165
     created: "1.0"
     filter:
-      - elusiveicons
+      - folder
+      - sign
+      - Folder Sign
+      - folder-sign
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Folder Open
     id: folder-open
     unicode: f164
     created: "1.0"
     filter:
-      - elusiveicons
+      - folder
+      - open
+      - Folder Open
+      - folder-open
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Folder Close
     id: folder-close
     unicode: f163
     created: "1.0"
     filter:
-      - elusiveicons
+      - folder
+      - close
+      - Folder Close
+      - folder-close
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Folder
     id: folder
     unicode: f166
     created: "1.0"
     filter:
-      - elusiveicons
+      - folder
+      - Folder
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Flickr
     id: flickr
     unicode: f162
     created: "1.0"
     filter:
-      - elusiveicons
+      - flickr
+      - Flickr
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Flag Alt
     id: flag-alt
     unicode: f160
     created: "1.0"
     filter:
-      - elusiveicons
+      - flag
+      - alt
+      - Flag Alt
+      - flag-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Flag
     id: flag
     unicode: f161
     created: "1.0"
     filter:
-      - elusiveicons
+      - flag
+      - Flag
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Fire
     id: fire
     unicode: f15f
     created: "1.0"
     filter:
-      - elusiveicons
+      - fire
+      - Fire
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Filter
     id: filter
     unicode: f15e
     created: "1.0"
     filter:
-      - elusiveicons
+      - filter
+      - Filter
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Film
     id: film
     unicode: f15d
     created: "1.0"
     filter:
-      - elusiveicons
+      - film
+      - Film
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: File New Alt
     id: file-new-alt
     unicode: f15a
     created: "1.0"
     filter:
-      - elusiveicons
+      - file
+      - new
+      - alt
+      - File New Alt
+      - file-new-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: File New
     id: file-new
     unicode: f15b
     created: "1.0"
     filter:
-      - elusiveicons
+      - file
+      - new
+      - File New
+      - file-new
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: File Edit Alt
     id: file-edit-alt
     unicode: f158
     created: "1.0"
     filter:
-      - elusiveicons
+      - file
+      - edit
+      - alt
+      - File Edit Alt
+      - file-edit-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: File Edit
     id: file-edit
     unicode: f159
     created: "1.0"
     filter:
-      - elusiveicons
+      - file
+      - edit
+      - File Edit
+      - file-edit
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: File Alt
     id: file-alt
     unicode: f157
     created: "1.0"
     filter:
-      - elusiveicons
+      - file
+      - alt
+      - File Alt
+      - file-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: File
     id: file
     unicode: f15c
     created: "1.0"
     filter:
-      - elusiveicons
+      - file
+      - File
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Female
     id: female
     unicode: f156
     created: "1.0"
     filter:
-      - elusiveicons
+      - female
+      - Female
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Fast Forward
     id: fast-forward
     unicode: f155
     created: "1.0"
     filter:
-      - elusiveicons
+      - fast
+      - forward
+      - Fast Forward
+      - fast-forward
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Fast Backward
     id: fast-backward
     unicode: f154
     created: "1.0"
     filter:
-      - elusiveicons
+      - fast
+      - backward
+      - Fast Backward
+      - fast-backward
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Facetime Video
     id: facetime-video
     unicode: f153
     created: "1.0"
     filter:
-      - elusiveicons
+      - facetime
+      - video
+      - Facetime Video
+      - facetime-video
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Facebook
     id: facebook
     unicode: f152
     created: "1.0"
     filter:
-      - elusiveicons
+      - facebook
+      - Facebook
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Eye Open
     id: eye-open
     unicode: f151
     created: "1.0"
     filter:
-      - elusiveicons
+      - eye
+      - open
+      - Eye Open
+      - eye-open
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Eye Close
     id: eye-close
     unicode: f150
     created: "1.0"
     filter:
-      - elusiveicons
+      - eye
+      - close
+      - Eye Close
+      - eye-close
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Exclamation Sign
     id: exclamation-sign
     unicode: f14f
     created: "1.0"
     filter:
-      - elusiveicons
+      - exclamation
+      - sign
+      - Exclamation Sign
+      - exclamation-sign
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Eur
     id: eur
     unicode: f14e
     created: "1.0"
     filter:
-      - elusiveicons
+      - eur
+      - Eur
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Error Alt
     id: error-alt
     unicode: f14c
     created: "1.0"
     filter:
-      - elusiveicons
+      - error
+      - alt
+      - Error Alt
+      - error-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Error
     id: error
     unicode: f14d
     created: "1.0"
     filter:
-      - elusiveicons
+      - error
+      - Error
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Envelope Alt
     id: envelope-alt
     unicode: f14a
     created: "1.0"
     filter:
-      - elusiveicons
+      - envelope
+      - alt
+      - Envelope Alt
+      - envelope-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Envelope
     id: envelope
     unicode: f14b
     created: "1.0"
     filter:
-      - elusiveicons
+      - envelope
+      - Envelope
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Eject
     id: eject
     unicode: f149
     created: "1.0"
     filter:
-      - elusiveicons
+      - eject
+      - Eject
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Edit
     id: edit
     unicode: f148
     created: "1.0"
     filter:
-      - elusiveicons
+      - edit
+      - Edit
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Dribbble
     id: dribbble
     unicode: f147
     created: "1.0"
     filter:
-      - elusiveicons
+      - dribbble
+      - Dribbble
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Download Alt
     id: download-alt
     unicode: f145
     created: "1.0"
     filter:
-      - elusiveicons
+      - download
+      - alt
+      - Download Alt
+      - download-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Download
     id: download
     unicode: f146
     created: "1.0"
     filter:
-      - elusiveicons
+      - download
+      - Download
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Digg
     id: digg
     unicode: f144
     created: "1.0"
     filter:
-      - elusiveicons
+      - digg
+      - Digg
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Deviantart
     id: deviantart
     unicode: f143
     created: "1.0"
     filter:
-      - elusiveicons
+      - deviantart
+      - Deviantart
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Delicious
     id: delicious
     unicode: f142
     created: "1.0"
     filter:
-      - elusiveicons
+      - delicious
+      - Delicious
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Dashboard
     id: dashboard
     unicode: f141
     created: "1.0"
     filter:
-      - elusiveicons
+      - dashboard
+      - Dashboard
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Css
     id: css
     unicode: f140
     created: "1.0"
     filter:
-      - elusiveicons
+      - css
+      - Css
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Credit Card
     id: credit-card
     unicode: f13f
     created: "1.0"
     filter:
-      - elusiveicons
+      - credit
+      - card
+      - Credit Card
+      - credit-card
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Compass Alt
     id: compass-alt
     unicode: f13d
     created: "1.0"
     filter:
-      - elusiveicons
+      - compass
+      - alt
+      - Compass Alt
+      - compass-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Compass
     id: compass
     unicode: f13e
     created: "1.0"
     filter:
-      - elusiveicons
+      - compass
+      - Compass
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Comment Alt
     id: comment-alt
     unicode: f13b
     created: "1.0"
     filter:
-      - elusiveicons
+      - comment
+      - alt
+      - Comment Alt
+      - comment-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Comment
     id: comment
     unicode: f13c
     created: "1.0"
     filter:
-      - elusiveicons
+      - comment
+      - Comment
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Cogs
     id: cogs
     unicode: f13a
     created: "1.0"
     filter:
-      - elusiveicons
+      - cogs
+      - Cogs
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Cog Alt
     id: cog-alt
     unicode: f138
     created: "1.0"
     filter:
-      - elusiveicons
+      - cog
+      - alt
+      - Cog Alt
+      - cog-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Cog
     id: cog
     unicode: f139
     created: "1.0"
     filter:
-      - elusiveicons
+      - cog
+      - Cog
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Cloud Alt
     id: cloud-alt
     unicode: f136
     created: "1.0"
     filter:
-      - elusiveicons
+      - cloud
+      - alt
+      - Cloud Alt
+      - cloud-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Cloud
     id: cloud
     unicode: f137
     created: "1.0"
     filter:
-      - elusiveicons
+      - cloud
+      - Cloud
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Circle Arrow Up
     id: circle-arrow-up
     unicode: f135
     created: "1.0"
     filter:
-      - elusiveicons
+      - circle
+      - arrow
+      - up
+      - Circle Arrow Up
+      - circle-arrow-up
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Circle Arrow Right
     id: circle-arrow-right
     unicode: f134
     created: "1.0"
     filter:
-      - elusiveicons
+      - circle
+      - arrow
+      - right
+      - Circle Arrow Right
+      - circle-arrow-right
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Circle Arrow Left
     id: circle-arrow-left
     unicode: f133
     created: "1.0"
     filter:
-      - elusiveicons
+      - circle
+      - arrow
+      - left
+      - Circle Arrow Left
+      - circle-arrow-left
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Circle Arrow Down
     id: circle-arrow-down
     unicode: f132
     created: "1.0"
     filter:
-      - elusiveicons
+      - circle
+      - arrow
+      - down
+      - Circle Arrow Down
+      - circle-arrow-down
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Child
     id: child
     unicode: f131
     created: "1.0"
     filter:
-      - elusiveicons
+      - child
+      - Child
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Chevron Up
     id: chevron-up
     unicode: f130
     created: "1.0"
     filter:
-      - elusiveicons
+      - chevron
+      - up
+      - Chevron Up
+      - chevron-up
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Chevron Right
     id: chevron-right
     unicode: f12f
     created: "1.0"
     filter:
-      - elusiveicons
+      - chevron
+      - right
+      - Chevron Right
+      - chevron-right
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Chevron Left
     id: chevron-left
     unicode: f12e
     created: "1.0"
     filter:
-      - elusiveicons
+      - chevron
+      - left
+      - Chevron Left
+      - chevron-left
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Chevron Down
     id: chevron-down
     unicode: f12d
     created: "1.0"
     filter:
-      - elusiveicons
+      - chevron
+      - down
+      - Chevron Down
+      - chevron-down
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Check Empty
     id: check-empty
     unicode: f12b
     created: "1.0"
     filter:
-      - elusiveicons
+      - check
+      - empty
+      - Check Empty
+      - check-empty
     categories:
       - Web Application Icons
   - 
@@ -2300,402 +2800,484 @@ icons:
     unicode: f12c
     created: "1.0"
     filter:
-      - elusiveicons
+      - check
+      - Check
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Certificate
     id: certificate
     unicode: f12a
     created: "1.0"
     filter:
-      - elusiveicons
+      - certificate
+      - Certificate
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Cc
     id: cc
     unicode: f129
     created: "1.0"
     filter:
-      - elusiveicons
+      - cc
+      - Cc
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Caret Up
     id: caret-up
     unicode: f128
     created: "1.0"
     filter:
-      - elusiveicons
+      - caret
+      - up
+      - Caret Up
+      - caret-up
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Caret Right
     id: caret-right
     unicode: f127
     created: "1.0"
     filter:
-      - elusiveicons
+      - caret
+      - right
+      - Caret Right
+      - caret-right
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Caret Left
     id: caret-left
     unicode: f126
     created: "1.0"
     filter:
-      - elusiveicons
+      - caret
+      - left
+      - Caret Left
+      - caret-left
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Caret Down
     id: caret-down
     unicode: f125
     created: "1.0"
     filter:
-      - elusiveicons
+      - caret
+      - down
+      - Caret Down
+      - caret-down
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Car
     id: car
     unicode: f124
     created: "1.0"
     filter:
-      - elusiveicons
+      - car
+      - Car
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Camera
     id: camera
     unicode: f123
     created: "1.0"
     filter:
-      - elusiveicons
+      - camera
+      - Camera
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Calendar Sign
     id: calendar-sign
     unicode: f121
     created: "1.0"
     filter:
-      - elusiveicons
+      - calendar
+      - sign
+      - Calendar Sign
+      - calendar-sign
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Calendar
     id: calendar
     unicode: f122
     created: "1.0"
     filter:
-      - elusiveicons
+      - calendar
+      - Calendar
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Bullhorn
     id: bullhorn
     unicode: f120
     created: "1.0"
     filter:
-      - elusiveicons
+      - bullhorn
+      - Bullhorn
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Bulb
     id: bulb
     unicode: f11f
     created: "1.0"
     filter:
-      - elusiveicons
+      - bulb
+      - Bulb
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Brush
     id: brush
     unicode: f11e
     created: "1.0"
     filter:
-      - elusiveicons
+      - brush
+      - Brush
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Broom
     id: broom
     unicode: f11d
     created: "1.0"
     filter:
-      - elusiveicons
+      - broom
+      - Broom
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Briefcase
     id: briefcase
     unicode: f11c
     created: "1.0"
     filter:
-      - elusiveicons
+      - briefcase
+      - Briefcase
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Braille
     id: braille
     unicode: f11b
     created: "1.0"
     filter:
-      - elusiveicons
+      - braille
+      - Braille
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Bookmark Empty
     id: bookmark-empty
     unicode: f119
     created: "1.0"
     filter:
-      - elusiveicons
+      - bookmark
+      - empty
+      - Bookmark Empty
+      - bookmark-empty
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Bookmark
     id: bookmark
     unicode: f11a
     created: "1.0"
     filter:
-      - elusiveicons
+      - bookmark
+      - Bookmark
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Book
     id: book
     unicode: f118
     created: "1.0"
     filter:
-      - elusiveicons
+      - book
+      - Book
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Bold
     id: bold
     unicode: f117
     created: "1.0"
     filter:
-      - elusiveicons
+      - bold
+      - Bold
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Blogger
     id: blogger
     unicode: f116
     created: "1.0"
     filter:
-      - elusiveicons
+      - blogger
+      - Blogger
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Blind
     id: blind
     unicode: f115
     created: "1.0"
     filter:
-      - elusiveicons
+      - blind
+      - Blind
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Bell
     id: bell
     unicode: f114
     created: "1.0"
     filter:
-      - elusiveicons
+      - bell
+      - Bell
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Behance
     id: behance
     unicode: f113
     created: "1.0"
     filter:
-      - elusiveicons
+      - behance
+      - Behance
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Barcode
     id: barcode
     unicode: f112
     created: "1.0"
     filter:
-      - elusiveicons
+      - barcode
+      - Barcode
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Ban Circle
     id: ban-circle
     unicode: f111
     created: "1.0"
     filter:
-      - elusiveicons
+      - ban
+      - circle
+      - Ban Circle
+      - ban-circle
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Backward
     id: backward
     unicode: f110
     created: "1.0"
     filter:
-      - elusiveicons
+      - backward
+      - Backward
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Asl
     id: asl
     unicode: f10e
     created: "1.0"
     filter:
-      - elusiveicons
+      - asl
+      - Asl
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Arrow Up
     id: arrow-up
     unicode: f10d
     created: "1.0"
     filter:
-      - elusiveicons
+      - arrow
+      - up
+      - Arrow Up
+      - arrow-up
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Arrow Right
     id: arrow-right
     unicode: f10c
     created: "1.0"
     filter:
-      - elusiveicons
+      - arrow
+      - right
+      - Arrow Right
+      - arrow-right
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Arrow Left
     id: arrow-left
     unicode: f10b
     created: "1.0"
     filter:
-      - elusiveicons
+      - arrow
+      - left
+      - Arrow Left
+      - arrow-left
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Arrow Down
     id: arrow-down
     unicode: f10a
     created: "1.0"
     filter:
-      - elusiveicons
+      - arrow
+      - down
+      - Arrow Down
+      - arrow-down
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Align Right
     id: align-right
     unicode: f109
     created: "1.0"
     filter:
-      - elusiveicons
+      - align
+      - right
+      - Align Right
+      - align-right
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Align Left
     id: align-left
     unicode: f108
     created: "1.0"
     filter:
-      - elusiveicons
+      - align
+      - left
+      - Align Left
+      - align-left
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Align Justify
     id: align-justify
     unicode: f107
     created: "1.0"
     filter:
-      - elusiveicons
+      - align
+      - justify
+      - Align Justify
+      - align-justify
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Align Center
     id: align-center
     unicode: f106
     created: "1.0"
     filter:
-      - elusiveicons
+      - align
+      - center
+      - Align Center
+      - align-center
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Adult
     id: adult
     unicode: f105
     created: "1.0"
     filter:
-      - elusiveicons
+      - adult
+      - Adult
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Adjust Alt
     id: adjust-alt
     unicode: f103
     created: "1.0"
     filter:
-      - elusiveicons
+      - adjust
+      - alt
+      - Adjust Alt
+      - adjust-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Adjust
     id: adjust
     unicode: f104
     created: "1.0"
     filter:
-      - elusiveicons
+      - adjust
+      - Adjust
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Address Book Alt
     id: address-book-alt
     unicode: f101
     created: "1.0"
     filter:
-      - elusiveicons
+      - address
+      - book
+      - alt
+      - Address Book Alt
+      - address-book-alt
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Address Book
     id: address-book
     unicode: f102
     created: "1.0"
     filter:
-      - elusiveicons
+      - address
+      - book
+      - Address Book
+      - address-book
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
     name: Asterisk
     id: asterisk
     unicode: f10f
     created: "1.0"
     filter:
-      - elusiveicons
+      - asterisk
+      - Asterisk
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
-    name: 'off'
+    name: 'Off'
     id: 'off'
     unicode: f1b0
     created: "2.0"
     filter:
       - 'off'
+      - 'Off'
     categories:
-      - Web Application Icons
+      - Unsorted
   - 
-    name: redux
+    name: Redux
     id: redux
     unicode: f1d5
     created: "2.0"
     filter:
       - redux
+      - Redux
     categories:
-      - Web Application Icons
+      - Unsorted

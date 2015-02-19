@@ -1,0 +1,11 @@
+{% assign unsorted = icons | expand_aliases | category:"Unsorted" | sort_by:'class' %}
+{% if unsorted != empty %}
+<section id="directional">
+    <h2 class="page-header">Un-Categorized Icons</h2>
+    <div class="row elusiveicons-icon-list">
+        {% for icon in unsorted %}
+        <div class="el-hover col-md-3 col-sm-4"><a href="{{ page.relative_path }}icon/{{ icon.id }}"><i class="el el-{{ icon.class }}"></i> {{ icon.class }}{% if icon.alias_of %} <span class="text-muted">(alias)</span>{% endif %}</a></div>
+        {% endfor %}
+    </div>
+</section>
+{% endif %}
