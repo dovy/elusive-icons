@@ -4,7 +4,7 @@
 Elusive Icons is a full suite of 300 pictographic icons for easy scalable vector graphics on websites,
 created and maintained by [Dovy Paukstys](http://twitter.com/simplerain).
 Stay up to date with the latest release and announcements on Twitter:
-[@elusiveicons](http://twitter.com/elusiveicons).
+[@reduxframework](http://twitter.com/reduxframework).
 
 Get started at http://elusiveicons.com!
 

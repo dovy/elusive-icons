@@ -1,5 +1,4 @@
 # Possible Categories
-
 - Brand Icons
 - Chart Icons
 - Currency Icons

@@ -48,7 +48,10 @@
 @el-green:              #1d9d74;
 @el-green-dark:         darken(@el-green, 10%);
 
-@jumbotron-border:      mix(@el-green, @el-green-dark, 75%);
+@primary: @purple-dark;
+@primary-dark: darken(@purple-dark, 10%);
+
+@jumbotron-border:      mix(@primary, @primary-dark, 75%);
 @font-family-alt:       proxima-nova-sc-osf, "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 
@@ -57,12 +60,12 @@
 // -------------------
 
 // Brand colors
-@brand-success:         mix(@purple-dark, #fff, 70%);
+@brand-success:         mix(@primary-dark, #fff, 70%);
 
 
 // Links
-@link-color:            lighten(@purple-dark, 5%);
-@link-hover-color:      darken(@purple-dark, 5%);
+@link-color:            lighten(@primary-dark, 5%);
+@link-hover-color:      darken(@primary-dark, 5%);
 
 
 // Typography
@@ -72,7 +75,7 @@
 
 
 // Components
-@component-active-bg:            @purple-dark;
+@component-active-bg:            @primary-dark;
 
 
 // Navbar
@@ -80,28 +83,28 @@
 @navbar-inverse-brand-color:        #fff;
 
 // Reset inverted navbar basics
-@navbar-inverse-color:                      mix(@purple-dark, #fff, 50%);
-@navbar-inverse-bg:                         @purple-dark;
+@navbar-inverse-color:                      mix(@primary-dark, #fff, 50%);
+@navbar-inverse-bg:                         @primary-dark;
 @navbar-inverse-border:                     @jumbotron-border;
 
 // Inverted navbar links
-@navbar-inverse-link-color:                 mix(@purple-dark, #fff, 35%);
+@navbar-inverse-link-color:                 mix(@primary-dark, #fff, 35%);
 @navbar-inverse-link-hover-color:           #fff;
 @navbar-inverse-link-active-bg:             @navbar-inverse-border;
 
 // Inverted navbar toggle
 @navbar-inverse-toggle-hover-bg:            @jumbotron-color;
-@navbar-inverse-toggle-border-color:        mix(@jumbotron-color, @purple-dark, 75%);
+@navbar-inverse-toggle-border-color:        mix(@jumbotron-color, @primary-dark, 75%);
 
 
 // Jumbotron
 @jumbotron-color:               #fff;
-@jumbotron-bg:                  @purple-dark;
+@jumbotron-bg:                  @primary-dark;
 
 
 // Form states and alerts
-@state-success-text:            @purple-dark;
-@state-success-bg:              mix(@purple-dark, #fff, 6%);
+@state-success-text:            @primary-dark;
+@state-success-bg:              mix(@primary-dark, #fff, 6%);
 @state-success-border:          darken(spin(@state-success-bg, -10), 5%);
 
 @state-info-text:               mix(@blue-dark, @blue, 50%);

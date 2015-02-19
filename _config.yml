@@ -24,8 +24,8 @@ elusiveicons:
   doc_blob:       v2.0.0
   url:            http://elusiveicons.com
   legacy_url:     http://reduxframework.github.com/Elusive-Icons/
-  blog_url:       http://blog.elusiveicons.com
-  twitter:        elusiveicons
+  blog_url:       http://reduxframework.com/about/newswire/
+  twitter:        reduxframework
   tagline:        The iconic font and CSS toolkit
   css_prefix:     el
   author:
@@ -34,9 +34,9 @@ elusiveicons:
     twitter:      simplerain
     github:       dovy
   github:
-    url:          https://github.com/ReduxFramework/Elusive-Icons
+    url:          https://github.com/reduxframework/Elusive-Icons
     project:      Elusive-Icons
-    org:          ReduxFramework
+    org:          reduxframework
   license:
     font:
       version:      SIL OFL 1.1
