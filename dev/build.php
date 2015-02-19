@@ -108,7 +108,7 @@
 
 
     require_once "spyc/spyc.php";
-    $data    = Spyc::YAMLLoad( dirname( __FILE__ ) . '/../src/icons.yml' );
+    $data    = array('icons'=>array());
     $newyaml = array();
     foreach ( $data['icons'] as $key => $value ) {
         if ( ! isset( $icons[ $value['id'] ] ) ) {

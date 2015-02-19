@@ -1,6 +1,6 @@
 safe:             false
 port:             7998
-baseurl:          /Elusive-Icons/  # Where GitHub serves the project up from
+baseurl:          /elusive-icons/  # Where GitHub serves the project up from
 url:              http://127.0.0.1:7998
 
 source:           src
@@ -35,7 +35,7 @@ elusiveicons:
     github:       dovy
   github:
     url:          https://github.com/reduxframework/Elusive-Icons
-    project:      Elusive-Icons
+    project:      elusive-icons
     org:          reduxframework
   license:
     font:

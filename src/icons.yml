@@ -1,1284 +1,1977 @@
 icons:
   - 
-    name: Zoom Out
-    id: zoom-out
-    unicode: f22c
-    created: "1.0"
+    name: Address Book Alt
+    id: address-book-alt
+    unicode: f101
+    created: "2.0"
     filter:
-      - zoom
-      - out
-      - Zoom Out
-      - zoom-out
-    categories:
-      - Unsorted
-  - 
-    name: Zoom In
-    id: zoom-in
-    unicode: f22b
-    created: "1.0"
-    filter:
-      - zoom
-      - in
-      - Zoom In
-      - zoom-in
-    categories:
-      - Unsorted
-  - 
-    name: Youtube
-    id: youtube
-    unicode: f22a
-    created: "1.0"
-    filter:
-      - youtube
-      - Youtube
-    categories:
-      - Unsorted
-  - 
-    name: Wrench Alt
-    id: wrench-alt
-    unicode: f228
-    created: "1.0"
-    filter:
-      - wrench
+      - address
+      - book
       - alt
-      - Wrench Alt
-      - wrench-alt
+      - Address Book Alt
+      - address-book-alt
     categories:
       - Unsorted
   - 
-    name: Wrench
-    id: wrench
-    unicode: f229
-    created: "1.0"
+    name: Address Book
+    id: address-book
+    unicode: f102
+    created: "2.0"
     filter:
-      - wrench
-      - Wrench
+      - address
+      - book
+      - Address Book
+      - address-book
     categories:
       - Unsorted
   - 
-    name: Wordpress
-    id: wordpress
-    unicode: f227
-    created: "1.0"
+    name: Adjust Alt
+    id: adjust-alt
+    unicode: f103
+    created: "2.0"
     filter:
-      - wordpress
-      - Wordpress
-    categories:
-      - Unsorted
-  - 
-    name: Wheelchair
-    id: wheelchair
-    unicode: f226
-    created: "1.0"
-    filter:
-      - wheelchair
-      - Wheelchair
-    categories:
-      - Unsorted
-  - 
-    name: Website Alt
-    id: website-alt
-    unicode: f224
-    created: "1.0"
-    filter:
-      - website
+      - adjust
       - alt
-      - Website Alt
-      - website-alt
+      - Adjust Alt
+      - adjust-alt
     categories:
       - Unsorted
   - 
-    name: Website
-    id: website
-    unicode: f225
-    created: "1.0"
+    name: Adjust
+    id: adjust
+    unicode: f104
+    created: "2.0"
     filter:
-      - website
-      - Website
+      - adjust
+      - Adjust
     categories:
       - Unsorted
   - 
-    name: Warning Sign
-    id: warning-sign
-    unicode: f223
-    created: "1.0"
+    name: Adult
+    id: adult
+    unicode: f105
+    created: "2.0"
     filter:
-      - warning
-      - sign
-      - Warning Sign
-      - warning-sign
+      - adult
+      - Adult
     categories:
       - Unsorted
   - 
-    name: W3c
-    id: w3c
-    unicode: f222
-    created: "1.0"
+    name: Align Center
+    id: align-center
+    unicode: f106
+    created: "2.0"
     filter:
-      - w3c
-      - W3c
+      - align
+      - center
+      - Align Center
+      - align-center
     categories:
       - Unsorted
   - 
-    name: Volume Up
-    id: volume-up
-    unicode: f221
-    created: "1.0"
+    name: Align Justify
+    id: align-justify
+    unicode: f107
+    created: "2.0"
     filter:
-      - volume
-      - up
-      - Volume Up
-      - volume-up
+      - align
+      - justify
+      - Align Justify
+      - align-justify
     categories:
       - Unsorted
   - 
-    name: Volume Off
-    id: volume-off
-    unicode: f220
-    created: "1.0"
+    name: Align Left
+    id: align-left
+    unicode: f108
+    created: "2.0"
     filter:
-      - volume
-      - 'off'
-      - Volume Off
-      - volume-off
+      - align
+      - left
+      - Align Left
+      - align-left
     categories:
       - Unsorted
   - 
-    name: Volume Down
-    id: volume-down
-    unicode: f21f
-    created: "1.0"
+    name: Align Right
+    id: align-right
+    unicode: f109
+    created: "2.0"
     filter:
-      - volume
+      - align
+      - right
+      - Align Right
+      - align-right
+    categories:
+      - Unsorted
+  - 
+    name: Arrow Down
+    id: arrow-down
+    unicode: f10a
+    created: "2.0"
+    filter:
+      - arrow
       - down
-      - Volume Down
-      - volume-down
+      - Arrow Down
+      - arrow-down
     categories:
       - Unsorted
   - 
-    name: Vkontakte
-    id: vkontakte
-    unicode: f21e
-    created: "1.0"
+    name: Arrow Left
+    id: arrow-left
+    unicode: f10b
+    created: "2.0"
     filter:
-      - vkontakte
-      - Vkontakte
+      - arrow
+      - left
+      - Arrow Left
+      - arrow-left
     categories:
       - Unsorted
   - 
-    name: Vimeo
-    id: vimeo
-    unicode: f21d
-    created: "1.0"
+    name: Arrow Right
+    id: arrow-right
+    unicode: f10c
+    created: "2.0"
     filter:
-      - vimeo
-      - Vimeo
+      - arrow
+      - right
+      - Arrow Right
+      - arrow-right
     categories:
       - Unsorted
   - 
-    name: View Mode
-    id: view-mode
-    unicode: f21c
-    created: "1.0"
+    name: Arrow Up
+    id: arrow-up
+    unicode: f10d
+    created: "2.0"
     filter:
-      - view
-      - mode
-      - View Mode
-      - view-mode
-    categories:
-      - Unsorted
-  - 
-    name: Video Chat
-    id: video-chat
-    unicode: f21a
-    created: "1.0"
-    filter:
-      - video
-      - chat
-      - Video Chat
-      - video-chat
-    categories:
-      - Unsorted
-  - 
-    name: Video Alt
-    id: video-alt
-    unicode: f219
-    created: "1.0"
-    filter:
-      - video
-      - alt
-      - Video Alt
-      - video-alt
-    categories:
-      - Unsorted
-  - 
-    name: Video
-    id: video
-    unicode: f21b
-    created: "1.0"
-    filter:
-      - video
-      - Video
-    categories:
-      - Unsorted
-  - 
-    name: Viadeo
-    id: viadeo
-    unicode: f218
-    created: "1.0"
-    filter:
-      - viadeo
-      - Viadeo
-    categories:
-      - Unsorted
-  - 
-    name: User
-    id: user
-    unicode: f217
-    created: "1.0"
-    filter:
-      - user
-      - User
-    categories:
-      - Unsorted
-  - 
-    name: Usd
-    id: usd
-    unicode: f216
-    created: "1.0"
-    filter:
-      - usd
-      - Usd
-    alias:
-      - dollar
-    categories:
-      - Unsorted
-  - 
-    name: Upload
-    id: upload
-    unicode: f215
-    created: "1.0"
-    filter:
-      - upload
-      - Upload
-    categories:
-      - Unsorted
-  - 
-    name: Unlock Alt
-    id: unlock-alt
-    unicode: f213
-    created: "1.0"
-    filter:
-      - unlock
-      - alt
-      - Unlock Alt
-      - unlock-alt
-    categories:
-      - Unsorted
-  - 
-    name: Unlock
-    id: unlock
-    unicode: f214
-    created: "1.0"
-    filter:
-      - unlock
-      - Unlock
-    categories:
-      - Unsorted
-  - 
-    name: Universal Access
-    id: universal-access
-    unicode: f212
-    created: "1.0"
-    filter:
-      - universal
-      - access
-      - Universal Access
-      - universal-access
-    categories:
-      - Unsorted
-  - 
-    name: Twitter
-    id: twitter
-    unicode: f211
-    created: "1.0"
-    filter:
-      - twitter
-      - Twitter
-    categories:
-      - Unsorted
-  - 
-    name: Tumblr
-    id: tumblr
-    unicode: f210
-    created: "1.0"
-    filter:
-      - tumblr
-      - Tumblr
-    categories:
-      - Unsorted
-  - 
-    name: Trash Alt
-    id: trash-alt
-    unicode: f20e
-    created: "1.0"
-    filter:
-      - trash
-      - alt
-      - Trash Alt
-      - trash-alt
-    categories:
-      - Unsorted
-  - 
-    name: Trash
-    id: trash
-    unicode: f20f
-    created: "1.0"
-    filter:
-      - trash
-      - Trash
-    categories:
-      - Unsorted
-  - 
-    name: Torso
-    id: torso
-    unicode: f20d
-    created: "1.0"
-    filter:
-      - torso
-      - Torso
-    categories:
-      - Unsorted
-  - 
-    name: Tint
-    id: tint
-    unicode: f20c
-    created: "1.0"
-    filter:
-      - tint
-      - Tint
-    categories:
-      - Unsorted
-  - 
-    name: Time Alt
-    id: time-alt
-    unicode: f20a
-    created: "1.0"
-    filter:
-      - time
-      - alt
-      - Time Alt
-      - time-alt
-    categories:
-      - Unsorted
-  - 
-    name: Time
-    id: time
-    unicode: f20b
-    created: "1.0"
-    filter:
-      - time
-      - Time
-    categories:
-      - Unsorted
-  - 
-    name: Thumbs Up
-    id: thumbs-up
-    unicode: f209
-    created: "1.0"
-    filter:
-      - thumbs
+      - arrow
       - up
-      - Thumbs Up
-      - thumbs-up
+      - Arrow Up
+      - arrow-up
     categories:
       - Unsorted
   - 
-    name: Thumbs Down
-    id: thumbs-down
-    unicode: f208
-    created: "1.0"
+    name: Asl
+    id: asl
+    unicode: f10e
+    created: "2.0"
     filter:
-      - thumbs
-      - down
-      - Thumbs Down
-      - thumbs-down
+      - asl
+      - Asl
     categories:
       - Unsorted
   - 
-    name: Th List
-    id: th-list
-    unicode: f206
-    created: "1.0"
+    name: Asterisk
+    id: asterisk
+    unicode: f10f
+    created: "2.0"
     filter:
-      - th
-      - list
-      - Th List
-      - th-list
+      - asterisk
+      - Asterisk
     categories:
       - Unsorted
   - 
-    name: Th Large
-    id: th-large
-    unicode: f205
-    created: "1.0"
+    name: Backward
+    id: backward
+    unicode: f110
+    created: "2.0"
     filter:
-      - th
-      - large
-      - Th Large
-      - th-large
-    categories:
-      - Unsorted
-  - 
-    name: Th
-    id: th
-    unicode: f207
-    created: "1.0"
-    filter:
-      - th
-      - Th
-    categories:
-      - Unsorted
-  - 
-    name: Text Width
-    id: text-width
-    unicode: f204
-    created: "1.0"
-    filter:
-      - text
-      - width
-      - Text Width
-      - text-width
-    categories:
-      - Unsorted
-  - 
-    name: Text Height
-    id: text-height
-    unicode: f203
-    created: "1.0"
-    filter:
-      - text
-      - height
-      - Text Height
-      - text-height
-    categories:
-      - Unsorted
-  - 
-    name: Tasks
-    id: tasks
-    unicode: f202
-    created: "1.0"
-    filter:
-      - tasks
-      - Tasks
-    categories:
-      - Unsorted
-  - 
-    name: Tags
-    id: tags
-    unicode: f201
-    created: "1.0"
-    filter:
-      - tags
-      - Tags
-    categories:
-      - Unsorted
-  - 
-    name: Tag
-    id: tag
-    unicode: f200
-    created: "1.0"
-    filter:
-      - tag
-      - Tag
-    categories:
-      - Unsorted
-  - 
-    name: Stumbleupon
-    id: stumbleupon
-    unicode: f1ff
-    created: "1.0"
-    filter:
-      - stumbleupon
-      - Stumbleupon
-    categories:
-      - Unsorted
-  - 
-    name: Stop Alt
-    id: stop-alt
-    unicode: f1fd
-    created: "1.0"
-    filter:
-      - stop
-      - alt
-      - Stop Alt
-      - stop-alt
-    categories:
-      - Unsorted
-  - 
-    name: Stop
-    id: stop
-    unicode: f1fe
-    created: "1.0"
-    filter:
-      - stop
-      - Stop
-    categories:
-      - Unsorted
-  - 
-    name: Step Forward
-    id: step-forward
-    unicode: f1fc
-    created: "1.0"
-    filter:
-      - step
-      - forward
-      - Step Forward
-      - step-forward
-    categories:
-      - Unsorted
-  - 
-    name: Step Backward
-    id: step-backward
-    unicode: f1fb
-    created: "1.0"
-    filter:
-      - step
       - backward
-      - Step Backward
-      - step-backward
+      - Backward
     categories:
       - Unsorted
   - 
-    name: Star Empty
-    id: star-empty
-    unicode: f1f9
-    created: "1.0"
+    name: Ban Circle
+    id: ban-circle
+    unicode: f111
+    created: "2.0"
     filter:
-      - star
+      - ban
+      - circle
+      - Ban Circle
+      - ban-circle
+    categories:
+      - Unsorted
+  - 
+    name: Barcode
+    id: barcode
+    unicode: f112
+    created: "2.0"
+    filter:
+      - barcode
+      - Barcode
+    categories:
+      - Unsorted
+  - 
+    name: Behance
+    id: behance
+    unicode: f113
+    created: "2.0"
+    filter:
+      - behance
+      - Behance
+    categories:
+      - Unsorted
+  - 
+    name: Bell
+    id: bell
+    unicode: f114
+    created: "2.0"
+    filter:
+      - bell
+      - Bell
+    categories:
+      - Unsorted
+  - 
+    name: Blind
+    id: blind
+    unicode: f115
+    created: "2.0"
+    filter:
+      - blind
+      - Blind
+    categories:
+      - Unsorted
+  - 
+    name: Blogger
+    id: blogger
+    unicode: f116
+    created: "2.0"
+    filter:
+      - blogger
+      - Blogger
+    categories:
+      - Unsorted
+  - 
+    name: Bold
+    id: bold
+    unicode: f117
+    created: "2.0"
+    filter:
+      - bold
+      - Bold
+    categories:
+      - Unsorted
+  - 
+    name: Book
+    id: book
+    unicode: f118
+    created: "2.0"
+    filter:
+      - book
+      - Book
+    categories:
+      - Unsorted
+  - 
+    name: Bookmark Empty
+    id: bookmark-empty
+    unicode: f119
+    created: "2.0"
+    filter:
+      - bookmark
       - empty
-      - Star Empty
-      - star-empty
+      - Bookmark Empty
+      - bookmark-empty
     categories:
       - Unsorted
   - 
-    name: Star Alt
-    id: star-alt
-    unicode: f1f8
-    created: "1.0"
+    name: Bookmark
+    id: bookmark
+    unicode: f11a
+    created: "2.0"
     filter:
-      - star
-      - alt
-      - Star Alt
-      - star-alt
+      - bookmark
+      - Bookmark
     categories:
       - Unsorted
   - 
-    name: Star
-    id: star
-    unicode: f1fa
-    created: "1.0"
+    name: Braille
+    id: braille
+    unicode: f11b
+    created: "2.0"
     filter:
-      - star
-      - Star
+      - braille
+      - Braille
     categories:
       - Unsorted
   - 
-    name: Stackoverflow
-    id: stackoverflow
-    unicode: f1f7
-    created: "1.0"
+    name: Briefcase
+    id: briefcase
+    unicode: f11c
+    created: "2.0"
     filter:
-      - stackoverflow
-      - Stackoverflow
+      - briefcase
+      - Briefcase
     categories:
       - Unsorted
   - 
-    name: Spotify
-    id: spotify
-    unicode: f1f6
-    created: "1.0"
+    name: Broom
+    id: broom
+    unicode: f11d
+    created: "2.0"
     filter:
-      - spotify
-      - Spotify
+      - broom
+      - Broom
     categories:
       - Unsorted
   - 
-    name: Speaker
-    id: speaker
-    unicode: f1f5
-    created: "1.0"
+    name: Brush
+    id: brush
+    unicode: f11e
+    created: "2.0"
     filter:
-      - speaker
-      - Speaker
+      - brush
+      - Brush
     categories:
       - Unsorted
   - 
-    name: Soundcloud
-    id: soundcloud
-    unicode: f1f4
-    created: "1.0"
+    name: Bulb
+    id: bulb
+    unicode: f11f
+    created: "2.0"
     filter:
-      - soundcloud
-      - Soundcloud
+      - bulb
+      - Bulb
     categories:
       - Unsorted
   - 
-    name: Smiley Alt
-    id: smiley-alt
-    unicode: f1f2
-    created: "1.0"
+    name: Bullhorn
+    id: bullhorn
+    unicode: f120
+    created: "2.0"
     filter:
-      - smiley
-      - alt
-      - Smiley Alt
-      - smiley-alt
+      - bullhorn
+      - Bullhorn
     categories:
       - Unsorted
   - 
-    name: Smiley
-    id: smiley
-    unicode: f1f3
-    created: "1.0"
+    name: Calendar Sign
+    id: calendar-sign
+    unicode: f121
+    created: "2.0"
     filter:
-      - smiley
-      - Smiley
-    categories:
-      - Unsorted
-  - 
-    name: Slideshare
-    id: slideshare
-    unicode: f1f1
-    created: "1.0"
-    filter:
-      - slideshare
-      - Slideshare
-    categories:
-      - Unsorted
-  - 
-    name: Skype
-    id: skype
-    unicode: f1f0
-    created: "1.0"
-    filter:
-      - skype
-      - Skype
-    categories:
-      - Unsorted
-  - 
-    name: Signal
-    id: signal
-    unicode: f1ef
-    created: "1.0"
-    filter:
-      - signal
-      - Signal
-    categories:
-      - Unsorted
-  - 
-    name: Shopping Cart Sign
-    id: shopping-cart-sign
-    unicode: f1ed
-    created: "1.0"
-    filter:
-      - shopping
-      - cart
+      - calendar
       - sign
-      - Shopping Cart Sign
-      - shopping-cart-sign
+      - Calendar Sign
+      - calendar-sign
     categories:
       - Unsorted
   - 
-    name: Shopping Cart
-    id: shopping-cart
-    unicode: f1ee
-    created: "1.0"
+    name: Calendar
+    id: calendar
+    unicode: f122
+    created: "2.0"
     filter:
-      - shopping
-      - cart
-      - Shopping Cart
-      - shopping-cart
+      - calendar
+      - Calendar
     categories:
       - Unsorted
   - 
-    name: Share Alt
-    id: share-alt
-    unicode: f1eb
-    created: "1.0"
+    name: Camera
+    id: camera
+    unicode: f123
+    created: "2.0"
     filter:
-      - share
+      - camera
+      - Camera
+    categories:
+      - Unsorted
+  - 
+    name: Car
+    id: car
+    unicode: f124
+    created: "2.0"
+    filter:
+      - car
+      - Car
+    categories:
+      - Unsorted
+  - 
+    name: Caret Down
+    id: caret-down
+    unicode: f125
+    created: "2.0"
+    filter:
+      - caret
+      - down
+      - Caret Down
+      - caret-down
+    categories:
+      - Unsorted
+  - 
+    name: Caret Left
+    id: caret-left
+    unicode: f126
+    created: "2.0"
+    filter:
+      - caret
+      - left
+      - Caret Left
+      - caret-left
+    categories:
+      - Unsorted
+  - 
+    name: Caret Right
+    id: caret-right
+    unicode: f127
+    created: "2.0"
+    filter:
+      - caret
+      - right
+      - Caret Right
+      - caret-right
+    categories:
+      - Unsorted
+  - 
+    name: Caret Up
+    id: caret-up
+    unicode: f128
+    created: "2.0"
+    filter:
+      - caret
+      - up
+      - Caret Up
+      - caret-up
+    categories:
+      - Unsorted
+  - 
+    name: Cc
+    id: cc
+    unicode: f129
+    created: "2.0"
+    filter:
+      - cc
+      - Cc
+    categories:
+      - Unsorted
+  - 
+    name: Certificate
+    id: certificate
+    unicode: f12a
+    created: "2.0"
+    filter:
+      - certificate
+      - Certificate
+    categories:
+      - Unsorted
+  - 
+    name: Check Empty
+    id: check-empty
+    unicode: f12b
+    created: "2.0"
+    filter:
+      - check
+      - empty
+      - Check Empty
+      - check-empty
+    categories:
+      - Web Application Icons
+  - 
+    name: Check
+    id: check
+    unicode: f12c
+    created: "2.0"
+    filter:
+      - check
+      - Check
+    categories:
+      - Unsorted
+  - 
+    name: Chevron Down
+    id: chevron-down
+    unicode: f12d
+    created: "2.0"
+    filter:
+      - chevron
+      - down
+      - Chevron Down
+      - chevron-down
+    categories:
+      - Unsorted
+  - 
+    name: Chevron Left
+    id: chevron-left
+    unicode: f12e
+    created: "2.0"
+    filter:
+      - chevron
+      - left
+      - Chevron Left
+      - chevron-left
+    categories:
+      - Unsorted
+  - 
+    name: Chevron Right
+    id: chevron-right
+    unicode: f12f
+    created: "2.0"
+    filter:
+      - chevron
+      - right
+      - Chevron Right
+      - chevron-right
+    categories:
+      - Unsorted
+  - 
+    name: Chevron Up
+    id: chevron-up
+    unicode: f130
+    created: "2.0"
+    filter:
+      - chevron
+      - up
+      - Chevron Up
+      - chevron-up
+    categories:
+      - Unsorted
+  - 
+    name: Child
+    id: child
+    unicode: f131
+    created: "2.0"
+    filter:
+      - child
+      - Child
+    categories:
+      - Unsorted
+  - 
+    name: Circle Arrow Down
+    id: circle-arrow-down
+    unicode: f132
+    created: "2.0"
+    filter:
+      - circle
+      - arrow
+      - down
+      - Circle Arrow Down
+      - circle-arrow-down
+    categories:
+      - Unsorted
+  - 
+    name: Circle Arrow Left
+    id: circle-arrow-left
+    unicode: f133
+    created: "2.0"
+    filter:
+      - circle
+      - arrow
+      - left
+      - Circle Arrow Left
+      - circle-arrow-left
+    categories:
+      - Unsorted
+  - 
+    name: Circle Arrow Right
+    id: circle-arrow-right
+    unicode: f134
+    created: "2.0"
+    filter:
+      - circle
+      - arrow
+      - right
+      - Circle Arrow Right
+      - circle-arrow-right
+    categories:
+      - Unsorted
+  - 
+    name: Circle Arrow Up
+    id: circle-arrow-up
+    unicode: f135
+    created: "2.0"
+    filter:
+      - circle
+      - arrow
+      - up
+      - Circle Arrow Up
+      - circle-arrow-up
+    categories:
+      - Unsorted
+  - 
+    name: Cloud Alt
+    id: cloud-alt
+    unicode: f136
+    created: "2.0"
+    filter:
+      - cloud
       - alt
-      - Share Alt
-      - share-alt
+      - Cloud Alt
+      - cloud-alt
     categories:
       - Unsorted
   - 
-    name: Share
-    id: share
-    unicode: f1ec
-    created: "1.0"
+    name: Cloud
+    id: cloud
+    unicode: f137
+    created: "2.0"
     filter:
-      - share
-      - Share
+      - cloud
+      - Cloud
     categories:
       - Unsorted
   - 
-    name: Search Alt
-    id: search-alt
-    unicode: f1e9
-    created: "1.0"
+    name: Cog Alt
+    id: cog-alt
+    unicode: f138
+    created: "2.0"
     filter:
-      - search
+      - cog
       - alt
-      - Search Alt
-      - search-alt
+      - Cog Alt
+      - cog-alt
     categories:
       - Unsorted
   - 
-    name: Search
-    id: search
-    unicode: f1ea
-    created: "1.0"
+    name: Cog
+    id: cog
+    unicode: f139
+    created: "2.0"
     filter:
-      - search
-      - Search
+      - cog
+      - Cog
     categories:
       - Unsorted
   - 
-    name: Screenshot
-    id: screenshot
-    unicode: f1e8
-    created: "1.0"
+    name: Cogs
+    id: cogs
+    unicode: f13a
+    created: "2.0"
     filter:
-      - screenshot
-      - Screenshot
+      - cogs
+      - Cogs
     categories:
       - Unsorted
   - 
-    name: Screen Alt
-    id: screen-alt
-    unicode: f1e6
-    created: "1.0"
+    name: Comment Alt
+    id: comment-alt
+    unicode: f13b
+    created: "2.0"
     filter:
-      - screen
+      - comment
       - alt
-      - Screen Alt
-      - screen-alt
+      - Comment Alt
+      - comment-alt
     categories:
       - Unsorted
   - 
-    name: Screen
-    id: screen
-    unicode: f1e7
-    created: "1.0"
+    name: Comment
+    id: comment
+    unicode: f13c
+    created: "2.0"
     filter:
-      - screen
-      - Screen
+      - comment
+      - Comment
     categories:
       - Unsorted
   - 
-    name: Scissors
-    id: scissors
-    unicode: f1e5
-    created: "1.0"
+    name: Compass Alt
+    id: compass-alt
+    unicode: f13d
+    created: "2.0"
     filter:
-      - scissors
-      - Scissors
-    categories:
-      - Unsorted
-  - 
-    name: Rss
-    id: rss
-    unicode: f1e4
-    created: "1.0"
-    filter:
-      - rss
-      - Rss
-    categories:
-      - Unsorted
-  - 
-    name: Road
-    id: road
-    unicode: f1e3
-    created: "1.0"
-    filter:
-      - road
-      - Road
-    categories:
-      - Unsorted
-  - 
-    name: Reverse Alt
-    id: reverse-alt
-    unicode: f1e2
-    created: "1.0"
-    filter:
-      - reverse
+      - compass
       - alt
-      - Reverse Alt
-      - reverse-alt
+      - Compass Alt
+      - compass-alt
     categories:
       - Unsorted
   - 
-    name: Retweet
-    id: retweet
-    unicode: f1e1
-    created: "1.0"
+    name: Compass
+    id: compass
+    unicode: f13e
+    created: "2.0"
     filter:
-      - retweet
-      - Retweet
+      - compass
+      - Compass
     categories:
       - Unsorted
   - 
-    name: Return Key
-    id: return-key
-    unicode: f1e0
-    created: "1.0"
+    name: Credit Card
+    id: credit-card
+    unicode: f13f
+    created: "2.0"
     filter:
-      - return
+      - credit
+      - card
+      - Credit Card
+      - credit-card
+    categories:
+      - Unsorted
+  - 
+    name: Css
+    id: css
+    unicode: f140
+    created: "2.0"
+    filter:
+      - css
+      - Css
+    categories:
+      - Unsorted
+  - 
+    name: Dashboard
+    id: dashboard
+    unicode: f141
+    created: "2.0"
+    filter:
+      - dashboard
+      - Dashboard
+    categories:
+      - Unsorted
+  - 
+    name: Delicious
+    id: delicious
+    unicode: f142
+    created: "2.0"
+    filter:
+      - delicious
+      - Delicious
+    categories:
+      - Unsorted
+  - 
+    name: Deviantart
+    id: deviantart
+    unicode: f143
+    created: "2.0"
+    filter:
+      - deviantart
+      - Deviantart
+    categories:
+      - Unsorted
+  - 
+    name: Digg
+    id: digg
+    unicode: f144
+    created: "2.0"
+    filter:
+      - digg
+      - Digg
+    categories:
+      - Unsorted
+  - 
+    name: Download Alt
+    id: download-alt
+    unicode: f145
+    created: "2.0"
+    filter:
+      - download
+      - alt
+      - Download Alt
+      - download-alt
+    categories:
+      - Unsorted
+  - 
+    name: Download
+    id: download
+    unicode: f146
+    created: "2.0"
+    filter:
+      - download
+      - Download
+    categories:
+      - Unsorted
+  - 
+    name: Dribbble
+    id: dribbble
+    unicode: f147
+    created: "2.0"
+    filter:
+      - dribbble
+      - Dribbble
+    categories:
+      - Unsorted
+  - 
+    name: Edit
+    id: edit
+    unicode: f148
+    created: "2.0"
+    filter:
+      - edit
+      - Edit
+    categories:
+      - Unsorted
+  - 
+    name: Eject
+    id: eject
+    unicode: f149
+    created: "2.0"
+    filter:
+      - eject
+      - Eject
+    categories:
+      - Unsorted
+  - 
+    name: Envelope Alt
+    id: envelope-alt
+    unicode: f14a
+    created: "2.0"
+    filter:
+      - envelope
+      - alt
+      - Envelope Alt
+      - envelope-alt
+    categories:
+      - Unsorted
+  - 
+    name: Envelope
+    id: envelope
+    unicode: f14b
+    created: "2.0"
+    filter:
+      - envelope
+      - Envelope
+    categories:
+      - Unsorted
+  - 
+    name: Error Alt
+    id: error-alt
+    unicode: f14c
+    created: "2.0"
+    filter:
+      - error
+      - alt
+      - Error Alt
+      - error-alt
+    categories:
+      - Unsorted
+  - 
+    name: Error
+    id: error
+    unicode: f14d
+    created: "2.0"
+    filter:
+      - error
+      - Error
+    categories:
+      - Unsorted
+  - 
+    name: Eur
+    id: eur
+    unicode: f14e
+    created: "2.0"
+    filter:
+      - eur
+      - Eur
+    categories:
+      - Unsorted
+  - 
+    name: Exclamation Sign
+    id: exclamation-sign
+    unicode: f14f
+    created: "2.0"
+    filter:
+      - exclamation
+      - sign
+      - Exclamation Sign
+      - exclamation-sign
+    categories:
+      - Unsorted
+  - 
+    name: Eye Close
+    id: eye-close
+    unicode: f150
+    created: "2.0"
+    filter:
+      - eye
+      - close
+      - Eye Close
+      - eye-close
+    categories:
+      - Unsorted
+  - 
+    name: Eye Open
+    id: eye-open
+    unicode: f151
+    created: "2.0"
+    filter:
+      - eye
+      - open
+      - Eye Open
+      - eye-open
+    categories:
+      - Unsorted
+  - 
+    name: Facebook
+    id: facebook
+    unicode: f152
+    created: "2.0"
+    filter:
+      - facebook
+      - Facebook
+    categories:
+      - Unsorted
+  - 
+    name: Facetime Video
+    id: facetime-video
+    unicode: f153
+    created: "2.0"
+    filter:
+      - facetime
+      - video
+      - Facetime Video
+      - facetime-video
+    categories:
+      - Unsorted
+  - 
+    name: Fast Backward
+    id: fast-backward
+    unicode: f154
+    created: "2.0"
+    filter:
+      - fast
+      - backward
+      - Fast Backward
+      - fast-backward
+    categories:
+      - Unsorted
+  - 
+    name: Fast Forward
+    id: fast-forward
+    unicode: f155
+    created: "2.0"
+    filter:
+      - fast
+      - forward
+      - Fast Forward
+      - fast-forward
+    categories:
+      - Unsorted
+  - 
+    name: Female
+    id: female
+    unicode: f156
+    created: "2.0"
+    filter:
+      - female
+      - Female
+    categories:
+      - Unsorted
+  - 
+    name: File Alt
+    id: file-alt
+    unicode: f157
+    created: "2.0"
+    filter:
+      - file
+      - alt
+      - File Alt
+      - file-alt
+    categories:
+      - Unsorted
+  - 
+    name: File Edit Alt
+    id: file-edit-alt
+    unicode: f158
+    created: "2.0"
+    filter:
+      - file
+      - edit
+      - alt
+      - File Edit Alt
+      - file-edit-alt
+    categories:
+      - Unsorted
+  - 
+    name: File Edit
+    id: file-edit
+    unicode: f159
+    created: "2.0"
+    filter:
+      - file
+      - edit
+      - File Edit
+      - file-edit
+    categories:
+      - Unsorted
+  - 
+    name: File New Alt
+    id: file-new-alt
+    unicode: f15a
+    created: "2.0"
+    filter:
+      - file
+      - new
+      - alt
+      - File New Alt
+      - file-new-alt
+    categories:
+      - Unsorted
+  - 
+    name: File New
+    id: file-new
+    unicode: f15b
+    created: "2.0"
+    filter:
+      - file
+      - new
+      - File New
+      - file-new
+    categories:
+      - Unsorted
+  - 
+    name: File
+    id: file
+    unicode: f15c
+    created: "2.0"
+    filter:
+      - file
+      - File
+    categories:
+      - Unsorted
+  - 
+    name: Film
+    id: film
+    unicode: f15d
+    created: "2.0"
+    filter:
+      - film
+      - Film
+    categories:
+      - Unsorted
+  - 
+    name: Filter
+    id: filter
+    unicode: f15e
+    created: "2.0"
+    filter:
+      - filter
+      - Filter
+    categories:
+      - Unsorted
+  - 
+    name: Fire
+    id: fire
+    unicode: f15f
+    created: "2.0"
+    filter:
+      - fire
+      - Fire
+    categories:
+      - Unsorted
+  - 
+    name: Flag Alt
+    id: flag-alt
+    unicode: f160
+    created: "2.0"
+    filter:
+      - flag
+      - alt
+      - Flag Alt
+      - flag-alt
+    categories:
+      - Unsorted
+  - 
+    name: Flag
+    id: flag
+    unicode: f161
+    created: "2.0"
+    filter:
+      - flag
+      - Flag
+    categories:
+      - Unsorted
+  - 
+    name: Flickr
+    id: flickr
+    unicode: f162
+    created: "2.0"
+    filter:
+      - flickr
+      - Flickr
+    categories:
+      - Unsorted
+  - 
+    name: Folder Close
+    id: folder-close
+    unicode: f163
+    created: "2.0"
+    filter:
+      - folder
+      - close
+      - Folder Close
+      - folder-close
+    categories:
+      - Unsorted
+  - 
+    name: Folder Open
+    id: folder-open
+    unicode: f164
+    created: "2.0"
+    filter:
+      - folder
+      - open
+      - Folder Open
+      - folder-open
+    categories:
+      - Unsorted
+  - 
+    name: Folder Sign
+    id: folder-sign
+    unicode: f165
+    created: "2.0"
+    filter:
+      - folder
+      - sign
+      - Folder Sign
+      - folder-sign
+    categories:
+      - Unsorted
+  - 
+    name: Folder
+    id: folder
+    unicode: f166
+    created: "2.0"
+    filter:
+      - folder
+      - Folder
+    categories:
+      - Unsorted
+  - 
+    name: Font
+    id: font
+    unicode: f167
+    created: "2.0"
+    filter:
+      - font
+      - Font
+    categories:
+      - Unsorted
+  - 
+    name: Fontsize
+    id: fontsize
+    unicode: f168
+    created: "2.0"
+    filter:
+      - fontsize
+      - Fontsize
+    categories:
+      - Unsorted
+  - 
+    name: Fork
+    id: fork
+    unicode: f169
+    created: "2.0"
+    filter:
+      - fork
+      - Fork
+    categories:
+      - Unsorted
+  - 
+    name: Forward Alt
+    id: forward-alt
+    unicode: f16a
+    created: "2.0"
+    filter:
+      - forward
+      - alt
+      - Forward Alt
+      - forward-alt
+    categories:
+      - Unsorted
+  - 
+    name: Forward
+    id: forward
+    unicode: f16b
+    created: "2.0"
+    filter:
+      - forward
+      - Forward
+    categories:
+      - Unsorted
+  - 
+    name: Foursquare
+    id: foursquare
+    unicode: f16c
+    created: "2.0"
+    filter:
+      - foursquare
+      - Foursquare
+    categories:
+      - Unsorted
+  - 
+    name: Friendfeed Rect
+    id: friendfeed-rect
+    unicode: f16d
+    created: "2.0"
+    filter:
+      - friendfeed
+      - rect
+      - Friendfeed Rect
+      - friendfeed-rect
+    categories:
+      - Unsorted
+  - 
+    name: Friendfeed
+    id: friendfeed
+    unicode: f16e
+    created: "2.0"
+    filter:
+      - friendfeed
+      - Friendfeed
+    categories:
+      - Unsorted
+  - 
+    name: Fullscreen
+    id: fullscreen
+    unicode: f16f
+    created: "2.0"
+    filter:
+      - fullscreen
+      - Fullscreen
+    categories:
+      - Unsorted
+  - 
+    name: Gbp
+    id: gbp
+    unicode: f170
+    created: "2.0"
+    filter:
+      - gbp
+      - Gbp
+    categories:
+      - Unsorted
+  - 
+    name: Gift
+    id: gift
+    unicode: f171
+    created: "2.0"
+    filter:
+      - gift
+      - Gift
+    categories:
+      - Unsorted
+  - 
+    name: Github Text
+    id: github-text
+    unicode: f172
+    created: "2.0"
+    filter:
+      - github
+      - text
+      - Github Text
+      - github-text
+    categories:
+      - Unsorted
+  - 
+    name: Github
+    id: github
+    unicode: f173
+    created: "2.0"
+    filter:
+      - github
+      - Github
+    categories:
+      - Unsorted
+  - 
+    name: Glass
+    id: glass
+    unicode: f174
+    created: "2.0"
+    filter:
+      - glass
+      - Glass
+    categories:
+      - Unsorted
+  - 
+    name: Glasses
+    id: glasses
+    unicode: f175
+    created: "2.0"
+    filter:
+      - glasses
+      - Glasses
+    categories:
+      - Unsorted
+  - 
+    name: Globe Alt
+    id: globe-alt
+    unicode: f176
+    created: "2.0"
+    filter:
+      - globe
+      - alt
+      - Globe Alt
+      - globe-alt
+    categories:
+      - Unsorted
+  - 
+    name: Globe
+    id: globe
+    unicode: f177
+    created: "2.0"
+    filter:
+      - globe
+      - Globe
+    categories:
+      - Unsorted
+  - 
+    name: Googleplus
+    id: googleplus
+    unicode: f178
+    created: "2.0"
+    filter:
+      - googleplus
+      - Googleplus
+    categories:
+      - Unsorted
+  - 
+    name: Graph Alt
+    id: graph-alt
+    unicode: f179
+    created: "2.0"
+    filter:
+      - graph
+      - alt
+      - Graph Alt
+      - graph-alt
+    categories:
+      - Unsorted
+  - 
+    name: Graph
+    id: graph
+    unicode: f17a
+    created: "2.0"
+    filter:
+      - graph
+      - Graph
+    categories:
+      - Unsorted
+  - 
+    name: Group Alt
+    id: group-alt
+    unicode: f17b
+    created: "2.0"
+    filter:
+      - group
+      - alt
+      - Group Alt
+      - group-alt
+    categories:
+      - Unsorted
+  - 
+    name: Group
+    id: group
+    unicode: f17c
+    created: "2.0"
+    filter:
+      - group
+      - Group
+    categories:
+      - Unsorted
+  - 
+    name: Guidedog
+    id: guidedog
+    unicode: f17d
+    created: "2.0"
+    filter:
+      - guidedog
+      - Guidedog
+    categories:
+      - Unsorted
+  - 
+    name: Hand Down
+    id: hand-down
+    unicode: f17e
+    created: "2.0"
+    filter:
+      - hand
+      - down
+      - Hand Down
+      - hand-down
+    categories:
+      - Unsorted
+  - 
+    name: Hand Left
+    id: hand-left
+    unicode: f17f
+    created: "2.0"
+    filter:
+      - hand
+      - left
+      - Hand Left
+      - hand-left
+    categories:
+      - Unsorted
+  - 
+    name: Hand Right
+    id: hand-right
+    unicode: f180
+    created: "2.0"
+    filter:
+      - hand
+      - right
+      - Hand Right
+      - hand-right
+    categories:
+      - Unsorted
+  - 
+    name: Hand Up
+    id: hand-up
+    unicode: f181
+    created: "2.0"
+    filter:
+      - hand
+      - up
+      - Hand Up
+      - hand-up
+    categories:
+      - Unsorted
+  - 
+    name: Hdd
+    id: hdd
+    unicode: f182
+    created: "2.0"
+    filter:
+      - hdd
+      - Hdd
+    categories:
+      - Unsorted
+  - 
+    name: Headphones
+    id: headphones
+    unicode: f183
+    created: "2.0"
+    filter:
+      - headphones
+      - Headphones
+    categories:
+      - Unsorted
+  - 
+    name: Hearing Impaired
+    id: hearing-impaired
+    unicode: f184
+    created: "2.0"
+    filter:
+      - hearing
+      - impaired
+      - Hearing Impaired
+      - hearing-impaired
+    categories:
+      - Unsorted
+  - 
+    name: Heart Alt
+    id: heart-alt
+    unicode: f185
+    created: "2.0"
+    filter:
+      - heart
+      - alt
+      - Heart Alt
+      - heart-alt
+    categories:
+      - Unsorted
+  - 
+    name: Heart Empty
+    id: heart-empty
+    unicode: f186
+    created: "2.0"
+    filter:
+      - heart
+      - empty
+      - Heart Empty
+      - heart-empty
+    categories:
+      - Unsorted
+  - 
+    name: Heart
+    id: heart
+    unicode: f187
+    created: "2.0"
+    filter:
+      - heart
+      - Heart
+    categories:
+      - Unsorted
+  - 
+    name: Home Alt
+    id: home-alt
+    unicode: f188
+    created: "2.0"
+    filter:
+      - home
+      - alt
+      - Home Alt
+      - home-alt
+    categories:
+      - Unsorted
+  - 
+    name: Home
+    id: home
+    unicode: f189
+    created: "2.0"
+    filter:
+      - home
+      - Home
+    categories:
+      - Unsorted
+  - 
+    name: Hourglass
+    id: hourglass
+    unicode: f18a
+    created: "2.0"
+    filter:
+      - hourglass
+      - Hourglass
+    categories:
+      - Unsorted
+  - 
+    name: Idea Alt
+    id: idea-alt
+    unicode: f18b
+    created: "2.0"
+    filter:
+      - idea
+      - alt
+      - Idea Alt
+      - idea-alt
+    categories:
+      - Unsorted
+  - 
+    name: Idea
+    id: idea
+    unicode: f18c
+    created: "2.0"
+    filter:
+      - idea
+      - Idea
+    categories:
+      - Unsorted
+  - 
+    name: Inbox Alt
+    id: inbox-alt
+    unicode: f18d
+    created: "2.0"
+    filter:
+      - inbox
+      - alt
+      - Inbox Alt
+      - inbox-alt
+    categories:
+      - Unsorted
+  - 
+    name: Inbox Box
+    id: inbox-box
+    unicode: f18e
+    created: "2.0"
+    filter:
+      - inbox
+      - box
+      - Inbox Box
+      - inbox-box
+    categories:
+      - Unsorted
+  - 
+    name: Inbox
+    id: inbox
+    unicode: f18f
+    created: "2.0"
+    filter:
+      - inbox
+      - Inbox
+    categories:
+      - Unsorted
+  - 
+    name: Indent Left
+    id: indent-left
+    unicode: f190
+    created: "2.0"
+    filter:
+      - indent
+      - left
+      - Indent Left
+      - indent-left
+    categories:
+      - Unsorted
+  - 
+    name: Indent Right
+    id: indent-right
+    unicode: f191
+    created: "2.0"
+    filter:
+      - indent
+      - right
+      - Indent Right
+      - indent-right
+    categories:
+      - Unsorted
+  - 
+    name: Info Sign
+    id: info-sign
+    unicode: f192
+    created: "2.0"
+    filter:
+      - info
+      - sign
+      - Info Sign
+      - info-sign
+    categories:
+      - Unsorted
+  - 
+    name: Instagram
+    id: instagram
+    unicode: f193
+    created: "2.0"
+    filter:
+      - instagram
+      - Instagram
+    categories:
+      - Unsorted
+  - 
+    name: Iphone Home
+    id: iphone-home
+    unicode: f194
+    created: "2.0"
+    filter:
+      - iphone
+      - home
+      - Iphone Home
+      - iphone-home
+    categories:
+      - Unsorted
+  - 
+    name: Italic
+    id: italic
+    unicode: f195
+    created: "2.0"
+    filter:
+      - italic
+      - Italic
+    categories:
+      - Unsorted
+  - 
+    name: Key
+    id: key
+    unicode: f196
+    created: "2.0"
+    filter:
       - key
-      - Return Key
-      - return-key
+      - Key
     categories:
       - Unsorted
   - 
-    name: Resize Vertical
-    id: resize-vertical
-    unicode: f1df
-    created: "1.0"
+    name: Laptop Alt
+    id: laptop-alt
+    unicode: f197
+    created: "2.0"
     filter:
-      - resize
-      - vertical
-      - Resize Vertical
-      - resize-vertical
-    categories:
-      - Unsorted
-  - 
-    name: Resize Small
-    id: resize-small
-    unicode: f1de
-    created: "1.0"
-    filter:
-      - resize
-      - small
-      - Resize Small
-      - resize-small
-    categories:
-      - Unsorted
-  - 
-    name: Resize Horizontal
-    id: resize-horizontal
-    unicode: f1dd
-    created: "1.0"
-    filter:
-      - resize
-      - horizontal
-      - Resize Horizontal
-      - resize-horizontal
-    categories:
-      - Unsorted
-  - 
-    name: Resize Full
-    id: resize-full
-    unicode: f1dc
-    created: "1.0"
-    filter:
-      - resize
-      - full
-      - Resize Full
-      - resize-full
-    categories:
-      - Unsorted
-  - 
-    name: Repeat Alt
-    id: repeat-alt
-    unicode: f1da
-    created: "1.0"
-    filter:
-      - repeat
+      - laptop
       - alt
-      - Repeat Alt
-      - repeat-alt
+      - Laptop Alt
+      - laptop-alt
     categories:
       - Unsorted
   - 
-    name: Repeat
-    id: repeat
-    unicode: f1db
-    created: "1.0"
+    name: Laptop
+    id: laptop
+    unicode: f198
+    created: "2.0"
     filter:
-      - repeat
-      - Repeat
+      - laptop
+      - Laptop
     categories:
       - Unsorted
   - 
-    name: Remove Sign
-    id: remove-sign
-    unicode: f1d8
-    created: "1.0"
+    name: Lastfm
+    id: lastfm
+    unicode: f199
+    created: "2.0"
     filter:
-      - remove
+      - lastfm
+      - Lastfm
+    categories:
+      - Unsorted
+  - 
+    name: Leaf
+    id: leaf
+    unicode: f19a
+    created: "2.0"
+    filter:
+      - leaf
+      - Leaf
+    categories:
+      - Unsorted
+  - 
+    name: Lines
+    id: lines
+    unicode: f19b
+    created: "2.0"
+    filter:
+      - lines
+      - Lines
+    categories:
+      - Unsorted
+  - 
+    name: Link
+    id: link
+    unicode: f19c
+    created: "2.0"
+    filter:
+      - link
+      - Link
+    categories:
+      - Unsorted
+  - 
+    name: Linkedin
+    id: linkedin
+    unicode: f19d
+    created: "2.0"
+    filter:
+      - linkedin
+      - Linkedin
+    categories:
+      - Unsorted
+  - 
+    name: List Alt
+    id: list-alt
+    unicode: f19e
+    created: "2.0"
+    filter:
+      - list
+      - alt
+      - List Alt
+      - list-alt
+    categories:
+      - Unsorted
+  - 
+    name: List
+    id: list
+    unicode: f19f
+    created: "2.0"
+    filter:
+      - list
+      - List
+    categories:
+      - Unsorted
+  - 
+    name: Livejournal
+    id: livejournal
+    unicode: f1a0
+    created: "2.0"
+    filter:
+      - livejournal
+      - Livejournal
+    categories:
+      - Unsorted
+  - 
+    name: Lock Alt
+    id: lock-alt
+    unicode: f1a1
+    created: "2.0"
+    filter:
+      - lock
+      - alt
+      - Lock Alt
+      - lock-alt
+    categories:
+      - Unsorted
+  - 
+    name: Lock
+    id: lock
+    unicode: f1a2
+    created: "2.0"
+    filter:
+      - lock
+      - Lock
+    categories:
+      - Unsorted
+  - 
+    name: Magic
+    id: magic
+    unicode: f1a3
+    created: "2.0"
+    filter:
+      - magic
+      - Magic
+    categories:
+      - Unsorted
+  - 
+    name: Magnet
+    id: magnet
+    unicode: f1a4
+    created: "2.0"
+    filter:
+      - magnet
+      - Magnet
+    categories:
+      - Unsorted
+  - 
+    name: Male
+    id: male
+    unicode: f1a5
+    created: "2.0"
+    filter:
+      - male
+      - Male
+    categories:
+      - Unsorted
+  - 
+    name: Map Marker Alt
+    id: map-marker-alt
+    unicode: f1a6
+    created: "2.0"
+    filter:
+      - map
+      - marker
+      - alt
+      - Map Marker Alt
+      - map-marker-alt
+    categories:
+      - Unsorted
+  - 
+    name: Map Marker
+    id: map-marker
+    unicode: f1a7
+    created: "2.0"
+    filter:
+      - map
+      - marker
+      - Map Marker
+      - map-marker
+    categories:
+      - Unsorted
+  - 
+    name: Mic Alt
+    id: mic-alt
+    unicode: f1a8
+    created: "2.0"
+    filter:
+      - mic
+      - alt
+      - Mic Alt
+      - mic-alt
+    categories:
+      - Unsorted
+  - 
+    name: Mic
+    id: mic
+    unicode: f1a9
+    created: "2.0"
+    filter:
+      - mic
+      - Mic
+    categories:
+      - Unsorted
+  - 
+    name: Minus Sign
+    id: minus-sign
+    unicode: f1aa
+    created: "2.0"
+    filter:
+      - minus
       - sign
-      - Remove Sign
-      - remove-sign
+      - Minus Sign
+      - minus-sign
     categories:
       - Unsorted
   - 
-    name: Remove Circle
-    id: remove-circle
-    unicode: f1d7
-    created: "1.0"
+    name: Minus
+    id: minus
+    unicode: f1ab
+    created: "2.0"
     filter:
-      - remove
+      - minus
+      - Minus
+    categories:
+      - Unsorted
+  - 
+    name: Move
+    id: move
+    unicode: f1ac
+    created: "2.0"
+    filter:
+      - move
+      - Move
+    categories:
+      - Unsorted
+  - 
+    name: Music
+    id: music
+    unicode: f1ad
+    created: "2.0"
+    filter:
+      - music
+      - Music
+    categories:
+      - Unsorted
+  - 
+    name: Myspace
+    id: myspace
+    unicode: f1ae
+    created: "2.0"
+    filter:
+      - myspace
+      - Myspace
+    categories:
+      - Unsorted
+  - 
+    name: Network
+    id: network
+    unicode: f1af
+    created: "2.0"
+    filter:
+      - network
+      - Network
+    categories:
+      - Unsorted
+  - 
+    name: 'Off'
+    id: 'off'
+    unicode: f1b0
+    created: "2.0"
+    filter:
+      - 'off'
+      - 'Off'
+    categories:
+      - Unsorted
+  - 
+    name: Ok Circle
+    id: ok-circle
+    unicode: f1b1
+    created: "2.0"
+    filter:
+      - ok
       - circle
-      - Remove Circle
-      - remove-circle
+      - Ok Circle
+      - ok-circle
     categories:
       - Unsorted
   - 
-    name: Remove
-    id: remove
-    unicode: f1d9
-    created: "1.0"
+    name: Ok Sign
+    id: ok-sign
+    unicode: f1b2
+    created: "2.0"
     filter:
-      - remove
-      - Remove
-    categories:
-      - Unsorted
-  - 
-    name: Refresh
-    id: refresh
-    unicode: f1d6
-    created: "1.0"
-    filter:
-      - refresh
-      - Refresh
-    categories:
-      - Unsorted
-  - 
-    name: Reddit
-    id: reddit
-    unicode: f1d4
-    created: "1.0"
-    filter:
-      - reddit
-      - Reddit
-    categories:
-      - Unsorted
-  - 
-    name: Record
-    id: record
-    unicode: f1d3
-    created: "1.0"
-    filter:
-      - record
-      - Record
-    categories:
-      - Unsorted
-  - 
-    name: Random
-    id: random
-    unicode: f1d2
-    created: "1.0"
-    filter:
-      - random
-      - Random
-    categories:
-      - Unsorted
-  - 
-    name: Quotes Alt
-    id: quotes-alt
-    unicode: f1d0
-    created: "1.0"
-    filter:
-      - quotes
-      - alt
-      - Quotes Alt
-      - quotes-alt
-    categories:
-      - Unsorted
-  - 
-    name: Quotes
-    id: quotes
-    unicode: f1d1
-    created: "1.0"
-    filter:
-      - quotes
-      - Quotes
-    categories:
-      - Unsorted
-  - 
-    name: Question Sign
-    id: question-sign
-    unicode: f1ce
-    created: "1.0"
-    filter:
-      - question
+      - ok
       - sign
-      - Question Sign
-      - question-sign
+      - Ok Sign
+      - ok-sign
     categories:
       - Unsorted
   - 
-    name: Question
-    id: question
-    unicode: f1cf
-    created: "1.0"
+    name: Ok
+    id: ok
+    unicode: f1b3
+    created: "2.0"
     filter:
-      - question
-      - Question
+      - ok
+      - Ok
     categories:
       - Unsorted
   - 
-    name: Qrcode
-    id: qrcode
-    unicode: f1cd
-    created: "1.0"
+    name: Opensource
+    id: opensource
+    unicode: f1b4
+    created: "2.0"
     filter:
-      - qrcode
-      - Qrcode
-    categories:
-      - Unsorted
-  - 
-    name: Puzzle
-    id: puzzle
-    unicode: f1cc
-    created: "1.0"
-    filter:
-      - puzzle
-      - Puzzle
-    categories:
-      - Unsorted
-  - 
-    name: Print
-    id: print
-    unicode: f1cb
-    created: "1.0"
-    filter:
-      - print
-      - Print
-    categories:
-      - Unsorted
-  - 
-    name: Podcast
-    id: podcast
-    unicode: f1ca
-    created: "1.0"
-    filter:
-      - podcast
-      - Podcast
-    categories:
-      - Unsorted
-  - 
-    name: Plus Sign
-    id: plus-sign
-    unicode: f1c8
-    created: "1.0"
-    filter:
-      - plus
-      - sign
-      - Plus Sign
-      - plus-sign
-    categories:
-      - Unsorted
-  - 
-    name: Plus
-    id: plus
-    unicode: f1c9
-    created: "1.0"
-    filter:
-      - plus
-      - Plus
-    categories:
-      - Unsorted
-  - 
-    name: Play Circle
-    id: play-circle
-    unicode: f1c6
-    created: "1.0"
-    filter:
-      - play
-      - circle
-      - Play Circle
-      - play-circle
-    categories:
-      - Unsorted
-  - 
-    name: Play Alt
-    id: play-alt
-    unicode: f1c5
-    created: "1.0"
-    filter:
-      - play
-      - alt
-      - Play Alt
-      - play-alt
-    categories:
-      - Unsorted
-  - 
-    name: Play
-    id: play
-    unicode: f1c7
-    created: "1.0"
-    filter:
-      - play
-      - Play
-    categories:
-      - Unsorted
-  - 
-    name: Plane
-    id: plane
-    unicode: f1c4
-    created: "1.0"
-    filter:
-      - plane
-      - Plane
-    categories:
-      - Unsorted
-  - 
-    name: Pinterest
-    id: pinterest
-    unicode: f1c3
-    created: "1.0"
-    filter:
-      - pinterest
-      - Pinterest
-    categories:
-      - Unsorted
-  - 
-    name: Picture
-    id: picture
-    unicode: f1c2
-    created: "1.0"
-    filter:
-      - picture
-      - Picture
-    categories:
-      - Unsorted
-  - 
-    name: Picasa
-    id: picasa
-    unicode: f1c1
-    created: "1.0"
-    filter:
-      - picasa
-      - Picasa
-    categories:
-      - Unsorted
-  - 
-    name: Photo Alt
-    id: photo-alt
-    unicode: f1bf
-    created: "1.0"
-    filter:
-      - photo
-      - alt
-      - Photo Alt
-      - photo-alt
-    categories:
-      - Unsorted
-  - 
-    name: Photo
-    id: photo
-    unicode: f1c0
-    created: "1.0"
-    filter:
-      - photo
-      - Photo
-    categories:
-      - Unsorted
-  - 
-    name: Phone Alt
-    id: phone-alt
-    unicode: f1bd
-    created: "1.0"
-    filter:
-      - phone
-      - alt
-      - Phone Alt
-      - phone-alt
-    categories:
-      - Unsorted
-  - 
-    name: Phone
-    id: phone
-    unicode: f1be
-    created: "1.0"
-    filter:
-      - phone
-      - Phone
-    alias:
-      - earphone
-    categories:
-      - Unsorted
-  - 
-    name: Person
-    id: person
-    unicode: f1bc
-    created: "1.0"
-    filter:
-      - person
-      - Person
-    categories:
-      - Unsorted
-  - 
-    name: Pencil Alt
-    id: pencil-alt
-    unicode: f1ba
-    created: "1.0"
-    filter:
-      - pencil
-      - alt
-      - Pencil Alt
-      - pencil-alt
-    categories:
-      - Unsorted
-  - 
-    name: Pencil
-    id: pencil
-    unicode: f1bb
-    created: "1.0"
-    filter:
-      - pencil
-      - Pencil
-    categories:
-      - Unsorted
-  - 
-    name: Pause Alt
-    id: pause-alt
-    unicode: f1b8
-    created: "1.0"
-    filter:
-      - pause
-      - alt
-      - Pause Alt
-      - pause-alt
-    categories:
-      - Unsorted
-  - 
-    name: Pause
-    id: pause
-    unicode: f1b9
-    created: "1.0"
-    filter:
-      - pause
-      - Pause
-    categories:
-      - Unsorted
-  - 
-    name: Path
-    id: path
-    unicode: f1b7
-    created: "1.0"
-    filter:
-      - path
-      - Path
+      - opensource
+      - Opensource
     categories:
       - Unsorted
   - 
     name: Paper Clip Alt
     id: paper-clip-alt
     unicode: f1b5
-    created: "1.0"
+    created: "2.0"
     filter:
       - paper
       - clip
@@ -1293,7 +1986,7 @@ icons:
     name: Paper Clip
     id: paper-clip
     unicode: f1b6
-    created: "1.0"
+    created: "2.0"
     filter:
       - paper
       - clip
@@ -1304,1971 +1997,323 @@ icons:
     categories:
       - Unsorted
   - 
-    name: Opensource
-    id: opensource
-    unicode: f1b4
-    created: "1.0"
-    filter:
-      - opensource
-      - Opensource
-    categories:
-      - Unsorted
-  - 
-    name: Ok Sign
-    id: ok-sign
-    unicode: f1b2
-    created: "1.0"
-    filter:
-      - ok
-      - sign
-      - Ok Sign
-      - ok-sign
-    categories:
-      - Unsorted
-  - 
-    name: Ok Circle
-    id: ok-circle
-    unicode: f1b1
-    created: "1.0"
-    filter:
-      - ok
-      - circle
-      - Ok Circle
-      - ok-circle
-    categories:
-      - Unsorted
-  - 
-    name: Ok
-    id: ok
-    unicode: f1b3
-    created: "1.0"
-    filter:
-      - ok
-      - Ok
-    categories:
-      - Unsorted
-  - 
-    name: Network
-    id: network
-    unicode: f1af
-    created: "1.0"
-    filter:
-      - network
-      - Network
-    categories:
-      - Unsorted
-  - 
-    name: Myspace
-    id: myspace
-    unicode: f1ae
-    created: "1.0"
-    filter:
-      - myspace
-      - Myspace
-    categories:
-      - Unsorted
-  - 
-    name: Music
-    id: music
-    unicode: f1ad
-    created: "1.0"
-    filter:
-      - music
-      - Music
-    categories:
-      - Unsorted
-  - 
-    name: Move
-    id: move
-    unicode: f1ac
-    created: "1.0"
-    filter:
-      - move
-      - Move
-    categories:
-      - Unsorted
-  - 
-    name: Minus Sign
-    id: minus-sign
-    unicode: f1aa
-    created: "1.0"
-    filter:
-      - minus
-      - sign
-      - Minus Sign
-      - minus-sign
-    categories:
-      - Unsorted
-  - 
-    name: Minus
-    id: minus
-    unicode: f1ab
-    created: "1.0"
-    filter:
-      - minus
-      - Minus
-    categories:
-      - Unsorted
-  - 
-    name: Mic Alt
-    id: mic-alt
-    unicode: f1a8
-    created: "1.0"
-    filter:
-      - mic
-      - alt
-      - Mic Alt
-      - mic-alt
-    categories:
-      - Unsorted
-  - 
-    name: Mic
-    id: mic
-    unicode: f1a9
-    created: "1.0"
-    filter:
-      - mic
-      - Mic
-    categories:
-      - Unsorted
-  - 
-    name: Map Marker Alt
-    id: map-marker-alt
-    unicode: f1a6
-    created: "1.0"
-    filter:
-      - map
-      - marker
-      - alt
-      - Map Marker Alt
-      - map-marker-alt
-    categories:
-      - Unsorted
-  - 
-    name: Map Marker
-    id: map-marker
-    unicode: f1a7
-    created: "1.0"
-    filter:
-      - map
-      - marker
-      - Map Marker
-      - map-marker
-    categories:
-      - Unsorted
-  - 
-    name: Male
-    id: male
-    unicode: f1a5
-    created: "1.0"
-    filter:
-      - male
-      - Male
-    categories:
-      - Unsorted
-  - 
-    name: Magnet
-    id: magnet
-    unicode: f1a4
-    created: "1.0"
-    filter:
-      - magnet
-      - Magnet
-    categories:
-      - Unsorted
-  - 
-    name: Magic
-    id: magic
-    unicode: f1a3
-    created: "1.0"
-    filter:
-      - magic
-      - Magic
-    categories:
-      - Unsorted
-  - 
-    name: Lock Alt
-    id: lock-alt
-    unicode: f1a1
-    created: "1.0"
-    filter:
-      - lock
-      - alt
-      - Lock Alt
-      - lock-alt
-    categories:
-      - Unsorted
-  - 
-    name: Lock
-    id: lock
-    unicode: f1a2
-    created: "1.0"
-    filter:
-      - lock
-      - Lock
-    categories:
-      - Unsorted
-  - 
-    name: Livejournal
-    id: livejournal
-    unicode: f1a0
-    created: "1.0"
-    filter:
-      - livejournal
-      - Livejournal
-    categories:
-      - Unsorted
-  - 
-    name: List Alt
-    id: list-alt
-    unicode: f19e
-    created: "1.0"
-    filter:
-      - list
-      - alt
-      - List Alt
-      - list-alt
-    categories:
-      - Unsorted
-  - 
-    name: List
-    id: list
-    unicode: f19f
-    created: "1.0"
-    filter:
-      - list
-      - List
-    categories:
-      - Unsorted
-  - 
-    name: Linkedin
-    id: linkedin
-    unicode: f19d
-    created: "1.0"
-    filter:
-      - linkedin
-      - Linkedin
-    categories:
-      - Unsorted
-  - 
-    name: Link
-    id: link
-    unicode: f19c
-    created: "1.0"
-    filter:
-      - link
-      - Link
-    categories:
-      - Unsorted
-  - 
-    name: Lines
-    id: lines
-    unicode: f19b
-    created: "1.0"
-    filter:
-      - lines
-      - Lines
-    categories:
-      - Unsorted
-  - 
-    name: Leaf
-    id: leaf
-    unicode: f19a
-    created: "1.0"
-    filter:
-      - leaf
-      - Leaf
-    categories:
-      - Unsorted
-  - 
-    name: Lastfm
-    id: lastfm
-    unicode: f199
-    created: "1.0"
-    filter:
-      - lastfm
-      - Lastfm
-    categories:
-      - Unsorted
-  - 
-    name: Laptop Alt
-    id: laptop-alt
-    unicode: f197
-    created: "1.0"
-    filter:
-      - laptop
-      - alt
-      - Laptop Alt
-      - laptop-alt
-    categories:
-      - Unsorted
-  - 
-    name: Laptop
-    id: laptop
-    unicode: f198
-    created: "1.0"
-    filter:
-      - laptop
-      - Laptop
-    categories:
-      - Unsorted
-  - 
-    name: Key
-    id: key
-    unicode: f196
-    created: "1.0"
-    filter:
-      - key
-      - Key
-    categories:
-      - Unsorted
-  - 
-    name: Italic
-    id: italic
-    unicode: f195
-    created: "1.0"
-    filter:
-      - italic
-      - Italic
-    categories:
-      - Unsorted
-  - 
-    name: Iphone Home
-    id: iphone-home
-    unicode: f194
-    created: "1.0"
-    filter:
-      - iphone
-      - home
-      - Iphone Home
-      - iphone-home
-    categories:
-      - Unsorted
-  - 
-    name: Instagram
-    id: instagram
-    unicode: f193
-    created: "1.0"
-    filter:
-      - instagram
-      - Instagram
-    categories:
-      - Unsorted
-  - 
-    name: Info Sign
-    id: info-sign
-    unicode: f192
-    created: "1.0"
-    filter:
-      - info
-      - sign
-      - Info Sign
-      - info-sign
-    categories:
-      - Unsorted
-  - 
-    name: Indent Right
-    id: indent-right
-    unicode: f191
-    created: "1.0"
-    filter:
-      - indent
-      - right
-      - Indent Right
-      - indent-right
-    categories:
-      - Unsorted
-  - 
-    name: Indent Left
-    id: indent-left
-    unicode: f190
-    created: "1.0"
-    filter:
-      - indent
-      - left
-      - Indent Left
-      - indent-left
-    categories:
-      - Unsorted
-  - 
-    name: Inbox Box
-    id: inbox-box
-    unicode: f18e
-    created: "1.0"
-    filter:
-      - inbox
-      - box
-      - Inbox Box
-      - inbox-box
-    categories:
-      - Unsorted
-  - 
-    name: Inbox Alt
-    id: inbox-alt
-    unicode: f18d
-    created: "1.0"
-    filter:
-      - inbox
-      - alt
-      - Inbox Alt
-      - inbox-alt
-    categories:
-      - Unsorted
-  - 
-    name: Inbox
-    id: inbox
-    unicode: f18f
-    created: "1.0"
-    filter:
-      - inbox
-      - Inbox
-    categories:
-      - Unsorted
-  - 
-    name: Idea Alt
-    id: idea-alt
-    unicode: f18b
-    created: "1.0"
-    filter:
-      - idea
-      - alt
-      - Idea Alt
-      - idea-alt
-    categories:
-      - Unsorted
-  - 
-    name: Idea
-    id: idea
-    unicode: f18c
-    created: "1.0"
-    filter:
-      - idea
-      - Idea
-    categories:
-      - Unsorted
-  - 
-    name: Hourglass
-    id: hourglass
-    unicode: f18a
-    created: "1.0"
-    filter:
-      - hourglass
-      - Hourglass
-    categories:
-      - Unsorted
-  - 
-    name: Home Alt
-    id: home-alt
-    unicode: f188
-    created: "1.0"
-    filter:
-      - home
-      - alt
-      - Home Alt
-      - home-alt
-    categories:
-      - Unsorted
-  - 
-    name: Home
-    id: home
-    unicode: f189
-    created: "1.0"
-    filter:
-      - home
-      - Home
-    categories:
-      - Unsorted
-  - 
-    name: Heart Empty
-    id: heart-empty
-    unicode: f186
-    created: "1.0"
-    filter:
-      - heart
-      - empty
-      - Heart Empty
-      - heart-empty
-    categories:
-      - Unsorted
-  - 
-    name: Heart Alt
-    id: heart-alt
-    unicode: f185
-    created: "1.0"
-    filter:
-      - heart
-      - alt
-      - Heart Alt
-      - heart-alt
-    categories:
-      - Unsorted
-  - 
-    name: Heart
-    id: heart
-    unicode: f187
-    created: "1.0"
-    filter:
-      - heart
-      - Heart
-    categories:
-      - Unsorted
-  - 
-    name: Hearing Impaired
-    id: hearing-impaired
-    unicode: f184
-    created: "1.0"
-    filter:
-      - hearing
-      - impaired
-      - Hearing Impaired
-      - hearing-impaired
-    categories:
-      - Unsorted
-  - 
-    name: Headphones
-    id: headphones
-    unicode: f183
-    created: "1.0"
-    filter:
-      - headphones
-      - Headphones
-    categories:
-      - Unsorted
-  - 
-    name: Hdd
-    id: hdd
-    unicode: f182
-    created: "1.0"
-    filter:
-      - hdd
-      - Hdd
-    categories:
-      - Unsorted
-  - 
-    name: Hand Up
-    id: hand-up
-    unicode: f181
-    created: "1.0"
-    filter:
-      - hand
-      - up
-      - Hand Up
-      - hand-up
-    categories:
-      - Unsorted
-  - 
-    name: Hand Right
-    id: hand-right
-    unicode: f180
-    created: "1.0"
-    filter:
-      - hand
-      - right
-      - Hand Right
-      - hand-right
-    categories:
-      - Unsorted
-  - 
-    name: Hand Left
-    id: hand-left
-    unicode: f17f
-    created: "1.0"
-    filter:
-      - hand
-      - left
-      - Hand Left
-      - hand-left
-    categories:
-      - Unsorted
-  - 
-    name: Hand Down
-    id: hand-down
-    unicode: f17e
-    created: "1.0"
-    filter:
-      - hand
-      - down
-      - Hand Down
-      - hand-down
-    categories:
-      - Unsorted
-  - 
-    name: Guidedog
-    id: guidedog
-    unicode: f17d
-    created: "1.0"
-    filter:
-      - guidedog
-      - Guidedog
-    categories:
-      - Unsorted
-  - 
-    name: Group Alt
-    id: group-alt
-    unicode: f17b
-    created: "1.0"
-    filter:
-      - group
-      - alt
-      - Group Alt
-      - group-alt
-    categories:
-      - Unsorted
-  - 
-    name: Group
-    id: group
-    unicode: f17c
-    created: "1.0"
-    filter:
-      - group
-      - Group
-    categories:
-      - Unsorted
-  - 
-    name: Graph Alt
-    id: graph-alt
-    unicode: f179
-    created: "1.0"
-    filter:
-      - graph
-      - alt
-      - Graph Alt
-      - graph-alt
-    categories:
-      - Unsorted
-  - 
-    name: Graph
-    id: graph
-    unicode: f17a
-    created: "1.0"
-    filter:
-      - graph
-      - Graph
-    categories:
-      - Unsorted
-  - 
-    name: Googleplus
-    id: googleplus
-    unicode: f178
-    created: "1.0"
-    filter:
-      - googleplus
-      - Googleplus
-    categories:
-      - Unsorted
-  - 
-    name: Globe Alt
-    id: globe-alt
-    unicode: f176
-    created: "1.0"
-    filter:
-      - globe
-      - alt
-      - Globe Alt
-      - globe-alt
-    categories:
-      - Unsorted
-  - 
-    name: Globe
-    id: globe
-    unicode: f177
-    created: "1.0"
-    filter:
-      - globe
-      - Globe
-    categories:
-      - Unsorted
-  - 
-    name: Glasses
-    id: glasses
-    unicode: f175
-    created: "1.0"
-    filter:
-      - glasses
-      - Glasses
-    categories:
-      - Unsorted
-  - 
-    name: Glass
-    id: glass
-    unicode: f174
-    created: "1.0"
-    filter:
-      - glass
-      - Glass
-    categories:
-      - Unsorted
-  - 
-    name: Github Text
-    id: github-text
-    unicode: f172
-    created: "1.0"
-    filter:
-      - github
-      - text
-      - Github Text
-      - github-text
-    categories:
-      - Unsorted
-  - 
-    name: Github
-    id: github
-    unicode: f173
-    created: "1.0"
-    filter:
-      - github
-      - Github
-    categories:
-      - Unsorted
-  - 
-    name: Gift
-    id: gift
-    unicode: f171
-    created: "1.0"
-    filter:
-      - gift
-      - Gift
-    categories:
-      - Unsorted
-  - 
-    name: Gbp
-    id: gbp
-    unicode: f170
-    created: "1.0"
-    filter:
-      - gbp
-      - Gbp
-    categories:
-      - Unsorted
-  - 
-    name: Fullscreen
-    id: fullscreen
-    unicode: f16f
-    created: "1.0"
-    filter:
-      - fullscreen
-      - Fullscreen
-    categories:
-      - Unsorted
-  - 
-    name: Friendfeed Rect
-    id: friendfeed-rect
-    unicode: f16d
-    created: "1.0"
-    filter:
-      - friendfeed
-      - rect
-      - Friendfeed Rect
-      - friendfeed-rect
-    categories:
-      - Unsorted
-  - 
-    name: Friendfeed
-    id: friendfeed
-    unicode: f16e
-    created: "1.0"
-    filter:
-      - friendfeed
-      - Friendfeed
-    categories:
-      - Unsorted
-  - 
-    name: Foursquare
-    id: foursquare
-    unicode: f16c
-    created: "1.0"
-    filter:
-      - foursquare
-      - Foursquare
-    categories:
-      - Unsorted
-  - 
-    name: Forward Alt
-    id: forward-alt
-    unicode: f16a
-    created: "1.0"
-    filter:
-      - forward
-      - alt
-      - Forward Alt
-      - forward-alt
-    categories:
-      - Unsorted
-  - 
-    name: Forward
-    id: forward
-    unicode: f16b
-    created: "1.0"
-    filter:
-      - forward
-      - Forward
-    categories:
-      - Unsorted
-  - 
-    name: Fork
-    id: fork
-    unicode: f169
-    created: "1.0"
-    filter:
-      - fork
-      - Fork
-    categories:
-      - Unsorted
-  - 
-    name: Fontsize
-    id: fontsize
-    unicode: f168
-    created: "1.0"
-    filter:
-      - fontsize
-      - Fontsize
-    categories:
-      - Unsorted
-  - 
-    name: Font
-    id: font
-    unicode: f167
-    created: "1.0"
-    filter:
-      - font
-      - Font
-    categories:
-      - Unsorted
-  - 
-    name: Folder Sign
-    id: folder-sign
-    unicode: f165
-    created: "1.0"
-    filter:
-      - folder
-      - sign
-      - Folder Sign
-      - folder-sign
-    categories:
-      - Unsorted
-  - 
-    name: Folder Open
-    id: folder-open
-    unicode: f164
-    created: "1.0"
-    filter:
-      - folder
-      - open
-      - Folder Open
-      - folder-open
-    categories:
-      - Unsorted
-  - 
-    name: Folder Close
-    id: folder-close
-    unicode: f163
-    created: "1.0"
-    filter:
-      - folder
-      - close
-      - Folder Close
-      - folder-close
-    categories:
-      - Unsorted
-  - 
-    name: Folder
-    id: folder
-    unicode: f166
-    created: "1.0"
-    filter:
-      - folder
-      - Folder
-    categories:
-      - Unsorted
-  - 
-    name: Flickr
-    id: flickr
-    unicode: f162
-    created: "1.0"
-    filter:
-      - flickr
-      - Flickr
-    categories:
-      - Unsorted
-  - 
-    name: Flag Alt
-    id: flag-alt
-    unicode: f160
-    created: "1.0"
-    filter:
-      - flag
-      - alt
-      - Flag Alt
-      - flag-alt
-    categories:
-      - Unsorted
-  - 
-    name: Flag
-    id: flag
-    unicode: f161
-    created: "1.0"
-    filter:
-      - flag
-      - Flag
-    categories:
-      - Unsorted
-  - 
-    name: Fire
-    id: fire
-    unicode: f15f
-    created: "1.0"
-    filter:
-      - fire
-      - Fire
-    categories:
-      - Unsorted
-  - 
-    name: Filter
-    id: filter
-    unicode: f15e
-    created: "1.0"
-    filter:
-      - filter
-      - Filter
-    categories:
-      - Unsorted
-  - 
-    name: Film
-    id: film
-    unicode: f15d
-    created: "1.0"
-    filter:
-      - film
-      - Film
-    categories:
-      - Unsorted
-  - 
-    name: File New Alt
-    id: file-new-alt
-    unicode: f15a
-    created: "1.0"
-    filter:
-      - file
-      - new
-      - alt
-      - File New Alt
-      - file-new-alt
-    categories:
-      - Unsorted
-  - 
-    name: File New
-    id: file-new
-    unicode: f15b
-    created: "1.0"
-    filter:
-      - file
-      - new
-      - File New
-      - file-new
-    categories:
-      - Unsorted
-  - 
-    name: File Edit Alt
-    id: file-edit-alt
-    unicode: f158
-    created: "1.0"
-    filter:
-      - file
-      - edit
-      - alt
-      - File Edit Alt
-      - file-edit-alt
-    categories:
-      - Unsorted
-  - 
-    name: File Edit
-    id: file-edit
-    unicode: f159
-    created: "1.0"
-    filter:
-      - file
-      - edit
-      - File Edit
-      - file-edit
-    categories:
-      - Unsorted
-  - 
-    name: File Alt
-    id: file-alt
-    unicode: f157
-    created: "1.0"
-    filter:
-      - file
-      - alt
-      - File Alt
-      - file-alt
-    categories:
-      - Unsorted
-  - 
-    name: File
-    id: file
-    unicode: f15c
-    created: "1.0"
-    filter:
-      - file
-      - File
-    categories:
-      - Unsorted
-  - 
-    name: Female
-    id: female
-    unicode: f156
-    created: "1.0"
-    filter:
-      - female
-      - Female
-    categories:
-      - Unsorted
-  - 
-    name: Fast Forward
-    id: fast-forward
-    unicode: f155
-    created: "1.0"
-    filter:
-      - fast
-      - forward
-      - Fast Forward
-      - fast-forward
-    categories:
-      - Unsorted
-  - 
-    name: Fast Backward
-    id: fast-backward
-    unicode: f154
-    created: "1.0"
-    filter:
-      - fast
-      - backward
-      - Fast Backward
-      - fast-backward
-    categories:
-      - Unsorted
-  - 
-    name: Facetime Video
-    id: facetime-video
-    unicode: f153
-    created: "1.0"
-    filter:
-      - facetime
-      - video
-      - Facetime Video
-      - facetime-video
-    categories:
-      - Unsorted
-  - 
-    name: Facebook
-    id: facebook
-    unicode: f152
-    created: "1.0"
-    filter:
-      - facebook
-      - Facebook
-    categories:
-      - Unsorted
-  - 
-    name: Eye Open
-    id: eye-open
-    unicode: f151
-    created: "1.0"
-    filter:
-      - eye
-      - open
-      - Eye Open
-      - eye-open
-    categories:
-      - Unsorted
-  - 
-    name: Eye Close
-    id: eye-close
-    unicode: f150
-    created: "1.0"
-    filter:
-      - eye
-      - close
-      - Eye Close
-      - eye-close
-    categories:
-      - Unsorted
-  - 
-    name: Exclamation Sign
-    id: exclamation-sign
-    unicode: f14f
-    created: "1.0"
-    filter:
-      - exclamation
-      - sign
-      - Exclamation Sign
-      - exclamation-sign
-    categories:
-      - Unsorted
-  - 
-    name: Eur
-    id: eur
-    unicode: f14e
-    created: "1.0"
-    filter:
-      - eur
-      - Eur
-    categories:
-      - Unsorted
-  - 
-    name: Error Alt
-    id: error-alt
-    unicode: f14c
-    created: "1.0"
-    filter:
-      - error
-      - alt
-      - Error Alt
-      - error-alt
-    categories:
-      - Unsorted
-  - 
-    name: Error
-    id: error
-    unicode: f14d
-    created: "1.0"
-    filter:
-      - error
-      - Error
-    categories:
-      - Unsorted
-  - 
-    name: Envelope Alt
-    id: envelope-alt
-    unicode: f14a
-    created: "1.0"
-    filter:
-      - envelope
-      - alt
-      - Envelope Alt
-      - envelope-alt
-    categories:
-      - Unsorted
-  - 
-    name: Envelope
-    id: envelope
-    unicode: f14b
-    created: "1.0"
-    filter:
-      - envelope
-      - Envelope
-    categories:
-      - Unsorted
-  - 
-    name: Eject
-    id: eject
-    unicode: f149
-    created: "1.0"
-    filter:
-      - eject
-      - Eject
-    categories:
-      - Unsorted
-  - 
-    name: Edit
-    id: edit
-    unicode: f148
-    created: "1.0"
-    filter:
-      - edit
-      - Edit
-    categories:
-      - Unsorted
-  - 
-    name: Dribbble
-    id: dribbble
-    unicode: f147
-    created: "1.0"
-    filter:
-      - dribbble
-      - Dribbble
-    categories:
-      - Unsorted
-  - 
-    name: Download Alt
-    id: download-alt
-    unicode: f145
-    created: "1.0"
-    filter:
-      - download
-      - alt
-      - Download Alt
-      - download-alt
-    categories:
-      - Unsorted
-  - 
-    name: Download
-    id: download
-    unicode: f146
-    created: "1.0"
-    filter:
-      - download
-      - Download
-    categories:
-      - Unsorted
-  - 
-    name: Digg
-    id: digg
-    unicode: f144
-    created: "1.0"
-    filter:
-      - digg
-      - Digg
-    categories:
-      - Unsorted
-  - 
-    name: Deviantart
-    id: deviantart
-    unicode: f143
-    created: "1.0"
-    filter:
-      - deviantart
-      - Deviantart
-    categories:
-      - Unsorted
-  - 
-    name: Delicious
-    id: delicious
-    unicode: f142
-    created: "1.0"
-    filter:
-      - delicious
-      - Delicious
-    categories:
-      - Unsorted
-  - 
-    name: Dashboard
-    id: dashboard
-    unicode: f141
-    created: "1.0"
-    filter:
-      - dashboard
-      - Dashboard
-    categories:
-      - Unsorted
-  - 
-    name: Css
-    id: css
-    unicode: f140
-    created: "1.0"
-    filter:
-      - css
-      - Css
-    categories:
-      - Unsorted
-  - 
-    name: Credit Card
-    id: credit-card
-    unicode: f13f
-    created: "1.0"
-    filter:
-      - credit
-      - card
-      - Credit Card
-      - credit-card
-    categories:
-      - Unsorted
-  - 
-    name: Compass Alt
-    id: compass-alt
-    unicode: f13d
-    created: "1.0"
-    filter:
-      - compass
-      - alt
-      - Compass Alt
-      - compass-alt
-    categories:
-      - Unsorted
-  - 
-    name: Compass
-    id: compass
-    unicode: f13e
-    created: "1.0"
-    filter:
-      - compass
-      - Compass
-    categories:
-      - Unsorted
-  - 
-    name: Comment Alt
-    id: comment-alt
-    unicode: f13b
-    created: "1.0"
-    filter:
-      - comment
-      - alt
-      - Comment Alt
-      - comment-alt
-    categories:
-      - Unsorted
-  - 
-    name: Comment
-    id: comment
-    unicode: f13c
-    created: "1.0"
-    filter:
-      - comment
-      - Comment
-    categories:
-      - Unsorted
-  - 
-    name: Cogs
-    id: cogs
-    unicode: f13a
-    created: "1.0"
-    filter:
-      - cogs
-      - Cogs
-    categories:
-      - Unsorted
-  - 
-    name: Cog Alt
-    id: cog-alt
-    unicode: f138
-    created: "1.0"
-    filter:
-      - cog
-      - alt
-      - Cog Alt
-      - cog-alt
-    categories:
-      - Unsorted
-  - 
-    name: Cog
-    id: cog
-    unicode: f139
-    created: "1.0"
-    filter:
-      - cog
-      - Cog
-    categories:
-      - Unsorted
-  - 
-    name: Cloud Alt
-    id: cloud-alt
-    unicode: f136
-    created: "1.0"
-    filter:
-      - cloud
-      - alt
-      - Cloud Alt
-      - cloud-alt
-    categories:
-      - Unsorted
-  - 
-    name: Cloud
-    id: cloud
-    unicode: f137
-    created: "1.0"
-    filter:
-      - cloud
-      - Cloud
-    categories:
-      - Unsorted
-  - 
-    name: Circle Arrow Up
-    id: circle-arrow-up
-    unicode: f135
-    created: "1.0"
-    filter:
-      - circle
-      - arrow
-      - up
-      - Circle Arrow Up
-      - circle-arrow-up
-    categories:
-      - Unsorted
-  - 
-    name: Circle Arrow Right
-    id: circle-arrow-right
-    unicode: f134
-    created: "1.0"
-    filter:
-      - circle
-      - arrow
-      - right
-      - Circle Arrow Right
-      - circle-arrow-right
-    categories:
-      - Unsorted
-  - 
-    name: Circle Arrow Left
-    id: circle-arrow-left
-    unicode: f133
-    created: "1.0"
-    filter:
-      - circle
-      - arrow
-      - left
-      - Circle Arrow Left
-      - circle-arrow-left
-    categories:
-      - Unsorted
-  - 
-    name: Circle Arrow Down
-    id: circle-arrow-down
-    unicode: f132
-    created: "1.0"
-    filter:
-      - circle
-      - arrow
-      - down
-      - Circle Arrow Down
-      - circle-arrow-down
-    categories:
-      - Unsorted
-  - 
-    name: Child
-    id: child
-    unicode: f131
-    created: "1.0"
-    filter:
-      - child
-      - Child
-    categories:
-      - Unsorted
-  - 
-    name: Chevron Up
-    id: chevron-up
-    unicode: f130
-    created: "1.0"
-    filter:
-      - chevron
-      - up
-      - Chevron Up
-      - chevron-up
-    categories:
-      - Unsorted
-  - 
-    name: Chevron Right
-    id: chevron-right
-    unicode: f12f
-    created: "1.0"
-    filter:
-      - chevron
-      - right
-      - Chevron Right
-      - chevron-right
-    categories:
-      - Unsorted
-  - 
-    name: Chevron Left
-    id: chevron-left
-    unicode: f12e
-    created: "1.0"
-    filter:
-      - chevron
-      - left
-      - Chevron Left
-      - chevron-left
-    categories:
-      - Unsorted
-  - 
-    name: Chevron Down
-    id: chevron-down
-    unicode: f12d
-    created: "1.0"
-    filter:
-      - chevron
-      - down
-      - Chevron Down
-      - chevron-down
-    categories:
-      - Unsorted
-  - 
-    name: Check Empty
-    id: check-empty
-    unicode: f12b
-    created: "1.0"
-    filter:
-      - check
-      - empty
-      - Check Empty
-      - check-empty
-    categories:
-      - Web Application Icons
-  - 
-    name: Check
-    id: check
-    unicode: f12c
-    created: "1.0"
-    filter:
-      - check
-      - Check
-    categories:
-      - Unsorted
-  - 
-    name: Certificate
-    id: certificate
-    unicode: f12a
-    created: "1.0"
-    filter:
-      - certificate
-      - Certificate
-    categories:
-      - Unsorted
-  - 
-    name: Cc
-    id: cc
-    unicode: f129
-    created: "1.0"
-    filter:
-      - cc
-      - Cc
-    categories:
-      - Unsorted
-  - 
-    name: Caret Up
-    id: caret-up
-    unicode: f128
-    created: "1.0"
-    filter:
-      - caret
-      - up
-      - Caret Up
-      - caret-up
-    categories:
-      - Unsorted
-  - 
-    name: Caret Right
-    id: caret-right
-    unicode: f127
-    created: "1.0"
-    filter:
-      - caret
-      - right
-      - Caret Right
-      - caret-right
-    categories:
-      - Unsorted
-  - 
-    name: Caret Left
-    id: caret-left
-    unicode: f126
-    created: "1.0"
-    filter:
-      - caret
-      - left
-      - Caret Left
-      - caret-left
-    categories:
-      - Unsorted
-  - 
-    name: Caret Down
-    id: caret-down
-    unicode: f125
-    created: "1.0"
-    filter:
-      - caret
-      - down
-      - Caret Down
-      - caret-down
-    categories:
-      - Unsorted
-  - 
-    name: Car
-    id: car
-    unicode: f124
-    created: "1.0"
-    filter:
-      - car
-      - Car
-    categories:
-      - Unsorted
-  - 
-    name: Camera
-    id: camera
-    unicode: f123
-    created: "1.0"
-    filter:
-      - camera
-      - Camera
-    categories:
-      - Unsorted
-  - 
-    name: Calendar Sign
-    id: calendar-sign
-    unicode: f121
-    created: "1.0"
-    filter:
-      - calendar
-      - sign
-      - Calendar Sign
-      - calendar-sign
-    categories:
-      - Unsorted
-  - 
-    name: Calendar
-    id: calendar
-    unicode: f122
-    created: "1.0"
-    filter:
-      - calendar
-      - Calendar
-    categories:
-      - Unsorted
-  - 
-    name: Bullhorn
-    id: bullhorn
-    unicode: f120
-    created: "1.0"
-    filter:
-      - bullhorn
-      - Bullhorn
-    categories:
-      - Unsorted
-  - 
-    name: Bulb
-    id: bulb
-    unicode: f11f
-    created: "1.0"
-    filter:
-      - bulb
-      - Bulb
-    categories:
-      - Unsorted
-  - 
-    name: Brush
-    id: brush
-    unicode: f11e
-    created: "1.0"
-    filter:
-      - brush
-      - Brush
-    categories:
-      - Unsorted
-  - 
-    name: Broom
-    id: broom
-    unicode: f11d
-    created: "1.0"
-    filter:
-      - broom
-      - Broom
-    categories:
-      - Unsorted
-  - 
-    name: Briefcase
-    id: briefcase
-    unicode: f11c
-    created: "1.0"
-    filter:
-      - briefcase
-      - Briefcase
-    categories:
-      - Unsorted
-  - 
-    name: Braille
-    id: braille
-    unicode: f11b
-    created: "1.0"
-    filter:
-      - braille
-      - Braille
-    categories:
-      - Unsorted
-  - 
-    name: Bookmark Empty
-    id: bookmark-empty
-    unicode: f119
-    created: "1.0"
-    filter:
-      - bookmark
-      - empty
-      - Bookmark Empty
-      - bookmark-empty
-    categories:
-      - Unsorted
-  - 
-    name: Bookmark
-    id: bookmark
-    unicode: f11a
-    created: "1.0"
-    filter:
-      - bookmark
-      - Bookmark
-    categories:
-      - Unsorted
-  - 
-    name: Book
-    id: book
-    unicode: f118
-    created: "1.0"
-    filter:
-      - book
-      - Book
-    categories:
-      - Unsorted
-  - 
-    name: Bold
-    id: bold
-    unicode: f117
-    created: "1.0"
-    filter:
-      - bold
-      - Bold
-    categories:
-      - Unsorted
-  - 
-    name: Blogger
-    id: blogger
-    unicode: f116
-    created: "1.0"
-    filter:
-      - blogger
-      - Blogger
-    categories:
-      - Unsorted
-  - 
-    name: Blind
-    id: blind
-    unicode: f115
-    created: "1.0"
-    filter:
-      - blind
-      - Blind
-    categories:
-      - Unsorted
-  - 
-    name: Bell
-    id: bell
-    unicode: f114
-    created: "1.0"
-    filter:
-      - bell
-      - Bell
-    categories:
-      - Unsorted
-  - 
-    name: Behance
-    id: behance
-    unicode: f113
-    created: "1.0"
-    filter:
-      - behance
-      - Behance
-    categories:
-      - Unsorted
-  - 
-    name: Barcode
-    id: barcode
-    unicode: f112
-    created: "1.0"
-    filter:
-      - barcode
-      - Barcode
-    categories:
-      - Unsorted
-  - 
-    name: Ban Circle
-    id: ban-circle
-    unicode: f111
-    created: "1.0"
-    filter:
-      - ban
-      - circle
-      - Ban Circle
-      - ban-circle
-    categories:
-      - Unsorted
-  - 
-    name: Backward
-    id: backward
-    unicode: f110
-    created: "1.0"
-    filter:
-      - backward
-      - Backward
-    categories:
-      - Unsorted
-  - 
-    name: Asl
-    id: asl
-    unicode: f10e
-    created: "1.0"
-    filter:
-      - asl
-      - Asl
-    categories:
-      - Unsorted
-  - 
-    name: Arrow Up
-    id: arrow-up
-    unicode: f10d
-    created: "1.0"
-    filter:
-      - arrow
-      - up
-      - Arrow Up
-      - arrow-up
-    categories:
-      - Unsorted
-  - 
-    name: Arrow Right
-    id: arrow-right
-    unicode: f10c
-    created: "1.0"
-    filter:
-      - arrow
-      - right
-      - Arrow Right
-      - arrow-right
-    categories:
-      - Unsorted
-  - 
-    name: Arrow Left
-    id: arrow-left
-    unicode: f10b
-    created: "1.0"
-    filter:
-      - arrow
-      - left
-      - Arrow Left
-      - arrow-left
-    categories:
-      - Unsorted
-  - 
-    name: Arrow Down
-    id: arrow-down
-    unicode: f10a
-    created: "1.0"
-    filter:
-      - arrow
-      - down
-      - Arrow Down
-      - arrow-down
-    categories:
-      - Unsorted
-  - 
-    name: Align Right
-    id: align-right
-    unicode: f109
-    created: "1.0"
-    filter:
-      - align
-      - right
-      - Align Right
-      - align-right
-    categories:
-      - Unsorted
-  - 
-    name: Align Left
-    id: align-left
-    unicode: f108
-    created: "1.0"
-    filter:
-      - align
-      - left
-      - Align Left
-      - align-left
-    categories:
-      - Unsorted
-  - 
-    name: Align Justify
-    id: align-justify
-    unicode: f107
-    created: "1.0"
-    filter:
-      - align
-      - justify
-      - Align Justify
-      - align-justify
-    categories:
-      - Unsorted
-  - 
-    name: Align Center
-    id: align-center
-    unicode: f106
-    created: "1.0"
-    filter:
-      - align
-      - center
-      - Align Center
-      - align-center
-    categories:
-      - Unsorted
-  - 
-    name: Adult
-    id: adult
-    unicode: f105
-    created: "1.0"
-    filter:
-      - adult
-      - Adult
-    categories:
-      - Unsorted
-  - 
-    name: Adjust Alt
-    id: adjust-alt
-    unicode: f103
-    created: "1.0"
-    filter:
-      - adjust
-      - alt
-      - Adjust Alt
-      - adjust-alt
-    categories:
-      - Unsorted
-  - 
-    name: Adjust
-    id: adjust
-    unicode: f104
-    created: "1.0"
-    filter:
-      - adjust
-      - Adjust
-    categories:
-      - Unsorted
-  - 
-    name: Address Book Alt
-    id: address-book-alt
-    unicode: f101
-    created: "1.0"
-    filter:
-      - address
-      - book
-      - alt
-      - Address Book Alt
-      - address-book-alt
-    categories:
-      - Unsorted
-  - 
-    name: Address Book
-    id: address-book
-    unicode: f102
-    created: "1.0"
-    filter:
-      - address
-      - book
-      - Address Book
-      - address-book
-    categories:
-      - Unsorted
-  - 
-    name: Asterisk
-    id: asterisk
-    unicode: f10f
-    created: "1.0"
-    filter:
-      - asterisk
-      - Asterisk
-    categories:
-      - Unsorted
-  - 
-    name: 'Off'
-    id: 'off'
-    unicode: f1b0
+    name: Path
+    id: path
+    unicode: f1b7
     created: "2.0"
     filter:
-      - 'off'
-      - 'Off'
+      - path
+      - Path
+    categories:
+      - Unsorted
+  - 
+    name: Pause Alt
+    id: pause-alt
+    unicode: f1b8
+    created: "2.0"
+    filter:
+      - pause
+      - alt
+      - Pause Alt
+      - pause-alt
+    categories:
+      - Unsorted
+  - 
+    name: Pause
+    id: pause
+    unicode: f1b9
+    created: "2.0"
+    filter:
+      - pause
+      - Pause
+    categories:
+      - Unsorted
+  - 
+    name: Pencil Alt
+    id: pencil-alt
+    unicode: f1ba
+    created: "2.0"
+    filter:
+      - pencil
+      - alt
+      - Pencil Alt
+      - pencil-alt
+    categories:
+      - Unsorted
+  - 
+    name: Pencil
+    id: pencil
+    unicode: f1bb
+    created: "2.0"
+    filter:
+      - pencil
+      - Pencil
+    categories:
+      - Unsorted
+  - 
+    name: Person
+    id: person
+    unicode: f1bc
+    created: "2.0"
+    filter:
+      - person
+      - Person
+    categories:
+      - Unsorted
+  - 
+    name: Phone Alt
+    id: phone-alt
+    unicode: f1bd
+    created: "2.0"
+    filter:
+      - phone
+      - alt
+      - Phone Alt
+      - phone-alt
+    categories:
+      - Unsorted
+  - 
+    name: Phone
+    id: phone
+    unicode: f1be
+    created: "2.0"
+    filter:
+      - phone
+      - Phone
+    alias:
+      - earphone
+    categories:
+      - Unsorted
+  - 
+    name: Photo Alt
+    id: photo-alt
+    unicode: f1bf
+    created: "2.0"
+    filter:
+      - photo
+      - alt
+      - Photo Alt
+      - photo-alt
+    categories:
+      - Unsorted
+  - 
+    name: Photo
+    id: photo
+    unicode: f1c0
+    created: "2.0"
+    filter:
+      - photo
+      - Photo
+    categories:
+      - Unsorted
+  - 
+    name: Picasa
+    id: picasa
+    unicode: f1c1
+    created: "2.0"
+    filter:
+      - picasa
+      - Picasa
+    categories:
+      - Unsorted
+  - 
+    name: Picture
+    id: picture
+    unicode: f1c2
+    created: "2.0"
+    filter:
+      - picture
+      - Picture
+    categories:
+      - Unsorted
+  - 
+    name: Pinterest
+    id: pinterest
+    unicode: f1c3
+    created: "2.0"
+    filter:
+      - pinterest
+      - Pinterest
+    categories:
+      - Unsorted
+  - 
+    name: Plane
+    id: plane
+    unicode: f1c4
+    created: "2.0"
+    filter:
+      - plane
+      - Plane
+    categories:
+      - Unsorted
+  - 
+    name: Play Alt
+    id: play-alt
+    unicode: f1c5
+    created: "2.0"
+    filter:
+      - play
+      - alt
+      - Play Alt
+      - play-alt
+    categories:
+      - Unsorted
+  - 
+    name: Play Circle
+    id: play-circle
+    unicode: f1c6
+    created: "2.0"
+    filter:
+      - play
+      - circle
+      - Play Circle
+      - play-circle
+    categories:
+      - Unsorted
+  - 
+    name: Play
+    id: play
+    unicode: f1c7
+    created: "2.0"
+    filter:
+      - play
+      - Play
+    categories:
+      - Unsorted
+  - 
+    name: Plus Sign
+    id: plus-sign
+    unicode: f1c8
+    created: "2.0"
+    filter:
+      - plus
+      - sign
+      - Plus Sign
+      - plus-sign
+    categories:
+      - Unsorted
+  - 
+    name: Plus
+    id: plus
+    unicode: f1c9
+    created: "2.0"
+    filter:
+      - plus
+      - Plus
+    categories:
+      - Unsorted
+  - 
+    name: Podcast
+    id: podcast
+    unicode: f1ca
+    created: "2.0"
+    filter:
+      - podcast
+      - Podcast
+    categories:
+      - Unsorted
+  - 
+    name: Print
+    id: print
+    unicode: f1cb
+    created: "2.0"
+    filter:
+      - print
+      - Print
+    categories:
+      - Unsorted
+  - 
+    name: Puzzle
+    id: puzzle
+    unicode: f1cc
+    created: "2.0"
+    filter:
+      - puzzle
+      - Puzzle
+    categories:
+      - Unsorted
+  - 
+    name: Qrcode
+    id: qrcode
+    unicode: f1cd
+    created: "2.0"
+    filter:
+      - qrcode
+      - Qrcode
+    categories:
+      - Unsorted
+  - 
+    name: Question Sign
+    id: question-sign
+    unicode: f1ce
+    created: "2.0"
+    filter:
+      - question
+      - sign
+      - Question Sign
+      - question-sign
+    categories:
+      - Unsorted
+  - 
+    name: Question
+    id: question
+    unicode: f1cf
+    created: "2.0"
+    filter:
+      - question
+      - Question
+    categories:
+      - Unsorted
+  - 
+    name: Quotes Alt
+    id: quotes-alt
+    unicode: f1d0
+    created: "2.0"
+    filter:
+      - quotes
+      - alt
+      - Quotes Alt
+      - quotes-alt
+    categories:
+      - Unsorted
+  - 
+    name: Quotes
+    id: quotes
+    unicode: f1d1
+    created: "2.0"
+    filter:
+      - quotes
+      - Quotes
+    categories:
+      - Unsorted
+  - 
+    name: Random
+    id: random
+    unicode: f1d2
+    created: "2.0"
+    filter:
+      - random
+      - Random
+    categories:
+      - Unsorted
+  - 
+    name: Record
+    id: record
+    unicode: f1d3
+    created: "2.0"
+    filter:
+      - record
+      - Record
+    categories:
+      - Unsorted
+  - 
+    name: Reddit
+    id: reddit
+    unicode: f1d4
+    created: "2.0"
+    filter:
+      - reddit
+      - Reddit
     categories:
       - Unsorted
   - 
@@ -3279,5 +2324,960 @@ icons:
     filter:
       - redux
       - Redux
+    categories:
+      - Unsorted
+  - 
+    name: Refresh
+    id: refresh
+    unicode: f1d6
+    created: "2.0"
+    filter:
+      - refresh
+      - Refresh
+    categories:
+      - Unsorted
+  - 
+    name: Remove Circle
+    id: remove-circle
+    unicode: f1d7
+    created: "2.0"
+    filter:
+      - remove
+      - circle
+      - Remove Circle
+      - remove-circle
+    categories:
+      - Unsorted
+  - 
+    name: Remove Sign
+    id: remove-sign
+    unicode: f1d8
+    created: "2.0"
+    filter:
+      - remove
+      - sign
+      - Remove Sign
+      - remove-sign
+    categories:
+      - Unsorted
+  - 
+    name: Remove
+    id: remove
+    unicode: f1d9
+    created: "2.0"
+    filter:
+      - remove
+      - Remove
+    categories:
+      - Unsorted
+  - 
+    name: Repeat Alt
+    id: repeat-alt
+    unicode: f1da
+    created: "2.0"
+    filter:
+      - repeat
+      - alt
+      - Repeat Alt
+      - repeat-alt
+    categories:
+      - Unsorted
+  - 
+    name: Repeat
+    id: repeat
+    unicode: f1db
+    created: "2.0"
+    filter:
+      - repeat
+      - Repeat
+    categories:
+      - Unsorted
+  - 
+    name: Resize Full
+    id: resize-full
+    unicode: f1dc
+    created: "2.0"
+    filter:
+      - resize
+      - full
+      - Resize Full
+      - resize-full
+    categories:
+      - Unsorted
+  - 
+    name: Resize Horizontal
+    id: resize-horizontal
+    unicode: f1dd
+    created: "2.0"
+    filter:
+      - resize
+      - horizontal
+      - Resize Horizontal
+      - resize-horizontal
+    categories:
+      - Unsorted
+  - 
+    name: Resize Small
+    id: resize-small
+    unicode: f1de
+    created: "2.0"
+    filter:
+      - resize
+      - small
+      - Resize Small
+      - resize-small
+    categories:
+      - Unsorted
+  - 
+    name: Resize Vertical
+    id: resize-vertical
+    unicode: f1df
+    created: "2.0"
+    filter:
+      - resize
+      - vertical
+      - Resize Vertical
+      - resize-vertical
+    categories:
+      - Unsorted
+  - 
+    name: Return Key
+    id: return-key
+    unicode: f1e0
+    created: "2.0"
+    filter:
+      - return
+      - key
+      - Return Key
+      - return-key
+    categories:
+      - Unsorted
+  - 
+    name: Retweet
+    id: retweet
+    unicode: f1e1
+    created: "2.0"
+    filter:
+      - retweet
+      - Retweet
+    categories:
+      - Unsorted
+  - 
+    name: Reverse Alt
+    id: reverse-alt
+    unicode: f1e2
+    created: "2.0"
+    filter:
+      - reverse
+      - alt
+      - Reverse Alt
+      - reverse-alt
+    categories:
+      - Unsorted
+  - 
+    name: Road
+    id: road
+    unicode: f1e3
+    created: "2.0"
+    filter:
+      - road
+      - Road
+    categories:
+      - Unsorted
+  - 
+    name: Rss
+    id: rss
+    unicode: f1e4
+    created: "2.0"
+    filter:
+      - rss
+      - Rss
+    categories:
+      - Unsorted
+  - 
+    name: Scissors
+    id: scissors
+    unicode: f1e5
+    created: "2.0"
+    filter:
+      - scissors
+      - Scissors
+    categories:
+      - Unsorted
+  - 
+    name: Screen Alt
+    id: screen-alt
+    unicode: f1e6
+    created: "2.0"
+    filter:
+      - screen
+      - alt
+      - Screen Alt
+      - screen-alt
+    categories:
+      - Unsorted
+  - 
+    name: Screen
+    id: screen
+    unicode: f1e7
+    created: "2.0"
+    filter:
+      - screen
+      - Screen
+    categories:
+      - Unsorted
+  - 
+    name: Screenshot
+    id: screenshot
+    unicode: f1e8
+    created: "2.0"
+    filter:
+      - screenshot
+      - Screenshot
+    categories:
+      - Unsorted
+  - 
+    name: Search Alt
+    id: search-alt
+    unicode: f1e9
+    created: "2.0"
+    filter:
+      - search
+      - alt
+      - Search Alt
+      - search-alt
+    categories:
+      - Unsorted
+  - 
+    name: Search
+    id: search
+    unicode: f1ea
+    created: "2.0"
+    filter:
+      - search
+      - Search
+    categories:
+      - Unsorted
+  - 
+    name: Share Alt
+    id: share-alt
+    unicode: f1eb
+    created: "2.0"
+    filter:
+      - share
+      - alt
+      - Share Alt
+      - share-alt
+    categories:
+      - Unsorted
+  - 
+    name: Share
+    id: share
+    unicode: f1ec
+    created: "2.0"
+    filter:
+      - share
+      - Share
+    categories:
+      - Unsorted
+  - 
+    name: Shopping Cart Sign
+    id: shopping-cart-sign
+    unicode: f1ed
+    created: "2.0"
+    filter:
+      - shopping
+      - cart
+      - sign
+      - Shopping Cart Sign
+      - shopping-cart-sign
+    categories:
+      - Unsorted
+  - 
+    name: Shopping Cart
+    id: shopping-cart
+    unicode: f1ee
+    created: "2.0"
+    filter:
+      - shopping
+      - cart
+      - Shopping Cart
+      - shopping-cart
+    categories:
+      - Unsorted
+  - 
+    name: Signal
+    id: signal
+    unicode: f1ef
+    created: "2.0"
+    filter:
+      - signal
+      - Signal
+    categories:
+      - Unsorted
+  - 
+    name: Skype
+    id: skype
+    unicode: f1f0
+    created: "2.0"
+    filter:
+      - skype
+      - Skype
+    categories:
+      - Unsorted
+  - 
+    name: Slideshare
+    id: slideshare
+    unicode: f1f1
+    created: "2.0"
+    filter:
+      - slideshare
+      - Slideshare
+    categories:
+      - Unsorted
+  - 
+    name: Smiley Alt
+    id: smiley-alt
+    unicode: f1f2
+    created: "2.0"
+    filter:
+      - smiley
+      - alt
+      - Smiley Alt
+      - smiley-alt
+    categories:
+      - Unsorted
+  - 
+    name: Smiley
+    id: smiley
+    unicode: f1f3
+    created: "2.0"
+    filter:
+      - smiley
+      - Smiley
+    categories:
+      - Unsorted
+  - 
+    name: Soundcloud
+    id: soundcloud
+    unicode: f1f4
+    created: "2.0"
+    filter:
+      - soundcloud
+      - Soundcloud
+    categories:
+      - Unsorted
+  - 
+    name: Speaker
+    id: speaker
+    unicode: f1f5
+    created: "2.0"
+    filter:
+      - speaker
+      - Speaker
+    categories:
+      - Unsorted
+  - 
+    name: Spotify
+    id: spotify
+    unicode: f1f6
+    created: "2.0"
+    filter:
+      - spotify
+      - Spotify
+    categories:
+      - Unsorted
+  - 
+    name: Stackoverflow
+    id: stackoverflow
+    unicode: f1f7
+    created: "2.0"
+    filter:
+      - stackoverflow
+      - Stackoverflow
+    categories:
+      - Unsorted
+  - 
+    name: Star Alt
+    id: star-alt
+    unicode: f1f8
+    created: "2.0"
+    filter:
+      - star
+      - alt
+      - Star Alt
+      - star-alt
+    categories:
+      - Unsorted
+  - 
+    name: Star Empty
+    id: star-empty
+    unicode: f1f9
+    created: "2.0"
+    filter:
+      - star
+      - empty
+      - Star Empty
+      - star-empty
+    categories:
+      - Unsorted
+  - 
+    name: Star
+    id: star
+    unicode: f1fa
+    created: "2.0"
+    filter:
+      - star
+      - Star
+    categories:
+      - Unsorted
+  - 
+    name: Step Backward
+    id: step-backward
+    unicode: f1fb
+    created: "2.0"
+    filter:
+      - step
+      - backward
+      - Step Backward
+      - step-backward
+    categories:
+      - Unsorted
+  - 
+    name: Step Forward
+    id: step-forward
+    unicode: f1fc
+    created: "2.0"
+    filter:
+      - step
+      - forward
+      - Step Forward
+      - step-forward
+    categories:
+      - Unsorted
+  - 
+    name: Stop Alt
+    id: stop-alt
+    unicode: f1fd
+    created: "2.0"
+    filter:
+      - stop
+      - alt
+      - Stop Alt
+      - stop-alt
+    categories:
+      - Unsorted
+  - 
+    name: Stop
+    id: stop
+    unicode: f1fe
+    created: "2.0"
+    filter:
+      - stop
+      - Stop
+    categories:
+      - Unsorted
+  - 
+    name: Stumbleupon
+    id: stumbleupon
+    unicode: f1ff
+    created: "2.0"
+    filter:
+      - stumbleupon
+      - Stumbleupon
+    categories:
+      - Unsorted
+  - 
+    name: Tag
+    id: tag
+    unicode: f200
+    created: "2.0"
+    filter:
+      - tag
+      - Tag
+    categories:
+      - Unsorted
+  - 
+    name: Tags
+    id: tags
+    unicode: f201
+    created: "2.0"
+    filter:
+      - tags
+      - Tags
+    categories:
+      - Unsorted
+  - 
+    name: Tasks
+    id: tasks
+    unicode: f202
+    created: "2.0"
+    filter:
+      - tasks
+      - Tasks
+    categories:
+      - Unsorted
+  - 
+    name: Text Height
+    id: text-height
+    unicode: f203
+    created: "2.0"
+    filter:
+      - text
+      - height
+      - Text Height
+      - text-height
+    categories:
+      - Unsorted
+  - 
+    name: Text Width
+    id: text-width
+    unicode: f204
+    created: "2.0"
+    filter:
+      - text
+      - width
+      - Text Width
+      - text-width
+    categories:
+      - Unsorted
+  - 
+    name: Th Large
+    id: th-large
+    unicode: f205
+    created: "2.0"
+    filter:
+      - th
+      - large
+      - Th Large
+      - th-large
+    categories:
+      - Unsorted
+  - 
+    name: Th List
+    id: th-list
+    unicode: f206
+    created: "2.0"
+    filter:
+      - th
+      - list
+      - Th List
+      - th-list
+    categories:
+      - Unsorted
+  - 
+    name: Th
+    id: th
+    unicode: f207
+    created: "2.0"
+    filter:
+      - th
+      - Th
+    categories:
+      - Unsorted
+  - 
+    name: Thumbs Down
+    id: thumbs-down
+    unicode: f208
+    created: "2.0"
+    filter:
+      - thumbs
+      - down
+      - Thumbs Down
+      - thumbs-down
+    categories:
+      - Unsorted
+  - 
+    name: Thumbs Up
+    id: thumbs-up
+    unicode: f209
+    created: "2.0"
+    filter:
+      - thumbs
+      - up
+      - Thumbs Up
+      - thumbs-up
+    categories:
+      - Unsorted
+  - 
+    name: Time Alt
+    id: time-alt
+    unicode: f20a
+    created: "2.0"
+    filter:
+      - time
+      - alt
+      - Time Alt
+      - time-alt
+    categories:
+      - Unsorted
+  - 
+    name: Time
+    id: time
+    unicode: f20b
+    created: "2.0"
+    filter:
+      - time
+      - Time
+    categories:
+      - Unsorted
+  - 
+    name: Tint
+    id: tint
+    unicode: f20c
+    created: "2.0"
+    filter:
+      - tint
+      - Tint
+    categories:
+      - Unsorted
+  - 
+    name: Torso
+    id: torso
+    unicode: f20d
+    created: "2.0"
+    filter:
+      - torso
+      - Torso
+    categories:
+      - Unsorted
+  - 
+    name: Trash Alt
+    id: trash-alt
+    unicode: f20e
+    created: "2.0"
+    filter:
+      - trash
+      - alt
+      - Trash Alt
+      - trash-alt
+    categories:
+      - Unsorted
+  - 
+    name: Trash
+    id: trash
+    unicode: f20f
+    created: "2.0"
+    filter:
+      - trash
+      - Trash
+    categories:
+      - Unsorted
+  - 
+    name: Tumblr
+    id: tumblr
+    unicode: f210
+    created: "2.0"
+    filter:
+      - tumblr
+      - Tumblr
+    categories:
+      - Unsorted
+  - 
+    name: Twitter
+    id: twitter
+    unicode: f211
+    created: "2.0"
+    filter:
+      - twitter
+      - Twitter
+    categories:
+      - Unsorted
+  - 
+    name: Universal Access
+    id: universal-access
+    unicode: f212
+    created: "2.0"
+    filter:
+      - universal
+      - access
+      - Universal Access
+      - universal-access
+    categories:
+      - Unsorted
+  - 
+    name: Unlock Alt
+    id: unlock-alt
+    unicode: f213
+    created: "2.0"
+    filter:
+      - unlock
+      - alt
+      - Unlock Alt
+      - unlock-alt
+    categories:
+      - Unsorted
+  - 
+    name: Unlock
+    id: unlock
+    unicode: f214
+    created: "2.0"
+    filter:
+      - unlock
+      - Unlock
+    categories:
+      - Unsorted
+  - 
+    name: Upload
+    id: upload
+    unicode: f215
+    created: "2.0"
+    filter:
+      - upload
+      - Upload
+    categories:
+      - Unsorted
+  - 
+    name: Usd
+    id: usd
+    unicode: f216
+    created: "2.0"
+    filter:
+      - usd
+      - Usd
+    alias:
+      - dollar
+    categories:
+      - Unsorted
+  - 
+    name: User
+    id: user
+    unicode: f217
+    created: "2.0"
+    filter:
+      - user
+      - User
+    categories:
+      - Unsorted
+  - 
+    name: Viadeo
+    id: viadeo
+    unicode: f218
+    created: "2.0"
+    filter:
+      - viadeo
+      - Viadeo
+    categories:
+      - Unsorted
+  - 
+    name: Video Alt
+    id: video-alt
+    unicode: f219
+    created: "2.0"
+    filter:
+      - video
+      - alt
+      - Video Alt
+      - video-alt
+    categories:
+      - Unsorted
+  - 
+    name: Video Chat
+    id: video-chat
+    unicode: f21a
+    created: "2.0"
+    filter:
+      - video
+      - chat
+      - Video Chat
+      - video-chat
+    categories:
+      - Unsorted
+  - 
+    name: Video
+    id: video
+    unicode: f21b
+    created: "2.0"
+    filter:
+      - video
+      - Video
+    categories:
+      - Unsorted
+  - 
+    name: View Mode
+    id: view-mode
+    unicode: f21c
+    created: "2.0"
+    filter:
+      - view
+      - mode
+      - View Mode
+      - view-mode
+    categories:
+      - Unsorted
+  - 
+    name: Vimeo
+    id: vimeo
+    unicode: f21d
+    created: "2.0"
+    filter:
+      - vimeo
+      - Vimeo
+    categories:
+      - Unsorted
+  - 
+    name: Vkontakte
+    id: vkontakte
+    unicode: f21e
+    created: "2.0"
+    filter:
+      - vkontakte
+      - Vkontakte
+    categories:
+      - Unsorted
+  - 
+    name: Volume Down
+    id: volume-down
+    unicode: f21f
+    created: "2.0"
+    filter:
+      - volume
+      - down
+      - Volume Down
+      - volume-down
+    categories:
+      - Unsorted
+  - 
+    name: Volume Off
+    id: volume-off
+    unicode: f220
+    created: "2.0"
+    filter:
+      - volume
+      - 'off'
+      - Volume Off
+      - volume-off
+    categories:
+      - Unsorted
+  - 
+    name: Volume Up
+    id: volume-up
+    unicode: f221
+    created: "2.0"
+    filter:
+      - volume
+      - up
+      - Volume Up
+      - volume-up
+    categories:
+      - Unsorted
+  - 
+    name: W3c
+    id: w3c
+    unicode: f222
+    created: "2.0"
+    filter:
+      - w3c
+      - W3c
+    categories:
+      - Unsorted
+  - 
+    name: Warning Sign
+    id: warning-sign
+    unicode: f223
+    created: "2.0"
+    filter:
+      - warning
+      - sign
+      - Warning Sign
+      - warning-sign
+    categories:
+      - Unsorted
+  - 
+    name: Website Alt
+    id: website-alt
+    unicode: f224
+    created: "2.0"
+    filter:
+      - website
+      - alt
+      - Website Alt
+      - website-alt
+    categories:
+      - Unsorted
+  - 
+    name: Website
+    id: website
+    unicode: f225
+    created: "2.0"
+    filter:
+      - website
+      - Website
+    categories:
+      - Unsorted
+  - 
+    name: Wheelchair
+    id: wheelchair
+    unicode: f226
+    created: "2.0"
+    filter:
+      - wheelchair
+      - Wheelchair
+    categories:
+      - Unsorted
+  - 
+    name: Wordpress
+    id: wordpress
+    unicode: f227
+    created: "2.0"
+    filter:
+      - wordpress
+      - Wordpress
+    categories:
+      - Unsorted
+  - 
+    name: Wrench Alt
+    id: wrench-alt
+    unicode: f228
+    created: "2.0"
+    filter:
+      - wrench
+      - alt
+      - Wrench Alt
+      - wrench-alt
+    categories:
+      - Unsorted
+  - 
+    name: Wrench
+    id: wrench
+    unicode: f229
+    created: "2.0"
+    filter:
+      - wrench
+      - Wrench
+    categories:
+      - Unsorted
+  - 
+    name: Youtube
+    id: youtube
+    unicode: f22a
+    created: "2.0"
+    filter:
+      - youtube
+      - Youtube
+    categories:
+      - Unsorted
+  - 
+    name: Zoom In
+    id: zoom-in
+    unicode: f22b
+    created: "2.0"
+    filter:
+      - zoom
+      - in
+      - Zoom In
+      - zoom-in
+    categories:
+      - Unsorted
+  - 
+    name: Zoom Out
+    id: zoom-out
+    unicode: f22c
+    created: "2.0"
+    filter:
+      - zoom
+      - out
+      - Zoom Out
+      - zoom-out
     categories:
       - Unsorted
