@@ -6497,7 +6497,7 @@ section {
   font-size: 30px;
 }
 .rating span.star {
-  font-family: ElusiveIcons;
+  font-family: Elusive-Icons;
   font-weight: normal;
   font-style: normal;
   display: inline-block;
@@ -6506,14 +6506,14 @@ section {
   cursor: pointer;
 }
 .rating span.star:before {
-  content: "\f006";
+  content: "\f1fb";
   padding-right: 5px;
   color: #777777;
 }
 .rating span.star:hover:before,
 .rating span.star:hover ~ span.star:before {
-  content: "\f005";
-  color: #e3cf7a;
+  content: "\f1fc";
+  color: #1d9d74;
 }
 #footer {
   background-color: #4f2475;
