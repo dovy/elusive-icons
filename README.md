@@ -1,8 +1,8 @@
 #[Elusive Icons v2.0.0](http://elusiveicons.com)
 ###The iconic font and CSS framework
 
-Elusive Icons is a full suite of 300 pictographic icons for easy scalable vector graphics on websites,
-created and maintained by [Dovy Paukstys](http://twitter.com/simplerain).
+Elusive Icons is a full suite of 302 pictographic icons for easy scalable vector graphics on websites,
+created and maintained by [Team Redux](http://twitter.com/ReduxFramework).
 Stay up to date with the latest release and announcements on Twitter:
 [@reduxframework](http://twitter.com/reduxframework).
 
@@ -43,9 +43,9 @@ And constructed with the following guidelines:
 For more information on SemVer, please visit http://semver.org.
 
 ##Author
-- Email: dovy@elusiveicons.com
-- Twitter: http://twitter.com/simplerain
-- GitHub: https://github.com/dovy
+- Email: elusive@redux.io
+- Twitter: http://twitter.com/ReduxFramework
+- GitHub: https://github.com/reduxframework
 
 ##Component
 To include as a [component](http://github.com/component/component), just run

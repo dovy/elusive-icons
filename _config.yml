@@ -27,12 +27,14 @@ elusiveicons:
   blog_url:       http://reduxframework.com/about/newswire/
   twitter:        reduxframework
   tagline:        The iconic font and CSS toolkit
+  primary_icon:   el-redux
   css_prefix:     el
   author:
-    name:         Dovy Paukstys
-    email:        dovy@elusiveicons.com
-    twitter:      simplerain
-    github:       dovy
+    name:         Team Redux
+    email:        elusive@redux.io
+    twitter:      ReduxFramework
+    github:       reduxframework
+    url:          http://reduxframework.com/
   github:
     url:          https://github.com/reduxframework/Elusive-Icons
     project:      elusive-icons

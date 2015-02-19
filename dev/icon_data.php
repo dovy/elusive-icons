@@ -1,2714 +1,3977 @@
+
+
+
+
+
 <?php
-    $iconData = array(
-        'address-book'       =>
-            array(
-                'filter'     =>
-                    array(),
+    $iconData = array (
+        'address-book' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'address-book-alt'   =>
-            array(
-                'filter'     =>
-                    array(),
+        'address-book-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'adjust'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'adjust' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'adjust-alt'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'adjust-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'adult'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'adult' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'align-center'       =>
-            array(
-                'filter'     =>
-                    array(),
+        'align-center' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'align-justify'      =>
-            array(
-                'filter'     =>
-                    array(),
+        'align-justify' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'align-left'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'align-left' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'align-right'        =>
-            array(
-                'filter'     =>
-                    array(),
+        'align-right' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'arrow-down'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'arrow-down' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'arrow-left'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'arrow-left' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'arrow-right'        =>
-            array(
-                'filter'     =>
-                    array(),
+        'arrow-right' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'arrow-up'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'arrow-up' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'asl'                =>
-            array(
-                'filter'     =>
-                    array(),
+        'asl' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'asterisk'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'asterisk' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'backward'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'backward' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'ban-circle'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'ban-circle' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'barcode'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'barcode' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'behance'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'behance' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'bell'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'bell' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'blind'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'blind' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'blogger'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'blogger' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'bold'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'bold' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'book'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'book' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'bookmark'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'bookmark' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'bookmark-empty'     =>
-            array(
-                'filter'     =>
-                    array(),
+        'bookmark-empty' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'braille'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'braille' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'briefcase'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'briefcase' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'broom'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'broom' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'brush'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'brush' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'bulb'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'bulb' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'bullhorn'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'bullhorn' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'calendar'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'calendar' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'calendar-sign'      =>
-            array(
-                'filter'     =>
-                    array(),
+        'calendar-sign' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'camera'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'camera' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'car'                =>
-            array(
-                'filter'     =>
-                    array(),
+        'car' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'caret-down'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'caret-down' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'caret-left'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'caret-left' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'caret-right'        =>
-            array(
-                'filter'     =>
-                    array(),
+        'caret-right' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'caret-up'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'caret-up' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'cc'                 =>
-            array(
-                'filter'     =>
-                    array(),
+        'cc' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'certificate'        =>
-            array(
-                'filter'     =>
-                    array(),
+        'certificate' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'check'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'check' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'check-empty'        =>
-            array(
+        'check-empty' =>
+            array (
                 'categories' =>
-                    array(
+                    array (
                         0 => 'Web Application Icons',
                     ),
-                'filter'     =>
-                    array(),
-                'alias'      =>
-                    array(),
+                'filter' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'chevron-down'       =>
-            array(
-                'filter'     =>
-                    array(),
+        'chevron-down' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'chevron-left'       =>
-            array(
-                'filter'     =>
-                    array(),
+        'chevron-left' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'chevron-right'      =>
-            array(
-                'filter'     =>
-                    array(),
+        'chevron-right' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'chevron-up'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'chevron-up' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'child'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'child' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'circle-arrow-down'  =>
-            array(
-                'filter'     =>
-                    array(),
+        'circle-arrow-down' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'circle-arrow-left'  =>
-            array(
-                'filter'     =>
-                    array(),
+        'circle-arrow-left' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
         'circle-arrow-right' =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'circle-arrow-up'    =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'cloud'              =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'cloud-alt'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'cog'                =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'cog-alt'            =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'cogs'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'comment'            =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'comment-alt'        =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'compass'            =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'compass-alt'        =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'credit-card'        =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'css'                =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'dashboard'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'delicious'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'deviantart'         =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'digg'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'download'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'download-alt'       =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'dribbble'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'edit'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'eject'              =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'envelope'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'envelope-alt'       =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'error'              =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'error-alt'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'eur'                =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'exclamation-sign'   =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'eye-close'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'eye-open'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'facebook'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'facetime-video'     =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'fast-backward'      =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'fast-forward'       =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'female'             =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'file'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'file-alt'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'file-edit'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'file-edit-alt'      =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'file-new'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'file-new-alt'       =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'film'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'filter'             =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'fire'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'flag'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'flag-alt'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'flickr'             =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'folder'             =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'folder-close'       =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'folder-open'        =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'folder-sign'        =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'font'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'fontsize'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'fork'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'forward'            =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'forward-alt'        =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'foursquare'         =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'friendfeed'         =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'friendfeed-rect'    =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'fullscreen'         =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'gbp'                =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'gift'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'github'             =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'github-text'        =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'glass'              =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'glasses'            =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'globe'              =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'globe-alt'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'googleplus'         =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'graph'              =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'graph-alt'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'group'              =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'group-alt'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'guidedog'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'hand-down'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'hand-left'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'hand-right'         =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'hand-up'            =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'hdd'                =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'headphones'         =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'hearing-impaired'   =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'heart'              =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'heart-alt'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'heart-empty'        =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'home'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'home-alt'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'hourglass'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'idea'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'idea-alt'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'inbox'              =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'inbox-alt'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'inbox-box'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'indent-left'        =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'indent-right'       =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'info-sign'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'instagram'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'iphone-home'        =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'italic'             =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'key'                =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'laptop'             =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'laptop-alt'         =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'lastfm'             =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'leaf'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'lines'              =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'link'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'linkedin'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'list'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'list-alt'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'livejournal'        =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'lock'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'lock-alt'           =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'magic'              =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'magnet'             =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'male'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'map-marker'         =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'map-marker-alt'     =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'mic'                =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'mic-alt'            =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'minus'              =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'minus-sign'         =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'move'               =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'music'              =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'myspace'            =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'network'            =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'off'                =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'ok'                 =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'ok-circle'          =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'ok-sign'            =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'opensource'         =>
-            array(
-                'filter'     =>
-                    array(),
-                'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
-            ),
-        'paper-clip'         =>
-            array(
-                'alias'      =>
-                    array(
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'circle-arrow-up' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'cloud' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'cloud-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'cog' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'cog-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'cogs' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'comment' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'comment-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'compass' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'compass-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'credit-card' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'css' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'dashboard' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'delicious' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'deviantart' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'digg' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'download' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'download-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'dribbble' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'edit' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'eject' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'envelope' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'envelope-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'error' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'error-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'eur' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'exclamation-sign' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'eye-close' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'eye-open' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'facebook' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                        'Brand Icons'
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'facetime-video' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'fast-backward' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'fast-forward' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'female' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'file' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'file-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'file-edit' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'file-edit-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'file-new' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'file-new-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'film' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'filter' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'fire' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'flag' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'flag-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'flickr' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'folder' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'folder-close' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'folder-open' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'folder-sign' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'font' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'fontsize' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'fork' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'forward' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'forward-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'foursquare' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'friendfeed' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'friendfeed-rect' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'fullscreen' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                        'arrows-alt'
+                    ),
+                'created' => '1.0',
+            ),
+        'gbp' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'gift' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'github' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'github-text' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'glass' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'glasses' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'globe' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'globe-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'googleplus' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'graph' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'graph-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'group' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'group-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'guidedog' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'hand-down' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'hand-left' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'hand-right' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'hand-up' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'hdd' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'headphones' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'hearing-impaired' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'heart' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'heart-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'heart-empty' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'home' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'home-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'hourglass' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'idea' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'idea-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'inbox' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'inbox-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'inbox-box' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'indent-left' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'indent-right' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'info-circle' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                        'info-sign'
+                    ),
+                'created' => '1.0',
+            ),
+        'instagram' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'iphone-home' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'italic' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'key' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'laptop' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'laptop-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'lastfm' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'leaf' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'lines' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'link' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'linkedin' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'list' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'list-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'livejournal' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'lock' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'lock-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'magic' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'magnet' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'male' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'map-marker' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'map-marker-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'mic' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'mic-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'minus' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'minus-sign' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'move' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'music' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'myspace' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'network' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'off' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'ok' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'ok-circle' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'ok-sign' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'opensource' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'paper-clip' =>
+            array (
+                'alias' =>
+                    array (
                         0 => 'paperclip',
                     ),
-                'filter'     =>
-                    array(),
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'paper-clip-alt'     =>
-            array(
-                'alias'      =>
-                    array(
+        'paper-clip-alt' =>
+            array (
+                'alias' =>
+                    array (
                         0 => 'paperclip-alt',
                     ),
-                'filter'     =>
-                    array(),
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'path'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'path' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'pause'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'pause' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'pause-alt'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'pause-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'pencil'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'pencil' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'pencil-alt'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'pencil-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'person'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'person' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'phone'              =>
-            array(
-                'alias'      =>
-                    array(
+        'phone' =>
+            array (
+                'alias' =>
+                    array (
                         0 => 'earphone',
                     ),
-                'filter'     =>
-                    array(),
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'phone-alt'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'phone-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'photo'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'photo' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'photo-alt'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'photo-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'picasa'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'picasa' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'picture'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'picture' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'pinterest'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'pinterest' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'plane'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'plane' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'play'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'play' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'play-alt'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'play-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'play-circle'        =>
-            array(
-                'filter'     =>
-                    array(),
+        'play-circle' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'plus'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'plus' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'plus-sign'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'plus-sign' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'podcast'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'podcast' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'print'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'print' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'puzzle'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'puzzle' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'qrcode'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'qrcode' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'question'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'question' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'question-sign'      =>
-            array(
-                'filter'     =>
-                    array(),
+        'question-sign' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'quotes'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'quote-left' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                        'quotes'
+                    ),
+                'created' => '1.0',
             ),
-        'quotes-alt'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'quote-left-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                        'quotes-alt'
+                    ),
+                'created' => '2.0',
             ),
-        'random'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'quote-right' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                        'quotes-right'
+                    ),
+                'created' => '2.0',
             ),
-        'record'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'quote-right-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                        'quotes-right-alt'
+                    ),
+                'created' => '1.0',
             ),
-        'reddit'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'random' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'redux'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'record' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'refresh'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'reddit' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'remove'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'redux' =>
+            array (
+                'filter' =>
+                    array (
+                        'redux-framework',
+                        'reduxframework'
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                        'redux-framework',
+                        'reduxframework'
+                    ),
+                'created' => '2.0',
             ),
-        'remove-circle'      =>
-            array(
-                'filter'     =>
-                    array(),
+        'refresh' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'remove-sign'        =>
-            array(
-                'filter'     =>
-                    array(),
+        'remove' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'repeat'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'remove-circle' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'repeat-alt'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'remove-sign' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'resize-full'        =>
-            array(
-                'filter'     =>
-                    array(),
+        'repeat' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'resize-horizontal'  =>
-            array(
-                'filter'     =>
-                    array(),
+        'repeat-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'resize-small'       =>
-            array(
-                'filter'     =>
-                    array(),
+        'resize-full' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'resize-vertical'    =>
-            array(
-                'filter'     =>
-                    array(),
+        'resize-horizontal' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'return-key'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'resize-small' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'retweet'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'resize-vertical' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'reverse-alt'        =>
-            array(
-                'filter'     =>
-                    array(),
+        'return-key' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'road'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'retweet' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'rss'                =>
-            array(
-                'filter'     =>
-                    array(),
+        'reverse-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'scissors'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'road' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'screen'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'rss' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'screen-alt'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'scissors' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'screenshot'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'screen' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'search'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'screen-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'search-alt'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'screenshot' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'share'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'search' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'share-alt'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'search-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'shopping-cart'      =>
-            array(
-                'filter'     =>
-                    array(),
+        'share' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'share-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
+            ),
+        'shopping-cart' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
         'shopping-cart-sign' =>
-            array(
-                'filter'     =>
-                    array(),
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'signal'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'signal' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'skype'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'skype' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'slideshare'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'slideshare' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'smiley'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'smiley' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'smiley-alt'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'smiley-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'soundcloud'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'soundcloud' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'speaker'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'speaker' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'spotify'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'spotify' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'stackoverflow'      =>
-            array(
-                'filter'     =>
-                    array(),
+        'stackoverflow' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'star'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'star' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'star-alt'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'star-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'star-empty'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'star-empty' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'step-backward'      =>
-            array(
-                'filter'     =>
-                    array(),
+        'step-backward' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'step-forward'       =>
-            array(
-                'filter'     =>
-                    array(),
+        'step-forward' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'stop'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'stop' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'stop-alt'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'stop-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'stumbleupon'        =>
-            array(
-                'filter'     =>
-                    array(),
+        'stumbleupon' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'tag'                =>
-            array(
-                'filter'     =>
-                    array(),
+        'tag' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'tags'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'tags' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'tasks'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'tasks' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'text-height'        =>
-            array(
-                'filter'     =>
-                    array(),
+        'text-height' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'text-width'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'text-width' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'th'                 =>
-            array(
-                'filter'     =>
-                    array(),
+        'th' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'th-large'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'th-large' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'th-list'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'th-list' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'thumbs-down'        =>
-            array(
-                'filter'     =>
-                    array(),
+        'thumbs-down' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'thumbs-up'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'thumbs-up' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'time'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'time' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'time-alt'           =>
-            array(
-                'filter'     =>
-                    array(),
+        'time-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'tint'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'tint' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'torso'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'torso' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'trash'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'trash' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'trash-alt'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'trash-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'tumblr'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'tumblr' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'twitter'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'twitter' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'universal-access'   =>
-            array(
-                'filter'     =>
-                    array(),
+        'universal-access' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'unlock'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'unlock' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'unlock-alt'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'unlock-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'upload'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'upload' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'usd'                =>
-            array(
-                'alias'      =>
-                    array(
+        'usd' =>
+            array (
+                'alias' =>
+                    array (
                         0 => 'dollar',
                     ),
-                'filter'     =>
-                    array(),
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'user'               =>
-            array(
-                'filter'     =>
-                    array(),
+        'user' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'viadeo'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'viadeo' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'video'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'video' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'video-alt'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'video-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'video-chat'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'video-chat' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'view-mode'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'view-mode' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'vimeo'              =>
-            array(
-                'filter'     =>
-                    array(),
+        'vimeo' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'vkontakte'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'vkontakte' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'volume-down'        =>
-            array(
-                'filter'     =>
-                    array(),
+        'volume-down' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'volume-off'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'volume-off' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'volume-up'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'volume-up' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'w3c'                =>
-            array(
-                'filter'     =>
-                    array(),
+        'w3c' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'warning-sign'       =>
-            array(
-                'filter'     =>
-                    array(),
+        'warning-sign' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'website'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'website' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'website-alt'        =>
-            array(
-                'filter'     =>
-                    array(),
+        'website-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'wheelchair'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'wheelchair' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'wordpress'          =>
-            array(
-                'filter'     =>
-                    array(),
+        'wordpress' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                        'Brand Icons',
+                    ),
+                'created' => '1.0',
             ),
-        'wrench'             =>
-            array(
-                'filter'     =>
-                    array(),
+        'wrench' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'wrench-alt'         =>
-            array(
-                'filter'     =>
-                    array(),
+        'wrench-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'youtube'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'youtube' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'zoom-in'            =>
-            array(
-                'filter'     =>
-                    array(),
+        'zoom-in' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
-        'zoom-out'           =>
-            array(
-                0            => 'Web Application Icons',
-                'filter'     =>
-                    array(),
+        'zoom-out' =>
+            array (
+                0 => 'Web Application Icons',
+                'filter' =>
+                    array (
+                    ),
                 'categories' =>
-                    array(),
-                'alias'      =>
-                    array(),
+                    array (
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '1.0',
             ),
     );

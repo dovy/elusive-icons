@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-md-8 col-sm-8 text-center">
         <h1>Elusive Icons</h1>
-        <p>The iconic font and CSS toolkit</p>
+        <p>{{ site.elusiveicons.tagline }}</p>
         <div class="actions">
           <a class="btn btn-default btn-lg" href="{{ page.relative_path }}assets/elusive-icons-{{ site.elusiveicons.version }}.zip"
              onClick="_gaq.push(['_trackEvent', 'Outbound Link', 'Download on GitHub']);">
@@ -16,14 +16,14 @@
           <a href="{{ site.elusiveicons.github.url }}"
              onClick="_gaq.push(['_trackEvent', 'Outbound Link', 'View Project on GitHub']);">
             GitHub Project</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-            Maintained by <a href="{{ site.elusiveicons.author.url }}">Team Redux</a>
+            Maintained by <a href="{{ site.elusiveicons.author.url }}">{{ site.elusiveicons.author.name }}</a>
         </div>
       </div>
       <div class="col-md-4 col-sm-4">
         <div id="icon-carousel" class="carousel slide">
           <!-- Carousel items -->
           <div class="carousel-inner">
-            <div class="active item"><div><i class="el el-redux"></i></div></div>
+            <div class="active item"><div><i class="el {{ site.elusiveicons.primary_icon }}"></i></div></div>
             <div class="item"><div><i class="el el-asl"></i></div></div>
             <div class="item"><div><i class="el el-brush"></i></div></div>
             <div class="item"><div><i class="el el-globe"></i></div></div>

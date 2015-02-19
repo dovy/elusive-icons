@@ -424,7 +424,7 @@
                 return sprintf( "'%s'", $value );
             }
             if ( strpos( $value, "\n" ) === false && strpos( $value, '"' ) === false ) {
-                return sprintf( '"%s"', $value );
+                return sprintf( '%s', $value );
             }
             $exploded = explode( "\n", $value );
             $newValue = '|';

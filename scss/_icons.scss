@@ -146,7 +146,7 @@
 .#{$el-css-prefix}-inbox:before { content: $el-var-inbox; }
 .#{$el-css-prefix}-indent-left:before { content: $el-var-indent-left; }
 .#{$el-css-prefix}-indent-right:before { content: $el-var-indent-right; }
-.#{$el-css-prefix}-info-sign:before { content: $el-var-info-sign; }
+.#{$el-css-prefix}-info-circle:before { content: $el-var-info-circle; }
 .#{$el-css-prefix}-instagram:before { content: $el-var-instagram; }
 .#{$el-css-prefix}-iphone-home:before { content: $el-var-iphone-home; }
 .#{$el-css-prefix}-italic:before { content: $el-var-italic; }
@@ -208,8 +208,10 @@
 .#{$el-css-prefix}-qrcode:before { content: $el-var-qrcode; }
 .#{$el-css-prefix}-question-sign:before { content: $el-var-question-sign; }
 .#{$el-css-prefix}-question:before { content: $el-var-question; }
-.#{$el-css-prefix}-quotes-alt:before { content: $el-var-quotes-alt; }
-.#{$el-css-prefix}-quotes:before { content: $el-var-quotes; }
+.#{$el-css-prefix}-quote-left-alt:before { content: $el-var-quote-left-alt; }
+.#{$el-css-prefix}-quote-left:before { content: $el-var-quote-left; }
+.#{$el-css-prefix}-quote-right-alt:before { content: $el-var-quote-right-alt; }
+.#{$el-css-prefix}-quote-right:before { content: $el-var-quote-right; }
 .#{$el-css-prefix}-random:before { content: $el-var-random; }
 .#{$el-css-prefix}-record:before { content: $el-var-record; }
 .#{$el-css-prefix}-reddit:before { content: $el-var-reddit; }
