@@ -1,0 +1,2317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Basic Page Needs
+ ================================================== -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Elusive Icons, The iconic font and CSS toolkit">
+  <meta name="author" content="Team Redux">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="shortcut icon" href="../assets/ico/favicon.ico">
+
+  <title>Elusive Icons Cheatsheet</title>
+
+  <!-- CSS
+  ================================================== -->
+  <link rel="stylesheet" href="../assets/css/site.css">
+  <link rel="stylesheet" href="../assets/css/pygments.css">
+  <link rel="stylesheet" href="../assets/elusive-icons/css/elusive-icons.css">
+
+  <!--[if lt IE 9]>
+    <script src="../assets/js/html5shiv.js"></script>
+    <script src="../assets/js/respond.min.js"></script>
+  <![endif]-->
+
+  <!--<script type="text/javascript" src="//use.typekit.net/wnc7ioh.js"></script>-->
+  <!--<script type="text/javascript">try{Typekit.load();}catch(e){}</script>-->
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-45553284-4']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</head>
+<body>
+<div id="wrap"> <!-- necessary for sticky footer. wrap all content except footer -->
+  <div class="fonticons">
+  <div class="container">
+    <div class="message-container">
+      <div class="tagline">
+        <span id="rotating-message">Take your WordPress development to new heights.</span>
+        Check out <strong>Redux Framework</strong>, from the makers of Elusive Icons.
+      </div>
+      <div class="action">
+        <a id="rotating-url" class="btn btn-primary btn-block" href="http://reduxframework.com/">Learn More!</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="navbar navbar-inverse navbar-static-top hidden-print">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="el el-bars el-lg"></i>
+      </button>
+      <a class="navbar-brand" href="../"><i class="el el-redux"></i> Elusive Icons</a>
+    </div>
+
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="hidden-sm "><a href="../">Home</a></li>
+        <li class="hidden-sm">
+          <a href="../whats-new/">What's New</a>
+        </li>
+        <li class="hidden-xs hidden-md hidden-lg">
+          <a href="../whats-new/">New</a>
+        </li>
+        <li><a href="../get-started/">Get Started</a></li>
+        <li class="dropdown-split-left"><a href="../icons/">Icons</a></li>
+        <li class="dropdown dropdown-split-right hidden-xs">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="el el-caret-down"></i>
+          </a>
+          <ul class="dropdown-menu pull-right">
+            <li><a href="../icons/"><i class="el el-flag el-fw"></i>&nbsp; All Icons</a></li>
+            <li class="divider"></li>
+            <li><a href="../icons/#new"><i class="el el-diamond el-fw"></i>&nbsp; New Icons in 2.0</a></li>
+            <li><a href="../icons/#web-application"><i class="el el-camera-retro el-fw"></i>&nbsp; Web Application Icons</a></li>
+            <li><a href="../icons/#transportation"><i class="el el-ship el-fw"></i>&nbsp; Transportation Icons</a></li>
+            <li><a href="../icons/#file-type"><i class="el el-file-image-o el-fw"></i>&nbsp; File Type Icons</a></li>
+            <li><a href="../icons/#spinner"><i class="el el-spinner el-fw"></i>&nbsp; Spinner Icons</a></li>
+            <li><a href="../icons/#form-control"><i class="el el-check-square el-fw"></i>&nbsp; Form Control Icons</a></li>
+            <li><a href="../icons/#payment"><i class="el el-credit-card el-fw"></i>&nbsp; Payment Icons</a></li>
+            <li><a href="../icons/#chart"><i class="el el-pie-chart el-fw"></i>&nbsp; Chart Icons</a></li>
+            <li><a href="../icons/#currency"><i class="el el-won el-fw"></i>&nbsp; Currency Icons</a></li>
+            <li><a href="../icons/#text-editor"><i class="el el-file-text-o el-fw"></i>&nbsp; Text Editor Icons</a></li>
+            <li><a href="../icons/#directional"><i class="el el-hand-o-right el-fw"></i>&nbsp; Directional Icons</a></li>
+            <li><a href="../icons/#video-player"><i class="el el-play-circle el-fw"></i>&nbsp; Video Player Icons</a></li>
+            <li><a href="../icons/#brand"><i class="el el-github el-fw"></i>&nbsp; Brand Icons</a></li>
+            <li><a href="../icons/#medical"><i class="el el-medkit el-fw"></i>&nbsp; Medical Icons</a></li>
+          </ul>
+        </li>
+        <li class="dropdown-split-left"><a href="../examples/">Examples</a></li>
+        <li class="dropdown dropdown-split-right hidden-xs">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="el el-caret-down"></i>
+          </a>
+          <ul class="dropdown-menu pull-right">
+            <li><a href="../examples/">Examples</a></li>
+            <li class="divider"></li>
+            <li><a href="../examples/#basic">Basic Icons</a></li>
+            <li><a href="../examples/#larger">Larger Icons</a></li>
+            <li><a href="../examples/#fixed-width">Fixed Width Icons</a></li>
+            <li><a href="../examples/#list">List Icons</a></li>
+            <li><a href="../examples/#bordered-pulled">Bordered & Pulled Icons</a></li>
+            <li><a href="../examples/#animated">Animated Icons</a></li>
+            <li><a href="../examples/#rotated-flipped">Rotated &amp; Flipped Icons</a></li>
+            <li><a href="../examples/#stacked">Stacked Icons</a></li>
+            <li><a href="../examples/#bootstrap">Bootstrap 3 Examples</a></li>
+            <li><a href="../examples/#custom">Custom CSS</a></li>
+          </ul>
+        </li>
+        <li><a href="../community/">Community</a></li>
+        <li><a href="../license/">License</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="http://reduxframework.com/about/newswire/">Blog</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+  
+
+
+<div class="jumbotron jumbotron-ad hidden-print">
+  <div class="container">
+    <h1><i class="el el-list-ul"></i>&nbsp; Cheatsheet</h1>
+    <p>The complete Elusive Icons 2.0.0 icon reference</p>
+  </div>
+</div>
+
+<div id="social-buttons" class="hidden-print">
+  <div class="container">
+    <ul class="list-inline">
+      <li>
+        <iframe class="github-btn" src="http://ghbtns.com/github-btn.html?user=ReduxFramework&repo=Elusive-Icons&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe>
+      </li>
+      <li>
+        <iframe class="github-btn" src="http://ghbtns.com/github-btn.html?user=ReduxFramework&repo=Elusive-Icons&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="102px" height="20px"></iframe>
+      </li>
+      <li class="follow-btn">
+        <a href="https://twitter.com/reduxframework" class="twitter-follow-button" data-link-color="#0069D6" data-show-count="true">Follow @reduxframework</a>
+      </li>
+      <li class="tweet-btn hidden-phone">
+        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://elusiveicons.com" data-text="Elusive Icons, an iconic font and modern CSS framework" data-counturl="http://reduxframework.github.com/Elusive-Icons/" data-count="horizontal" data-via="reduxframework" data-related="ReduxFramework:Creator of Elusive Icons">Tweet</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="container">
+  
+  <section class="hidden-print">
+  <div class="stripe-ad">
+    
+  <p class="lead">
+    Print this page to PDF for the complete set of vectors. Or to use on the desktop, install ElusiveIcons.otf, set it as the font in your application, and copy and paste the icons (not the unicode) directly from this page into your designs.
+  </p>
+  
+  </div>
+</section>
+
+
+  <h2 class="page-header">Every Elusive Icons 2.0.0 Icon, CSS Class, &amp; Unicode</h2>
+
+  <div class="row">
+    
+
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf102</i>
+      el-address-book
+      
+      <span class="muted">[&amp;#xf102;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf101</i>
+      el-address-book-alt
+      
+      <span class="muted">[&amp;#xf101;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf104</i>
+      el-adjust
+      
+      <span class="muted">[&amp;#xf104;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf103</i>
+      el-adjust-alt
+      
+      <span class="muted">[&amp;#xf103;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf105</i>
+      el-adult
+      
+      <span class="muted">[&amp;#xf105;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf106</i>
+      el-align-center
+      
+      <span class="muted">[&amp;#xf106;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf107</i>
+      el-align-justify
+      
+      <span class="muted">[&amp;#xf107;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf108</i>
+      el-align-left
+      
+      <span class="muted">[&amp;#xf108;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf109</i>
+      el-align-right
+      
+      <span class="muted">[&amp;#xf109;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf10a</i>
+      el-arrow-down
+      
+      <span class="muted">[&amp;#xf10a;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf10b</i>
+      el-arrow-left
+      
+      <span class="muted">[&amp;#xf10b;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf10c</i>
+      el-arrow-right
+      
+      <span class="muted">[&amp;#xf10c;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf10d</i>
+      el-arrow-up
+      
+      <span class="muted">[&amp;#xf10d;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf10e</i>
+      el-asl
+      
+      <span class="muted">[&amp;#xf10e;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf10f</i>
+      el-asterisk
+      
+      <span class="muted">[&amp;#xf10f;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf110</i>
+      el-backward
+      
+      <span class="muted">[&amp;#xf110;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf111</i>
+      el-ban-circle
+      
+      <span class="muted">[&amp;#xf111;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf112</i>
+      el-barcode
+      
+      <span class="muted">[&amp;#xf112;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf113</i>
+      el-behance
+      
+      <span class="muted">[&amp;#xf113;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf114</i>
+      el-bell
+      
+      <span class="muted">[&amp;#xf114;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf115</i>
+      el-blind
+      
+      <span class="muted">[&amp;#xf115;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf116</i>
+      el-blogger
+      
+      <span class="muted">[&amp;#xf116;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf117</i>
+      el-bold
+      
+      <span class="muted">[&amp;#xf117;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf118</i>
+      el-book
+      
+      <span class="muted">[&amp;#xf118;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf11a</i>
+      el-bookmark
+      
+      <span class="muted">[&amp;#xf11a;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf119</i>
+      el-bookmark-empty
+      
+      <span class="muted">[&amp;#xf119;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf11b</i>
+      el-braille
+      
+      <span class="muted">[&amp;#xf11b;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf11c</i>
+      el-briefcase
+      
+      <span class="muted">[&amp;#xf11c;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf11d</i>
+      el-broom
+      
+      <span class="muted">[&amp;#xf11d;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf11e</i>
+      el-brush
+      
+      <span class="muted">[&amp;#xf11e;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf11f</i>
+      el-bulb
+      
+      <span class="muted">[&amp;#xf11f;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf120</i>
+      el-bullhorn
+      
+      <span class="muted">[&amp;#xf120;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf122</i>
+      el-calendar
+      
+      <span class="muted">[&amp;#xf122;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf121</i>
+      el-calendar-sign
+      
+      <span class="muted">[&amp;#xf121;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf123</i>
+      el-camera
+      
+      <span class="muted">[&amp;#xf123;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf124</i>
+      el-car
+      
+      <span class="muted">[&amp;#xf124;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf125</i>
+      el-caret-down
+      
+      <span class="muted">[&amp;#xf125;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf126</i>
+      el-caret-left
+      
+      <span class="muted">[&amp;#xf126;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf127</i>
+      el-caret-right
+      
+      <span class="muted">[&amp;#xf127;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf128</i>
+      el-caret-up
+      
+      <span class="muted">[&amp;#xf128;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf129</i>
+      el-cc
+      
+      <span class="muted">[&amp;#xf129;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf12a</i>
+      el-certificate
+      
+      <span class="muted">[&amp;#xf12a;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf12c</i>
+      el-check
+      
+      <span class="muted">[&amp;#xf12c;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf12b</i>
+      el-check-empty
+      
+      <span class="muted">[&amp;#xf12b;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf12d</i>
+      el-chevron-down
+      
+      <span class="muted">[&amp;#xf12d;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf12e</i>
+      el-chevron-left
+      
+      <span class="muted">[&amp;#xf12e;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf12f</i>
+      el-chevron-right
+      
+      <span class="muted">[&amp;#xf12f;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf130</i>
+      el-chevron-up
+      
+      <span class="muted">[&amp;#xf130;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf131</i>
+      el-child
+      
+      <span class="muted">[&amp;#xf131;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf132</i>
+      el-circle-arrow-down
+      
+      <span class="muted">[&amp;#xf132;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf133</i>
+      el-circle-arrow-left
+      
+      <span class="muted">[&amp;#xf133;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf134</i>
+      el-circle-arrow-right
+      
+      <span class="muted">[&amp;#xf134;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf135</i>
+      el-circle-arrow-up
+      
+      <span class="muted">[&amp;#xf135;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf137</i>
+      el-cloud
+      
+      <span class="muted">[&amp;#xf137;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf136</i>
+      el-cloud-alt
+      
+      <span class="muted">[&amp;#xf136;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf139</i>
+      el-cog
+      
+      <span class="muted">[&amp;#xf139;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf138</i>
+      el-cog-alt
+      
+      <span class="muted">[&amp;#xf138;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf13a</i>
+      el-cogs
+      
+      <span class="muted">[&amp;#xf13a;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf13c</i>
+      el-comment
+      
+      <span class="muted">[&amp;#xf13c;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf13b</i>
+      el-comment-alt
+      
+      <span class="muted">[&amp;#xf13b;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf13e</i>
+      el-compass
+      
+      <span class="muted">[&amp;#xf13e;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf13d</i>
+      el-compass-alt
+      
+      <span class="muted">[&amp;#xf13d;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf13f</i>
+      el-credit-card
+      
+      <span class="muted">[&amp;#xf13f;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf140</i>
+      el-css
+      
+      <span class="muted">[&amp;#xf140;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf141</i>
+      el-dashboard
+      
+      <span class="muted">[&amp;#xf141;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf142</i>
+      el-delicious
+      
+      <span class="muted">[&amp;#xf142;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf143</i>
+      el-deviantart
+      
+      <span class="muted">[&amp;#xf143;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf144</i>
+      el-digg
+      
+      <span class="muted">[&amp;#xf144;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf146</i>
+      el-download
+      
+      <span class="muted">[&amp;#xf146;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf145</i>
+      el-download-alt
+      
+      <span class="muted">[&amp;#xf145;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf147</i>
+      el-dribbble
+      
+      <span class="muted">[&amp;#xf147;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf148</i>
+      el-edit
+      
+      <span class="muted">[&amp;#xf148;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf149</i>
+      el-eject
+      
+      <span class="muted">[&amp;#xf149;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf14b</i>
+      el-envelope
+      
+      <span class="muted">[&amp;#xf14b;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf14a</i>
+      el-envelope-alt
+      
+      <span class="muted">[&amp;#xf14a;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf14d</i>
+      el-error
+      
+      <span class="muted">[&amp;#xf14d;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf14c</i>
+      el-error-alt
+      
+      <span class="muted">[&amp;#xf14c;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf14e</i>
+      el-eur
+      
+      <span class="muted">[&amp;#xf14e;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf14f</i>
+      el-exclamation-sign
+      
+      <span class="muted">[&amp;#xf14f;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf150</i>
+      el-eye-close
+      
+      <span class="muted">[&amp;#xf150;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf151</i>
+      el-eye-open
+      
+      <span class="muted">[&amp;#xf151;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf152</i>
+      el-facebook
+      
+      <span class="muted">[&amp;#xf152;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf153</i>
+      el-facetime-video
+      
+      <span class="muted">[&amp;#xf153;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf154</i>
+      el-fast-backward
+      
+      <span class="muted">[&amp;#xf154;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf155</i>
+      el-fast-forward
+      
+      <span class="muted">[&amp;#xf155;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf156</i>
+      el-female
+      
+      <span class="muted">[&amp;#xf156;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf15c</i>
+      el-file
+      
+      <span class="muted">[&amp;#xf15c;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf157</i>
+      el-file-alt
+      
+      <span class="muted">[&amp;#xf157;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf159</i>
+      el-file-edit
+      
+      <span class="muted">[&amp;#xf159;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf158</i>
+      el-file-edit-alt
+      
+      <span class="muted">[&amp;#xf158;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf15b</i>
+      el-file-new
+      
+      <span class="muted">[&amp;#xf15b;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf15a</i>
+      el-file-new-alt
+      
+      <span class="muted">[&amp;#xf15a;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf15d</i>
+      el-film
+      
+      <span class="muted">[&amp;#xf15d;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf15e</i>
+      el-filter
+      
+      <span class="muted">[&amp;#xf15e;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf15f</i>
+      el-fire
+      
+      <span class="muted">[&amp;#xf15f;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf161</i>
+      el-flag
+      
+      <span class="muted">[&amp;#xf161;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf160</i>
+      el-flag-alt
+      
+      <span class="muted">[&amp;#xf160;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf162</i>
+      el-flickr
+      
+      <span class="muted">[&amp;#xf162;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf166</i>
+      el-folder
+      
+      <span class="muted">[&amp;#xf166;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf163</i>
+      el-folder-close
+      
+      <span class="muted">[&amp;#xf163;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf164</i>
+      el-folder-open
+      
+      <span class="muted">[&amp;#xf164;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf165</i>
+      el-folder-sign
+      
+      <span class="muted">[&amp;#xf165;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf167</i>
+      el-font
+      
+      <span class="muted">[&amp;#xf167;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf168</i>
+      el-fontsize
+      
+      <span class="muted">[&amp;#xf168;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf169</i>
+      el-fork
+      
+      <span class="muted">[&amp;#xf169;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf16b</i>
+      el-forward
+      
+      <span class="muted">[&amp;#xf16b;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf16a</i>
+      el-forward-alt
+      
+      <span class="muted">[&amp;#xf16a;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf16c</i>
+      el-foursquare
+      
+      <span class="muted">[&amp;#xf16c;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf16e</i>
+      el-friendfeed
+      
+      <span class="muted">[&amp;#xf16e;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf16d</i>
+      el-friendfeed-rect
+      
+      <span class="muted">[&amp;#xf16d;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf16f</i>
+      el-fullscreen
+      
+      <span class="muted">[&amp;#xf16f;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf170</i>
+      el-gbp
+      
+      <span class="muted">[&amp;#xf170;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf171</i>
+      el-gift
+      
+      <span class="muted">[&amp;#xf171;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf173</i>
+      el-github
+      
+      <span class="muted">[&amp;#xf173;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf172</i>
+      el-github-text
+      
+      <span class="muted">[&amp;#xf172;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf174</i>
+      el-glass
+      
+      <span class="muted">[&amp;#xf174;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf175</i>
+      el-glasses
+      
+      <span class="muted">[&amp;#xf175;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf177</i>
+      el-globe
+      
+      <span class="muted">[&amp;#xf177;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf176</i>
+      el-globe-alt
+      
+      <span class="muted">[&amp;#xf176;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf178</i>
+      el-googleplus
+      
+      <span class="muted">[&amp;#xf178;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf17a</i>
+      el-graph
+      
+      <span class="muted">[&amp;#xf17a;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf179</i>
+      el-graph-alt
+      
+      <span class="muted">[&amp;#xf179;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf17c</i>
+      el-group
+      
+      <span class="muted">[&amp;#xf17c;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf17b</i>
+      el-group-alt
+      
+      <span class="muted">[&amp;#xf17b;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf17d</i>
+      el-guidedog
+      
+      <span class="muted">[&amp;#xf17d;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf17e</i>
+      el-hand-down
+      
+      <span class="muted">[&amp;#xf17e;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf17f</i>
+      el-hand-left
+      
+      <span class="muted">[&amp;#xf17f;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf180</i>
+      el-hand-right
+      
+      <span class="muted">[&amp;#xf180;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf181</i>
+      el-hand-up
+      
+      <span class="muted">[&amp;#xf181;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf182</i>
+      el-hdd
+      
+      <span class="muted">[&amp;#xf182;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf183</i>
+      el-headphones
+      
+      <span class="muted">[&amp;#xf183;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf184</i>
+      el-hearing-impaired
+      
+      <span class="muted">[&amp;#xf184;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf187</i>
+      el-heart
+      
+      <span class="muted">[&amp;#xf187;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf185</i>
+      el-heart-alt
+      
+      <span class="muted">[&amp;#xf185;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf186</i>
+      el-heart-empty
+      
+      <span class="muted">[&amp;#xf186;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf189</i>
+      el-home
+      
+      <span class="muted">[&amp;#xf189;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf188</i>
+      el-home-alt
+      
+      <span class="muted">[&amp;#xf188;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf18a</i>
+      el-hourglass
+      
+      <span class="muted">[&amp;#xf18a;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf18c</i>
+      el-idea
+      
+      <span class="muted">[&amp;#xf18c;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf18b</i>
+      el-idea-alt
+      
+      <span class="muted">[&amp;#xf18b;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf18f</i>
+      el-inbox
+      
+      <span class="muted">[&amp;#xf18f;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf18d</i>
+      el-inbox-alt
+      
+      <span class="muted">[&amp;#xf18d;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf18e</i>
+      el-inbox-box
+      
+      <span class="muted">[&amp;#xf18e;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf190</i>
+      el-indent-left
+      
+      <span class="muted">[&amp;#xf190;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf191</i>
+      el-indent-right
+      
+      <span class="muted">[&amp;#xf191;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf192</i>
+      el-info-circle
+      
+      <span class="muted">[&amp;#xf192;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf193</i>
+      el-instagram
+      
+      <span class="muted">[&amp;#xf193;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf194</i>
+      el-iphone-home
+      
+      <span class="muted">[&amp;#xf194;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf195</i>
+      el-italic
+      
+      <span class="muted">[&amp;#xf195;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf196</i>
+      el-key
+      
+      <span class="muted">[&amp;#xf196;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf198</i>
+      el-laptop
+      
+      <span class="muted">[&amp;#xf198;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf197</i>
+      el-laptop-alt
+      
+      <span class="muted">[&amp;#xf197;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf199</i>
+      el-lastfm
+      
+      <span class="muted">[&amp;#xf199;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf19a</i>
+      el-leaf
+      
+      <span class="muted">[&amp;#xf19a;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf19b</i>
+      el-lines
+      
+      <span class="muted">[&amp;#xf19b;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf19c</i>
+      el-link
+      
+      <span class="muted">[&amp;#xf19c;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf19d</i>
+      el-linkedin
+      
+      <span class="muted">[&amp;#xf19d;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf19f</i>
+      el-list
+      
+      <span class="muted">[&amp;#xf19f;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf19e</i>
+      el-list-alt
+      
+      <span class="muted">[&amp;#xf19e;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1a0</i>
+      el-livejournal
+      
+      <span class="muted">[&amp;#xf1a0;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1a2</i>
+      el-lock
+      
+      <span class="muted">[&amp;#xf1a2;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1a1</i>
+      el-lock-alt
+      
+      <span class="muted">[&amp;#xf1a1;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1a3</i>
+      el-magic
+      
+      <span class="muted">[&amp;#xf1a3;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1a4</i>
+      el-magnet
+      
+      <span class="muted">[&amp;#xf1a4;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1a5</i>
+      el-male
+      
+      <span class="muted">[&amp;#xf1a5;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1a7</i>
+      el-map-marker
+      
+      <span class="muted">[&amp;#xf1a7;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1a6</i>
+      el-map-marker-alt
+      
+      <span class="muted">[&amp;#xf1a6;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1a9</i>
+      el-mic
+      
+      <span class="muted">[&amp;#xf1a9;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1a8</i>
+      el-mic-alt
+      
+      <span class="muted">[&amp;#xf1a8;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1ab</i>
+      el-minus
+      
+      <span class="muted">[&amp;#xf1ab;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1aa</i>
+      el-minus-sign
+      
+      <span class="muted">[&amp;#xf1aa;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1ac</i>
+      el-move
+      
+      <span class="muted">[&amp;#xf1ac;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1ad</i>
+      el-music
+      
+      <span class="muted">[&amp;#xf1ad;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1ae</i>
+      el-myspace
+      
+      <span class="muted">[&amp;#xf1ae;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1af</i>
+      el-network
+      
+      <span class="muted">[&amp;#xf1af;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1b0</i>
+      el-off
+      
+      <span class="muted">[&amp;#xf1b0;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1b3</i>
+      el-ok
+      
+      <span class="muted">[&amp;#xf1b3;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1b1</i>
+      el-ok-circle
+      
+      <span class="muted">[&amp;#xf1b1;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1b2</i>
+      el-ok-sign
+      
+      <span class="muted">[&amp;#xf1b2;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1b4</i>
+      el-opensource
+      
+      <span class="muted">[&amp;#xf1b4;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1b6</i>
+      el-paper-clip
+      
+      <span class="muted">[&amp;#xf1b6;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1b5</i>
+      el-paper-clip-alt
+      
+      <span class="muted">[&amp;#xf1b5;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1b7</i>
+      el-path
+      
+      <span class="muted">[&amp;#xf1b7;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1b9</i>
+      el-pause
+      
+      <span class="muted">[&amp;#xf1b9;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1b8</i>
+      el-pause-alt
+      
+      <span class="muted">[&amp;#xf1b8;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1bb</i>
+      el-pencil
+      
+      <span class="muted">[&amp;#xf1bb;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1ba</i>
+      el-pencil-alt
+      
+      <span class="muted">[&amp;#xf1ba;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1bc</i>
+      el-person
+      
+      <span class="muted">[&amp;#xf1bc;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1be</i>
+      el-phone
+      
+      <span class="muted">[&amp;#xf1be;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1bd</i>
+      el-phone-alt
+      
+      <span class="muted">[&amp;#xf1bd;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1c0</i>
+      el-photo
+      
+      <span class="muted">[&amp;#xf1c0;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1bf</i>
+      el-photo-alt
+      
+      <span class="muted">[&amp;#xf1bf;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1c1</i>
+      el-picasa
+      
+      <span class="muted">[&amp;#xf1c1;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1c2</i>
+      el-picture
+      
+      <span class="muted">[&amp;#xf1c2;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1c3</i>
+      el-pinterest
+      
+      <span class="muted">[&amp;#xf1c3;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1c4</i>
+      el-plane
+      
+      <span class="muted">[&amp;#xf1c4;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1c7</i>
+      el-play
+      
+      <span class="muted">[&amp;#xf1c7;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1c5</i>
+      el-play-alt
+      
+      <span class="muted">[&amp;#xf1c5;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1c6</i>
+      el-play-circle
+      
+      <span class="muted">[&amp;#xf1c6;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1c9</i>
+      el-plus
+      
+      <span class="muted">[&amp;#xf1c9;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1c8</i>
+      el-plus-sign
+      
+      <span class="muted">[&amp;#xf1c8;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1ca</i>
+      el-podcast
+      
+      <span class="muted">[&amp;#xf1ca;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1cb</i>
+      el-print
+      
+      <span class="muted">[&amp;#xf1cb;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1cc</i>
+      el-puzzle
+      
+      <span class="muted">[&amp;#xf1cc;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1cd</i>
+      el-qrcode
+      
+      <span class="muted">[&amp;#xf1cd;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1cf</i>
+      el-question
+      
+      <span class="muted">[&amp;#xf1cf;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1ce</i>
+      el-question-sign
+      
+      <span class="muted">[&amp;#xf1ce;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1d1</i>
+      el-quotes
+      
+      <span class="muted">[&amp;#xf1d1;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1d0</i>
+      el-quotes-alt
+      
+      <span class="muted">[&amp;#xf1d0;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1d2</i>
+      el-random
+      
+      <span class="muted">[&amp;#xf1d2;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1d3</i>
+      el-record
+      
+      <span class="muted">[&amp;#xf1d3;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1d4</i>
+      el-reddit
+      
+      <span class="muted">[&amp;#xf1d4;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1d5</i>
+      el-redux
+      
+      <span class="muted">[&amp;#xf1d5;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1d6</i>
+      el-refresh
+      
+      <span class="muted">[&amp;#xf1d6;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1d9</i>
+      el-remove
+      
+      <span class="muted">[&amp;#xf1d9;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1d7</i>
+      el-remove-circle
+      
+      <span class="muted">[&amp;#xf1d7;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1d8</i>
+      el-remove-sign
+      
+      <span class="muted">[&amp;#xf1d8;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1db</i>
+      el-repeat
+      
+      <span class="muted">[&amp;#xf1db;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1da</i>
+      el-repeat-alt
+      
+      <span class="muted">[&amp;#xf1da;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1dc</i>
+      el-resize-full
+      
+      <span class="muted">[&amp;#xf1dc;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1dd</i>
+      el-resize-horizontal
+      
+      <span class="muted">[&amp;#xf1dd;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1de</i>
+      el-resize-small
+      
+      <span class="muted">[&amp;#xf1de;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1df</i>
+      el-resize-vertical
+      
+      <span class="muted">[&amp;#xf1df;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1e0</i>
+      el-return-key
+      
+      <span class="muted">[&amp;#xf1e0;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1e1</i>
+      el-retweet
+      
+      <span class="muted">[&amp;#xf1e1;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1e2</i>
+      el-reverse-alt
+      
+      <span class="muted">[&amp;#xf1e2;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1e3</i>
+      el-road
+      
+      <span class="muted">[&amp;#xf1e3;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1e4</i>
+      el-rss
+      
+      <span class="muted">[&amp;#xf1e4;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1e5</i>
+      el-scissors
+      
+      <span class="muted">[&amp;#xf1e5;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1e7</i>
+      el-screen
+      
+      <span class="muted">[&amp;#xf1e7;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1e6</i>
+      el-screen-alt
+      
+      <span class="muted">[&amp;#xf1e6;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1e8</i>
+      el-screenshot
+      
+      <span class="muted">[&amp;#xf1e8;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1ea</i>
+      el-search
+      
+      <span class="muted">[&amp;#xf1ea;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1e9</i>
+      el-search-alt
+      
+      <span class="muted">[&amp;#xf1e9;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1ec</i>
+      el-share
+      
+      <span class="muted">[&amp;#xf1ec;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1eb</i>
+      el-share-alt
+      
+      <span class="muted">[&amp;#xf1eb;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1ee</i>
+      el-shopping-cart
+      
+      <span class="muted">[&amp;#xf1ee;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1ed</i>
+      el-shopping-cart-sign
+      
+      <span class="muted">[&amp;#xf1ed;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1ef</i>
+      el-signal
+      
+      <span class="muted">[&amp;#xf1ef;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1f0</i>
+      el-skype
+      
+      <span class="muted">[&amp;#xf1f0;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1f1</i>
+      el-slideshare
+      
+      <span class="muted">[&amp;#xf1f1;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1f3</i>
+      el-smiley
+      
+      <span class="muted">[&amp;#xf1f3;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1f2</i>
+      el-smiley-alt
+      
+      <span class="muted">[&amp;#xf1f2;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1f4</i>
+      el-soundcloud
+      
+      <span class="muted">[&amp;#xf1f4;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1f5</i>
+      el-speaker
+      
+      <span class="muted">[&amp;#xf1f5;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1f6</i>
+      el-spotify
+      
+      <span class="muted">[&amp;#xf1f6;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1f7</i>
+      el-stackoverflow
+      
+      <span class="muted">[&amp;#xf1f7;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1fa</i>
+      el-star
+      
+      <span class="muted">[&amp;#xf1fa;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1f8</i>
+      el-star-alt
+      
+      <span class="muted">[&amp;#xf1f8;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1f9</i>
+      el-star-empty
+      
+      <span class="muted">[&amp;#xf1f9;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1fb</i>
+      el-step-backward
+      
+      <span class="muted">[&amp;#xf1fb;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1fc</i>
+      el-step-forward
+      
+      <span class="muted">[&amp;#xf1fc;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1fe</i>
+      el-stop
+      
+      <span class="muted">[&amp;#xf1fe;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1fd</i>
+      el-stop-alt
+      
+      <span class="muted">[&amp;#xf1fd;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf1ff</i>
+      el-stumbleupon
+      
+      <span class="muted">[&amp;#xf1ff;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf200</i>
+      el-tag
+      
+      <span class="muted">[&amp;#xf200;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf201</i>
+      el-tags
+      
+      <span class="muted">[&amp;#xf201;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf202</i>
+      el-tasks
+      
+      <span class="muted">[&amp;#xf202;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf203</i>
+      el-text-height
+      
+      <span class="muted">[&amp;#xf203;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf204</i>
+      el-text-width
+      
+      <span class="muted">[&amp;#xf204;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf207</i>
+      el-th
+      
+      <span class="muted">[&amp;#xf207;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf205</i>
+      el-th-large
+      
+      <span class="muted">[&amp;#xf205;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf206</i>
+      el-th-list
+      
+      <span class="muted">[&amp;#xf206;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf208</i>
+      el-thumbs-down
+      
+      <span class="muted">[&amp;#xf208;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf209</i>
+      el-thumbs-up
+      
+      <span class="muted">[&amp;#xf209;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf20b</i>
+      el-time
+      
+      <span class="muted">[&amp;#xf20b;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf20a</i>
+      el-time-alt
+      
+      <span class="muted">[&amp;#xf20a;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf20c</i>
+      el-tint
+      
+      <span class="muted">[&amp;#xf20c;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf20d</i>
+      el-torso
+      
+      <span class="muted">[&amp;#xf20d;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf20f</i>
+      el-trash
+      
+      <span class="muted">[&amp;#xf20f;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf20e</i>
+      el-trash-alt
+      
+      <span class="muted">[&amp;#xf20e;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf210</i>
+      el-tumblr
+      
+      <span class="muted">[&amp;#xf210;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf211</i>
+      el-twitter
+      
+      <span class="muted">[&amp;#xf211;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf212</i>
+      el-universal-access
+      
+      <span class="muted">[&amp;#xf212;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf214</i>
+      el-unlock
+      
+      <span class="muted">[&amp;#xf214;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf213</i>
+      el-unlock-alt
+      
+      <span class="muted">[&amp;#xf213;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf215</i>
+      el-upload
+      
+      <span class="muted">[&amp;#xf215;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf216</i>
+      el-usd
+      
+      <span class="muted">[&amp;#xf216;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf217</i>
+      el-user
+      
+      <span class="muted">[&amp;#xf217;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf218</i>
+      el-viadeo
+      
+      <span class="muted">[&amp;#xf218;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf21b</i>
+      el-video
+      
+      <span class="muted">[&amp;#xf21b;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf219</i>
+      el-video-alt
+      
+      <span class="muted">[&amp;#xf219;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf21a</i>
+      el-video-chat
+      
+      <span class="muted">[&amp;#xf21a;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf21c</i>
+      el-view-mode
+      
+      <span class="muted">[&amp;#xf21c;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf21d</i>
+      el-vimeo
+      
+      <span class="muted">[&amp;#xf21d;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf21e</i>
+      el-vkontakte
+      
+      <span class="muted">[&amp;#xf21e;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf21f</i>
+      el-volume-down
+      
+      <span class="muted">[&amp;#xf21f;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf220</i>
+      el-volume-off
+      
+      <span class="muted">[&amp;#xf220;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf221</i>
+      el-volume-up
+      
+      <span class="muted">[&amp;#xf221;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf222</i>
+      el-w3c
+      
+      <span class="muted">[&amp;#xf222;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf223</i>
+      el-warning-sign
+      
+      <span class="muted">[&amp;#xf223;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf225</i>
+      el-website
+      
+      <span class="muted">[&amp;#xf225;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf224</i>
+      el-website-alt
+      
+      <span class="muted">[&amp;#xf224;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf226</i>
+      el-wheelchair
+      
+      <span class="muted">[&amp;#xf226;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf227</i>
+      el-wordpress
+      
+      <span class="muted">[&amp;#xf227;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf229</i>
+      el-wrench
+      
+      <span class="muted">[&amp;#xf229;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf228</i>
+      el-wrench-alt
+      
+      <span class="muted">[&amp;#xf228;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf22a</i>
+      el-youtube
+      
+      <span class="muted">[&amp;#xf22a;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf22b</i>
+      el-zoom-in
+      
+      <span class="muted">[&amp;#xf22b;]</span>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-lg-3">
+      <i class="el el-fw">&#xf22c</i>
+      el-zoom-out
+      
+      <span class="muted">[&amp;#xf22c;]</span>
+    </div>
+    
+  </div>
+</div>
+
+</div>
+<footer id="footer" class="footer hidden-print">
+  <div class="container text-center">
+    <div>
+      <i class="el el-redux"></i> Elusive Icons 2.0.0
+      <span class="hide-xs">&middot;</span><br class="hide-sm hide-md hide-lg">
+      Maintained by <a href="http://reduxframework.com/">Team Redux</a>
+    </div>
+    <div>
+      Elusive Icons licensed under <a href="http://scripts.sil.org/OFL">SIL OFL 1.1</a>
+      <span class="hide-xs">&middot;</span><br class="hide-sm hide-md hide-lg">
+      Code licensed under <a href="http://opensource.org/licenses/mit-license.html">MIT License</a>
+      <span class="hide-xs hide-sm">&middot;</span><br class="hide-md hide-lg">
+      Documentation licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>
+    </div>
+    <div class="project">
+      <a href="https://github.com/reduxframework/Elusive-Icons">GitHub Project</a> &middot;
+      <a href="https://github.com/reduxframework/Elusive-Icons/issues">Issues</a>
+    </div>
+  </div>
+</footer>
+
+
+<!--<script src="http://platform.twitter.com/widgets.js"></script>-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="../assets/js/jquery-1.7.1.min.js"><\/script>')</script>
+
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script>if(typeof($.fn.modal) === 'undefined') {document.write('<script src="../assets/js/bootstrap-3.1.1.min.js"><\/script>')}</script>
+
+<script src="../assets/js/tabcomplete.min.js"></script>
+<script src="../assets/js/site.js"></script>
+</body>
+</html>
