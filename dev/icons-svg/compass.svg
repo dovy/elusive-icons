@@ -1,59 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: IcoMoon.io -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   version="1.1"
-   data-tags="remove-circle, cancel, close, remove, delete"
-   height="1200"
-   width="1200"
-   data-du=""
-   viewBox="0 0 1200 1200"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="compass.svg">
-  <defs
-     id="defs32" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview30"
-     showgrid="false"
-     inkscape:zoom="0.37249375"
-     inkscape:cx="847.24455"
-     inkscape:cy="609.17298"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata62">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     inkscape:connector-curvature="0"
-     d="m 175.73592,1024.2641 c 234.31453,234.3145 614.21367,234.3145 848.52818,0 234.3145,-234.31453 234.3145,-614.21366 0,-848.52818 -234.31454,-234.31453 -614.21368,-234.31453 -848.52821,0 -234.314513,234.31452 -234.314513,614.21365 3e-5,848.52818 z m 58.57453,-58.57454 c -201.966316,-201.96631 -201.966316,-529.41256 0,-731.37911 201.96632,-201.96634 529.41257,-201.96634 731.37914,0 201.96631,201.96631 201.96631,529.4128 0,731.37911 -201.96634,201.96634 -529.41259,201.96634 -731.37914,0 z m 58.52274,-31.28108 398.11006,-243.465 243.46501,-398.11006 -27.24164,-27.24164 -398.11008,243.46498 -243.46499,398.11007 27.24164,27.24165 z"
-     id="path4896" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="compass.svg" inkscape:version="0.48.4 r9939"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px" height="1200px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<sodipodi:namedview  inkscape:cy="609.17298" inkscape:cx="847.24455" inkscape:zoom="0.37249375" showgrid="false" id="namedview30" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" inkscape:current-layer="svg2" inkscape:window-maximized="1" inkscape:window-y="24" inkscape:window-height="876" inkscape:window-width="1535" inkscape:pageshadow="2" inkscape:pageopacity="0" inkscape:window-x="65">
+	</sodipodi:namedview>
+<path id="path4896" inkscape:connector-curvature="0" d="M175.736,1024.264c234.315,234.314,614.213,234.314,848.527,0
+	s234.314-614.212,0-848.527c-234.314-234.314-614.212-234.314-848.527,0C-58.578,410.051-58.578,789.949,175.736,1024.264
+	L175.736,1024.264z M234.311,965.689c-201.966-201.966-201.966-529.412,0-731.378c201.966-201.966,529.412-201.966,731.378,0
+	c201.967,201.967,201.967,529.413,0,731.378C763.724,1167.656,436.278,1167.656,234.311,965.689L234.311,965.689z M292.833,934.408
+	l398.11-243.465l243.465-398.109l-27.241-27.242l-398.11,243.465l-243.465,398.11L292.833,934.408L292.833,934.408z"/>
 </svg>

@@ -1,59 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: IcoMoon.io -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   data-tags="remove-circle, cancel, close, remove, delete"
-   height="1200"
-   viewBox="0 0 1200 1200"
-   width="1200"
-   version="1.1"
-   data-du=""
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="child.svg">
-  <defs
-     id="defs33" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview31"
-     showgrid="false"
-     inkscape:zoom="0.26339286"
-     inkscape:cx="-67.796606"
-     inkscape:cy="448"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata62">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     d="M 604.72935,0 C 469.35442,0 359.59821,110.31708 359.59821,246.42857 c 0,136.1146 109.764,246.47043 245.13114,246.47043 135.37495,0 245.08929,-110.34959 245.08929,-246.47043 C 849.81864,110.31396 740.10273,0 604.72935,0 z m -140.37388,287.40234 279.36663,0 c 0,77.14466 -62.55958,139.70424 -139.70424,139.70424 -77.14468,0 -139.66239,-62.55958 -139.66239,-139.70424 z m -52.274,244.33594 C 284.41989,534.35985 200.44426,617.28899 205.20368,767.45257 L 204.95256,1200 l 146.94475,0 0,-388.64397 c 1.27178,-34.02592 51.24138,-45.94475 57.673,0 l 0,388.64397 386.13281,0 0,-388.64397 c 1.27177,-34.02592 51.24122,-45.94475 57.673,0 l 0,388.64397 141.67131,0 0,-432.54743 C 994.18917,648.73246 945.47603,530.63766 789.46708,531.73828 l -377.38561,0 z"
-     id="path2986"
-     inkscape:connector-curvature="0" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="child.svg" inkscape:version="0.48.4 r9939"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px" height="1200px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<sodipodi:namedview  inkscape:cy="448" inkscape:cx="-67.796606" inkscape:zoom="0.26339286" showgrid="false" id="namedview31" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" inkscape:current-layer="svg2" inkscape:window-maximized="1" inkscape:window-y="24" inkscape:window-height="876" inkscape:window-width="1535" inkscape:pageshadow="2" inkscape:pageopacity="0" inkscape:window-x="65">
+	</sodipodi:namedview>
+<path id="path2986" inkscape:connector-curvature="0" d="M604.729,0C469.354,0,359.598,110.317,359.598,246.429
+	c0,136.114,109.765,246.471,245.132,246.471c135.375,0,245.089-110.35,245.089-246.471C849.818,110.314,740.103,0,604.729,0z
+	 M464.355,287.402h279.366c0,77.145-62.56,139.704-139.704,139.704S464.355,364.547,464.355,287.402L464.355,287.402z
+	 M412.081,531.738c-127.661,2.621-211.637,85.551-206.878,235.714L204.952,1200h146.945V811.356
+	c1.271-34.026,51.241-45.945,57.673,0V1200h386.133V811.356c1.271-34.026,51.241-45.945,57.673,0V1200h141.672V767.452
+	c-0.858-118.72-49.572-236.814-205.581-235.714H412.081z"/>
 </svg>

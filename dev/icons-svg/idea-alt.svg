@@ -1,60 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: IcoMoon.io -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   version="1.1"
-   data-tags="remove-circle, cancel, close, remove, delete"
-   height="1200"
-   width="1200"
-   data-du=""
-   viewBox="0 0 1200 1200"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="idea-alt.svg">
-  <defs
-     id="defs32" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview30"
-     showgrid="false"
-     inkscape:zoom="0.52678571"
-     inkscape:cx="616.94918"
-     inkscape:cy="645.99838"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata62">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="fill:#000000;fill-opacity:1;stroke:none"
-     d="M 600,0 C 268.62914,0 0,268.62914 0,600 c 0,331.37086 268.62914,600 600,600 331.37086,0 600,-268.62914 600,-600 C 1200,268.62914 931.37086,0 600,0 z m -20.36133,221.77734 40.72266,0 0,120.04396 -40.72266,0 0,-120.04396 z m -166.55273,36.03515 68.84765,98.29102 -33.39843,23.4375 -68.84765,-98.291 33.39843,-23.43752 z m 373.82812,0 33.39843,23.43752 -68.84765,98.291 -33.39843,-23.4375 68.84765,-98.29102 z M 600,374.63379 c 99.75361,0 180.61523,60.5491 180.61523,135.27832 l -102.6123,310.76659 -156.00586,0 -102.6123,-310.76659 c 0,-74.73014 80.86708,-135.27832 180.61523,-135.27832 z m -324.38965,36.03516 112.79296,41.08885 -13.98925,38.30567 -112.71973,-41.08885 13.91602,-38.30567 z m 648.7793,0 13.91602,38.30567 -112.79298,41.08885 -13.916,-38.30567 112.79296,-41.08885 z M 382.9834,585.9375 393.53028,625.3418 277.58789,656.39649 267.04101,616.99219 382.9834,585.9375 z m 434.0332,0 115.94239,31.05469 -10.54688,39.4043 -115.94239,-31.05469 10.54688,-39.4043 z m -297.29003,257.44628 160.54686,0 0,53.9795 -160.54686,0 0,-53.9795 z m 0,80.85939 160.54686,0 0,53.97949 -160.54686,0 0,-53.97949 z"
-     id="path12158"
-     inkscape:connector-curvature="0" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="idea-alt.svg" inkscape:version="0.48.4 r9939"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px" height="1200px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<sodipodi:namedview  inkscape:cy="645.99838" inkscape:cx="616.94918" inkscape:zoom="0.52678571" showgrid="false" id="namedview30" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" inkscape:current-layer="svg2" inkscape:window-maximized="1" inkscape:window-y="24" inkscape:window-height="876" inkscape:window-width="1535" inkscape:pageshadow="2" inkscape:pageopacity="0" inkscape:window-x="65">
+	</sodipodi:namedview>
+<path id="path12158" inkscape:connector-curvature="0" d="M600,0C268.629,0,0,268.629,0,600s268.629,600,600,600
+	s600-268.629,600-600S931.371,0,600,0z M579.639,221.777h40.723v120.044h-40.723V221.777L579.639,221.777z M413.086,257.812
+	l68.848,98.291l-33.398,23.438l-68.848-98.291L413.086,257.812L413.086,257.812z M786.914,257.812l33.398,23.438l-68.848,98.291
+	l-33.398-23.438L786.914,257.812z M600,374.634c99.754,0,180.615,60.549,180.615,135.278L678.003,820.679H521.997L419.385,509.912
+	C419.385,435.182,500.252,374.634,600,374.634z M275.61,410.669l112.793,41.089l-13.989,38.306l-112.72-41.089L275.61,410.669z
+	 M924.39,410.669l13.916,38.306l-112.793,41.089l-13.916-38.306L924.39,410.669z M382.983,585.938l10.547,39.404l-115.942,31.055
+	l-10.547-39.404L382.983,585.938z M817.017,585.938l115.942,31.055l-10.547,39.404L806.47,625.342L817.017,585.938z
+	 M519.727,843.384h160.547v53.979H519.727V843.384z M519.727,924.243h160.547v53.979H519.727V924.243z"/>
 </svg>

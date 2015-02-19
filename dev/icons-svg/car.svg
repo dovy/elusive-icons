@@ -1,63 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: IcoMoon.io -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   data-tags="remove-circle, cancel, close, remove, delete"
-   height="1200"
-   viewBox="0 0 1200 1200"
-   width="1200"
-   version="1.1"
-   data-du=""
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="car.svg">
-  <defs
-     id="defs3180" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="848"
-     id="namedview3178"
-     showgrid="false"
-     inkscape:zoom="0.26339286"
-     inkscape:cx="-67.796606"
-     inkscape:cy="448"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata62">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="g3324"
-     transform="matrix(2.3437561,0,0,2.3437561,-877.57411,-172.73677)" />
-  <path
-     id="rect3251"
-     d="m 214.66168,100.75189 -75.97003,316.40134 -21.07886,0 -117.61279,0 0,91.45615 47.572555,0 0,590.63872 136.569405,0 0,-96.6853 831.71604,0 0,96.6853 136.4961,0 0,-590.63872 47.6459,0 0,-91.45615 -117.6861,0 -21.0055,0 -75.97008,-316.40134 -770.6704,0 z m 40.47396,61.52005 689.71311,0 61.18615,254.88753 -812.10098,0 61.18612,-254.88753 z M 87.088393,585.97135 277.52842,656.30027 v 91.38438 L 87.088393,677.35573 v -91.38438 z m 1025.729607,0 0,91.38438 -190.36202,70.32892 0,-91.45616 190.36202,-70.25714 z m -696.98493,239.06434 368.19342,0 0,91.38438 -368.19342,0 0,-91.38438 z"
-     inkscape:connector-curvature="0"
-     style="fill:#000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="car.svg" inkscape:version="0.48.4 r9939"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px" height="1200px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<sodipodi:namedview  inkscape:cy="448" inkscape:cx="-67.796606" inkscape:zoom="0.26339286" showgrid="false" id="namedview3178" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" inkscape:current-layer="svg2" inkscape:window-maximized="1" inkscape:window-y="24" inkscape:window-height="848" inkscape:window-width="1535" inkscape:pageshadow="2" inkscape:pageopacity="0" inkscape:window-x="65">
+	</sodipodi:namedview>
+<g id="g3324" transform="matrix(2.3437561,0,0,2.3437561,-877.57411,-172.73677)">
+</g>
+<path id="rect3251" inkscape:connector-curvature="0" d="M214.662,100.752l-75.97,316.401h-21.079H0v91.456h47.573v590.639h136.569
+	v-96.685h831.716v96.685h136.496V508.609H1200v-91.456h-117.686h-21.006l-75.971-316.401h-770.67H214.662z M255.136,162.272h689.713
+	l61.187,254.887H193.934l61.186-254.887H255.136z M87.088,585.972l190.44,70.329v91.384l-190.44-70.329V585.972L87.088,585.972z
+	 M1112.818,585.972v91.384l-190.362,70.329v-91.456L1112.818,585.972z M415.833,825.036h368.193v91.384H415.833V825.036z"/>
 </svg>

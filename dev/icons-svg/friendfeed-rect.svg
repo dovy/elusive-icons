@@ -1,59 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: IcoMoon.io -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   version="1.1"
-   data-tags="remove-circle, cancel, close, remove, delete"
-   height="1200"
-   width="1200"
-   data-du=""
-   viewBox="0 0 1200 1200"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="friendfeed-rect.svg">
-  <defs
-     id="defs32" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview30"
-     showgrid="false"
-     inkscape:zoom="0.37249375"
-     inkscape:cx="757.98333"
-     inkscape:cy="312.34506"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata62">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     id="path9599"
-     d="m 0,0 0,1200 1200,0 L 1200,0 0,0 z m 809.32617,164.86828 c 41.48251,-0.0737 79.59376,7.10531 111.69446,11.79188 70.05726,18.58171 98.02167,47.08711 96.97267,97.26562 l 2.5633,79.98047 c -11.1522,72.76243 -42.17433,75.89672 -72.21676,82.54406 11.16,8.5739 22.03359,3.85102 28.41796,43.87196 l 0,97.99804 c -22.0828,52.11915 -53.58889,57.3879 -85.18077,61.96289 l -38.67188,-2.63672 -2.56335,327.68555 c -5.10234,60.44627 -41.61282,63.35787 -74.85352,72.21687 l -147.07031,0 c -44.91469,-0.912 -68.77734,-30.6916 -74.78017,-85.1075 -17.08241,66.9399 -49.16484,96.3366 -95.43467,90.3076 l -126.41602,-2.6367 c -84.4411,-9.1484 -77.55328,-50.50679 -82.61719,-87.6709 l -2.56335,-314.79492 c -35.83642,-11.88515 -69.44486,-29.30718 -67.08985,-136.66992 2.46071,-94.79625 36.40992,-104.31141 72.28992,-108.39843 9.98953,-122.6215 74.91329,-208.56962 245.06836,-224.41406 75.23391,-5.57672 129.36774,9.93515 180.61523,28.34484 45.54797,-24.27633 90.35344,-31.56727 131.83594,-31.64063 z M 516.43078,241.6261 c -15.73125,0.17601 -26.82867,2.50569 -44.09202,1.31811 C 332.24297,260.5043 337.97789,373.1986 334.79015,438.57422 l 1.83095,27.39258 -71.19141,-3.66212 1.83094,100.3418 65.69836,0 -3.66212,397.63195 134.98547,0 0,-397.63195 175.12196,-3.66211 0,401.29406 134.98524,3.66188 -1.83094,-404.95594 122.24109,0 0,-89.42858 -122.24109,0 c 4.4025,-60.46196 -16.62,-142.35352 74.85351,-129.49219 32.88539,4.18358 64.25671,10.54007 87.52429,29.15015 l 1.83118,-100.26844 C 891.76641,249.69235 832.34508,241.37039 767.65125,249.97546 619.45546,269.69672 643.48688,383.76445 639.4043,473.21766 l -169.62891,-1.83094 0,-67.45594 c 4.25179,-34.99148 10.44891,-68.80594 76.61133,-65.69836 21.38016,-2.89499 48.0239,9.40571 78.4425,20.06836 l -1.83118,-94.84875 C 564.53953,244.71375 536.6564,241.39969 516.43078,241.6261 z"
-     inkscape:connector-curvature="0" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="friendfeed-rect.svg" inkscape:version="0.48.4 r9939"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px" height="1200px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<sodipodi:namedview  inkscape:cy="312.34506" inkscape:cx="757.98333" inkscape:zoom="0.37249375" showgrid="false" id="namedview30" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" inkscape:current-layer="svg2" inkscape:window-maximized="1" inkscape:window-y="24" inkscape:window-height="876" inkscape:window-width="1535" inkscape:pageshadow="2" inkscape:pageopacity="0" inkscape:window-x="65">
+	</sodipodi:namedview>
+<path id="path9599" inkscape:connector-curvature="0" d="M0,0v1200h1200V0H0z M809.326,164.868
+	c41.482-0.074,79.594,7.105,111.694,11.792c70.058,18.582,98.021,47.087,96.973,97.266l2.563,79.98
+	c-11.152,72.763-42.175,75.896-72.217,82.544c11.16,8.574,22.033,3.852,28.418,43.872v97.998
+	c-22.083,52.119-53.589,57.388-85.181,61.963l-38.672-2.637l-2.563,327.686c-5.103,60.446-41.613,63.357-74.854,72.217h-147.07
+	c-44.915-0.912-68.777-30.691-74.78-85.107c-17.082,66.939-49.165,96.337-95.435,90.308l-126.416-2.637
+	c-84.441-9.148-77.553-50.507-82.617-87.671l-2.563-314.795c-35.836-11.885-69.445-29.308-67.09-136.67
+	c2.461-94.796,36.41-104.312,72.29-108.398c9.99-122.622,74.913-208.57,245.068-224.414c75.234-5.577,129.368,9.935,180.615,28.345
+	C723.038,172.232,767.844,164.941,809.326,164.868L809.326,164.868z M516.431,241.626c-15.731,0.176-26.828,2.506-44.092,1.318
+	c-140.096,17.56-134.361,130.254-137.549,195.63l1.831,27.393l-71.191-3.662l1.831,100.342h65.698l-3.662,397.632h134.985V562.646
+	l175.122-3.662v401.294l134.985,3.662l-1.831-404.956H894.8v-89.429H772.559c4.402-60.462-16.62-142.354,74.854-129.492
+	c32.886,4.184,64.257,10.54,87.524,29.15l1.831-100.269c-45.001-19.253-104.423-27.575-169.116-18.97
+	c-148.196,19.721-124.164,133.789-128.247,223.242l-169.629-1.831v-67.456c4.252-34.991,10.449-68.806,76.611-65.698
+	c21.38-2.895,48.023,9.405,78.442,20.068l-1.831-94.849C564.539,244.714,536.656,241.4,516.431,241.626z"/>
 </svg>

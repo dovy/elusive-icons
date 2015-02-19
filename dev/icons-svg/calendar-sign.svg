@@ -1,62 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: IcoMoon.io -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   data-tags="remove-circle, cancel, close, remove, delete"
-   height="1200"
-   viewBox="0 0 1200 1200"
-   width="1200"
-   version="1.1"
-   data-du=""
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="calendar-sign.svg">
-  <defs
-     id="defs3111" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     id="namedview3109"
-     showgrid="false"
-     inkscape:zoom="0.26339286"
-     inkscape:cx="-67.796606"
-     inkscape:cy="448"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata62">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="g3324"
-     transform="matrix(1.5019531,0,0,1.5019531,-562.55758,274.03443)" />
-  <path
-     id="path3453"
-     d="M 600,0 C 268.63459,0 0,268.63459 0,600 c 0,331.36541 268.63459,600 600,600 331.36541,0 600,-268.63459 600,-600 C 1200,268.63459 931.36541,0 600,0 z m -210.64759,221.55527 62.25643,0 0,118.57997 -62.25643,0 0,-118.57997 z m 359.03251,0 62.18309,0 0,118.57997 -62.18309,0 0,-118.57997 z m -486.33551,56.98205 82.83746,0 0,106.0541 151.17191,0 0,-106.0541 207.79194,0 0,106.0541 151.24525,0 0,-106.0541 82.83745,0 0,166.03381 -675.88557,0 0,-166.03381 z m 0,209.61769 675.88557,0 0,490.28348 -675.88557,0 0,-490.28348 z M 527.54746,601.4606 c -47.48816,0.24398 -92.2814,24.55865 -93.45643,79.10169 h 54.1264 c 0.24873,-21.63277 13.47979,-35.31496 37.57295,-36.76775 22.61742,0.29319 32.14564,16.90923 33.17867,40.21014 -0.27043,31.67907 -36.78335,36.36983 -63.35501,35.81587 v 42.77399 c 16.2554,0.0164 34.87959,-0.78024 51.56255,6.1523 12.93254,5.73191 18.36983,20.9446 18.38388,35.81586 -0.24172,24.62107 -11.82351,43.8554 -41.08869,45.84968 -23.02002,-0.31899 -34.20702,-18.31053 -35.37581,-41.96723 h -55.00494 c 0,56.1909 31.15318,84.30117 93.45643,84.30117 22.09311,-0.15137 44.6372,-8.40515 63.28167,-23.14486 17.53498,-14.36489 29.16515,-36.34487 29.73628,-61.15787 -0.21332,-36.17477 -23.54434,-58.43485 -58.96073,-67.67594 18.87074,-6.6206 38.11912,-16.88895 47.60676,-36.62107 7.57889,-17.10429 4.33015,-36.70533 -1.75771,-55.07828 -12.94408,-30.75683 -45.50325,-47.26814 -79.90689,-47.60677 z m 189.84656,5.27344 c -18.63355,18.0515 -42.22003,32.58882 -70.75163,43.65254 v 48.04681 c 24.45566,-7.27833 46.70794,-19.51677 66.7974,-36.6944 v 225.79974 h 52.44109 V 606.73248 h -48.48686 z"
-     inkscape:connector-curvature="0" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="calendar-sign.svg" inkscape:version="0.48.4 r9939"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px" height="1200px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<sodipodi:namedview  inkscape:cy="448" inkscape:cx="-67.796606" inkscape:zoom="0.26339286" showgrid="false" id="namedview3109" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" inkscape:current-layer="svg2" inkscape:window-maximized="1" inkscape:window-y="24" inkscape:window-height="876" inkscape:window-width="1535" inkscape:pageshadow="2" inkscape:pageopacity="0" inkscape:window-x="65">
+	</sodipodi:namedview>
+<g id="g3324" transform="matrix(1.5019531,0,0,1.5019531,-562.55758,274.03443)">
+</g>
+<path id="path3453" inkscape:connector-curvature="0" d="M600,0C268.635,0,0,268.635,0,600s268.635,600,600,600s600-268.635,600-600
+	S931.365,0,600,0z M389.353,221.555h62.256v118.58h-62.256V221.555L389.353,221.555z M748.385,221.555h62.184v118.58h-62.184
+	V221.555L748.385,221.555z M262.049,278.537h82.837v106.055h151.172V278.537h207.792v106.055h151.245V278.537h82.838v166.034
+	H262.048V278.537H262.049z M262.049,488.155h675.885v490.283H262.049V488.155L262.049,488.155z M527.548,601.461
+	c-47.488,0.243-92.282,24.559-93.457,79.102h54.127c0.248-21.633,13.479-35.315,37.572-36.768
+	c22.618,0.293,32.146,16.909,33.179,40.21c-0.271,31.679-36.783,36.369-63.354,35.815v42.774c16.255,0.017,34.88-0.78,51.562,6.152
+	c12.933,5.731,18.37,20.944,18.384,35.815c-0.242,24.621-11.823,43.855-41.089,45.85c-23.02-0.318-34.207-18.311-35.376-41.967
+	h-55.005c0,56.19,31.153,84.301,93.457,84.301c22.093-0.151,44.637-8.405,63.281-23.145c17.535-14.365,29.165-36.345,29.736-61.158
+	c-0.214-36.175-23.544-58.435-58.961-67.676c18.871-6.621,38.119-16.889,47.606-36.621c7.579-17.104,4.33-36.705-1.757-55.078
+	C594.51,618.312,561.95,601.8,527.548,601.461L527.548,601.461z M717.395,606.734c-18.634,18.051-42.221,32.589-70.752,43.652
+	v48.047c24.455-7.278,46.708-19.517,66.797-36.694v225.8h52.441V606.732h-48.486V606.734z"/>
 </svg>
