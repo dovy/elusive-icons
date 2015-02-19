@@ -2185,9 +2185,33 @@ icons:
     categories:
       - Unsorted
   - 
+    name: Plurk Alt
+    id: plurk-alt
+    unicode: f1c8
+    filter:
+      - plurk
+      - alt
+      - Plurk Alt
+      - plurk-alt
+    alias:
+      - plurk-old
+    categories:
+      - Brand Icons
+    created: 2.0
+  - 
+    name: Plurk
+    id: plurk
+    unicode: f1c9
+    filter:
+      - plurk
+      - Plurk
+    categories:
+      - Brand Icons
+    created: 2.0
+  - 
     name: Plus Sign
     id: plus-sign
-    unicode: f1c8
+    unicode: f1ca
     filter:
       - plus
       - sign
@@ -2199,7 +2223,7 @@ icons:
   - 
     name: Plus
     id: plus
-    unicode: f1c9
+    unicode: f1cb
     filter:
       - plus
       - Plus
@@ -2209,7 +2233,7 @@ icons:
   - 
     name: Podcast
     id: podcast
-    unicode: f1ca
+    unicode: f1cc
     filter:
       - podcast
       - Podcast
@@ -2219,7 +2243,7 @@ icons:
   - 
     name: Print
     id: print
-    unicode: f1cb
+    unicode: f1cd
     filter:
       - print
       - Print
@@ -2229,7 +2253,7 @@ icons:
   - 
     name: Puzzle
     id: puzzle
-    unicode: f1cc
+    unicode: f1ce
     filter:
       - puzzle
       - Puzzle
@@ -2239,7 +2263,7 @@ icons:
   - 
     name: Qrcode
     id: qrcode
-    unicode: f1cd
+    unicode: f1cf
     filter:
       - qrcode
       - Qrcode
@@ -2249,7 +2273,7 @@ icons:
   - 
     name: Question Sign
     id: question-sign
-    unicode: f1ce
+    unicode: f1d0
     filter:
       - question
       - sign
@@ -2261,7 +2285,7 @@ icons:
   - 
     name: Question
     id: question
-    unicode: f1cf
+    unicode: f1d1
     filter:
       - question
       - Question
@@ -2269,38 +2293,20 @@ icons:
     categories:
       - Unsorted
   - 
-    name: Quote Left Alt
-    id: quote-left-alt
-    unicode: f1d0
+    name: Quote Alt
+    id: quote-alt
+    unicode: f1d2
     filter:
       - quote
-      - left
       - alt
-      - Quote Left Alt
-      - quote-left-alt
-    alias:
-      - quotes-alt
-    created: 2.0
-    categories:
-      - Unsorted
-  - 
-    name: Quote Left
-    id: quote-left
-    unicode: f1d1
-    filter:
-      - quote
-      - left
-      - Quote Left
-      - quote-left
-    alias:
-      - quotes
-    created: 1.0
+      - Quote Alt
+      - quote-alt
     categories:
       - Unsorted
   - 
     name: Quote Right Alt
     id: quote-right-alt
-    unicode: f1d2
+    unicode: f1d3
     filter:
       - quote
       - right
@@ -2315,7 +2321,7 @@ icons:
   - 
     name: Quote Right
     id: quote-right
-    unicode: f1d3
+    unicode: f1d4
     filter:
       - quote
       - right
@@ -2327,9 +2333,18 @@ icons:
     categories:
       - Unsorted
   - 
+    name: Quotes
+    id: quotes
+    unicode: f1d5
+    filter:
+      - quotes
+      - Quotes
+    categories:
+      - Unsorted
+  - 
     name: Random
     id: random
-    unicode: f1d4
+    unicode: f1d6
     filter:
       - random
       - Random
@@ -2339,7 +2354,7 @@ icons:
   - 
     name: Record
     id: record
-    unicode: f1d5
+    unicode: f1d7
     filter:
       - record
       - Record
@@ -2349,7 +2364,7 @@ icons:
   - 
     name: Reddit
     id: reddit
-    unicode: f1d6
+    unicode: f1d8
     filter:
       - reddit
       - Reddit
@@ -2359,7 +2374,7 @@ icons:
   - 
     name: Redux
     id: redux
-    unicode: f1d7
+    unicode: f1d9
     filter:
       - redux
       - Redux
@@ -2372,7 +2387,7 @@ icons:
   - 
     name: Refresh
     id: refresh
-    unicode: f1d8
+    unicode: f1da
     filter:
       - refresh
       - Refresh
@@ -2382,7 +2397,7 @@ icons:
   - 
     name: Remove Circle
     id: remove-circle
-    unicode: f1d9
+    unicode: f1db
     filter:
       - remove
       - circle
@@ -2394,7 +2409,7 @@ icons:
   - 
     name: Remove Sign
     id: remove-sign
-    unicode: f1da
+    unicode: f1dc
     filter:
       - remove
       - sign
@@ -2406,7 +2421,7 @@ icons:
   - 
     name: Remove
     id: remove
-    unicode: f1db
+    unicode: f1dd
     filter:
       - remove
       - Remove
@@ -2416,7 +2431,7 @@ icons:
   - 
     name: Repeat Alt
     id: repeat-alt
-    unicode: f1dc
+    unicode: f1de
     filter:
       - repeat
       - alt
@@ -2428,7 +2443,7 @@ icons:
   - 
     name: Repeat
     id: repeat
-    unicode: f1dd
+    unicode: f1df
     filter:
       - repeat
       - Repeat
@@ -2438,7 +2453,7 @@ icons:
   - 
     name: Resize Full
     id: resize-full
-    unicode: f1de
+    unicode: f1e0
     filter:
       - resize
       - full
@@ -2450,7 +2465,7 @@ icons:
   - 
     name: Resize Horizontal
     id: resize-horizontal
-    unicode: f1df
+    unicode: f1e1
     filter:
       - resize
       - horizontal
@@ -2462,7 +2477,7 @@ icons:
   - 
     name: Resize Small
     id: resize-small
-    unicode: f1e0
+    unicode: f1e2
     filter:
       - resize
       - small
@@ -2474,7 +2489,7 @@ icons:
   - 
     name: Resize Vertical
     id: resize-vertical
-    unicode: f1e1
+    unicode: f1e3
     filter:
       - resize
       - vertical
@@ -2486,7 +2501,7 @@ icons:
   - 
     name: Return Key
     id: return-key
-    unicode: f1e2
+    unicode: f1e4
     filter:
       - return
       - key
@@ -2498,7 +2513,7 @@ icons:
   - 
     name: Retweet
     id: retweet
-    unicode: f1e3
+    unicode: f1e5
     filter:
       - retweet
       - Retweet
@@ -2508,7 +2523,7 @@ icons:
   - 
     name: Reverse Alt
     id: reverse-alt
-    unicode: f1e4
+    unicode: f1e6
     filter:
       - reverse
       - alt
@@ -2520,7 +2535,7 @@ icons:
   - 
     name: Road
     id: road
-    unicode: f1e5
+    unicode: f1e7
     filter:
       - road
       - Road
@@ -2530,7 +2545,7 @@ icons:
   - 
     name: Rss
     id: rss
-    unicode: f1e6
+    unicode: f1e8
     filter:
       - rss
       - Rss
@@ -2540,7 +2555,7 @@ icons:
   - 
     name: Scissors
     id: scissors
-    unicode: f1e7
+    unicode: f1e9
     filter:
       - scissors
       - Scissors
@@ -2550,7 +2565,7 @@ icons:
   - 
     name: Screen Alt
     id: screen-alt
-    unicode: f1e8
+    unicode: f1ea
     filter:
       - screen
       - alt
@@ -2562,7 +2577,7 @@ icons:
   - 
     name: Screen
     id: screen
-    unicode: f1e9
+    unicode: f1eb
     filter:
       - screen
       - Screen
@@ -2572,7 +2587,7 @@ icons:
   - 
     name: Screenshot
     id: screenshot
-    unicode: f1ea
+    unicode: f1ec
     filter:
       - screenshot
       - Screenshot
@@ -2582,7 +2597,7 @@ icons:
   - 
     name: Search Alt
     id: search-alt
-    unicode: f1eb
+    unicode: f1ed
     filter:
       - search
       - alt
@@ -2594,7 +2609,7 @@ icons:
   - 
     name: Search
     id: search
-    unicode: f1ec
+    unicode: f1ee
     filter:
       - search
       - Search
@@ -2604,7 +2619,7 @@ icons:
   - 
     name: Share Alt
     id: share-alt
-    unicode: f1ed
+    unicode: f1ef
     filter:
       - share
       - alt
@@ -2616,7 +2631,7 @@ icons:
   - 
     name: Share
     id: share
-    unicode: f1ee
+    unicode: f1f0
     filter:
       - share
       - Share
@@ -2626,7 +2641,7 @@ icons:
   - 
     name: Shopping Cart Sign
     id: shopping-cart-sign
-    unicode: f1ef
+    unicode: f1f1
     filter:
       - shopping
       - cart
@@ -2639,7 +2654,7 @@ icons:
   - 
     name: Shopping Cart
     id: shopping-cart
-    unicode: f1f0
+    unicode: f1f2
     filter:
       - shopping
       - cart
@@ -2651,7 +2666,7 @@ icons:
   - 
     name: Signal
     id: signal
-    unicode: f1f1
+    unicode: f1f3
     filter:
       - signal
       - Signal
@@ -2661,7 +2676,7 @@ icons:
   - 
     name: Skype
     id: skype
-    unicode: f1f2
+    unicode: f1f4
     filter:
       - skype
       - Skype
@@ -2671,7 +2686,7 @@ icons:
   - 
     name: Slideshare
     id: slideshare
-    unicode: f1f3
+    unicode: f1f5
     filter:
       - slideshare
       - Slideshare
@@ -2681,7 +2696,7 @@ icons:
   - 
     name: Smiley Alt
     id: smiley-alt
-    unicode: f1f4
+    unicode: f1f6
     filter:
       - smiley
       - alt
@@ -2693,7 +2708,7 @@ icons:
   - 
     name: Smiley
     id: smiley
-    unicode: f1f5
+    unicode: f1f7
     filter:
       - smiley
       - Smiley
@@ -2703,7 +2718,7 @@ icons:
   - 
     name: Soundcloud
     id: soundcloud
-    unicode: f1f6
+    unicode: f1f8
     filter:
       - soundcloud
       - Soundcloud
@@ -2713,7 +2728,7 @@ icons:
   - 
     name: Speaker
     id: speaker
-    unicode: f1f7
+    unicode: f1f9
     filter:
       - speaker
       - Speaker
@@ -2723,7 +2738,7 @@ icons:
   - 
     name: Spotify
     id: spotify
-    unicode: f1f8
+    unicode: f1fa
     filter:
       - spotify
       - Spotify
@@ -2733,7 +2748,7 @@ icons:
   - 
     name: Stackoverflow
     id: stackoverflow
-    unicode: f1f9
+    unicode: f1fb
     filter:
       - stackoverflow
       - Stackoverflow
@@ -2743,7 +2758,7 @@ icons:
   - 
     name: Star Alt
     id: star-alt
-    unicode: f1fa
+    unicode: f1fc
     filter:
       - star
       - alt
@@ -2755,7 +2770,7 @@ icons:
   - 
     name: Star Empty
     id: star-empty
-    unicode: f1fb
+    unicode: f1fd
     filter:
       - star
       - empty
@@ -2767,7 +2782,7 @@ icons:
   - 
     name: Star
     id: star
-    unicode: f1fc
+    unicode: f1fe
     filter:
       - star
       - Star
@@ -2777,7 +2792,7 @@ icons:
   - 
     name: Step Backward
     id: step-backward
-    unicode: f1fd
+    unicode: f1ff
     filter:
       - step
       - backward
@@ -2789,7 +2804,7 @@ icons:
   - 
     name: Step Forward
     id: step-forward
-    unicode: f1fe
+    unicode: f200
     filter:
       - step
       - forward
@@ -2801,7 +2816,7 @@ icons:
   - 
     name: Stop Alt
     id: stop-alt
-    unicode: f1ff
+    unicode: f201
     filter:
       - stop
       - alt
@@ -2813,7 +2828,7 @@ icons:
   - 
     name: Stop
     id: stop
-    unicode: f200
+    unicode: f202
     filter:
       - stop
       - Stop
@@ -2823,7 +2838,7 @@ icons:
   - 
     name: Stumbleupon
     id: stumbleupon
-    unicode: f201
+    unicode: f203
     filter:
       - stumbleupon
       - Stumbleupon
@@ -2833,7 +2848,7 @@ icons:
   - 
     name: Tag
     id: tag
-    unicode: f202
+    unicode: f204
     filter:
       - tag
       - Tag
@@ -2843,7 +2858,7 @@ icons:
   - 
     name: Tags
     id: tags
-    unicode: f203
+    unicode: f205
     filter:
       - tags
       - Tags
@@ -2853,7 +2868,7 @@ icons:
   - 
     name: Tasks
     id: tasks
-    unicode: f204
+    unicode: f206
     filter:
       - tasks
       - Tasks
@@ -2863,7 +2878,7 @@ icons:
   - 
     name: Text Height
     id: text-height
-    unicode: f205
+    unicode: f207
     filter:
       - text
       - height
@@ -2875,7 +2890,7 @@ icons:
   - 
     name: Text Width
     id: text-width
-    unicode: f206
+    unicode: f208
     filter:
       - text
       - width
@@ -2887,7 +2902,7 @@ icons:
   - 
     name: Th Large
     id: th-large
-    unicode: f207
+    unicode: f209
     filter:
       - th
       - large
@@ -2899,7 +2914,7 @@ icons:
   - 
     name: Th List
     id: th-list
-    unicode: f208
+    unicode: f20a
     filter:
       - th
       - list
@@ -2911,7 +2926,7 @@ icons:
   - 
     name: Th
     id: th
-    unicode: f209
+    unicode: f20b
     filter:
       - th
       - Th
@@ -2921,7 +2936,7 @@ icons:
   - 
     name: Thumbs Down
     id: thumbs-down
-    unicode: f20a
+    unicode: f20c
     filter:
       - thumbs
       - down
@@ -2933,7 +2948,7 @@ icons:
   - 
     name: Thumbs Up
     id: thumbs-up
-    unicode: f20b
+    unicode: f20d
     filter:
       - thumbs
       - up
@@ -2945,7 +2960,7 @@ icons:
   - 
     name: Time Alt
     id: time-alt
-    unicode: f20c
+    unicode: f20e
     filter:
       - time
       - alt
@@ -2957,7 +2972,7 @@ icons:
   - 
     name: Time
     id: time
-    unicode: f20d
+    unicode: f20f
     filter:
       - time
       - Time
@@ -2967,7 +2982,7 @@ icons:
   - 
     name: Tint
     id: tint
-    unicode: f20e
+    unicode: f210
     filter:
       - tint
       - Tint
@@ -2977,7 +2992,7 @@ icons:
   - 
     name: Torso
     id: torso
-    unicode: f20f
+    unicode: f211
     filter:
       - torso
       - Torso
@@ -2987,7 +3002,7 @@ icons:
   - 
     name: Trash Alt
     id: trash-alt
-    unicode: f210
+    unicode: f212
     filter:
       - trash
       - alt
@@ -2999,7 +3014,7 @@ icons:
   - 
     name: Trash
     id: trash
-    unicode: f211
+    unicode: f213
     filter:
       - trash
       - Trash
@@ -3009,7 +3024,7 @@ icons:
   - 
     name: Tumblr
     id: tumblr
-    unicode: f212
+    unicode: f214
     filter:
       - tumblr
       - Tumblr
@@ -3019,7 +3034,7 @@ icons:
   - 
     name: Twitter
     id: twitter
-    unicode: f213
+    unicode: f215
     filter:
       - twitter
       - Twitter
@@ -3029,7 +3044,7 @@ icons:
   - 
     name: Universal Access
     id: universal-access
-    unicode: f214
+    unicode: f216
     filter:
       - universal
       - access
@@ -3041,7 +3056,7 @@ icons:
   - 
     name: Unlock Alt
     id: unlock-alt
-    unicode: f215
+    unicode: f217
     filter:
       - unlock
       - alt
@@ -3053,7 +3068,7 @@ icons:
   - 
     name: Unlock
     id: unlock
-    unicode: f216
+    unicode: f218
     filter:
       - unlock
       - Unlock
@@ -3063,7 +3078,7 @@ icons:
   - 
     name: Upload
     id: upload
-    unicode: f217
+    unicode: f219
     filter:
       - upload
       - Upload
@@ -3073,7 +3088,7 @@ icons:
   - 
     name: Usd
     id: usd
-    unicode: f218
+    unicode: f21a
     filter:
       - usd
       - Usd
@@ -3085,7 +3100,7 @@ icons:
   - 
     name: User
     id: user
-    unicode: f219
+    unicode: f21b
     filter:
       - user
       - User
@@ -3095,7 +3110,7 @@ icons:
   - 
     name: Viadeo
     id: viadeo
-    unicode: f21a
+    unicode: f21c
     filter:
       - viadeo
       - Viadeo
@@ -3105,7 +3120,7 @@ icons:
   - 
     name: Video Alt
     id: video-alt
-    unicode: f21b
+    unicode: f21d
     filter:
       - video
       - alt
@@ -3117,7 +3132,7 @@ icons:
   - 
     name: Video Chat
     id: video-chat
-    unicode: f21c
+    unicode: f21e
     filter:
       - video
       - chat
@@ -3129,7 +3144,7 @@ icons:
   - 
     name: Video
     id: video
-    unicode: f21d
+    unicode: f21f
     filter:
       - video
       - Video
@@ -3139,7 +3154,7 @@ icons:
   - 
     name: View Mode
     id: view-mode
-    unicode: f21e
+    unicode: f220
     filter:
       - view
       - mode
@@ -3151,7 +3166,7 @@ icons:
   - 
     name: Vimeo
     id: vimeo
-    unicode: f21f
+    unicode: f221
     filter:
       - vimeo
       - Vimeo
@@ -3161,7 +3176,7 @@ icons:
   - 
     name: Vkontakte
     id: vkontakte
-    unicode: f220
+    unicode: f222
     filter:
       - vkontakte
       - Vkontakte
@@ -3171,7 +3186,7 @@ icons:
   - 
     name: Volume Down
     id: volume-down
-    unicode: f221
+    unicode: f223
     filter:
       - volume
       - down
@@ -3183,7 +3198,7 @@ icons:
   - 
     name: Volume Off
     id: volume-off
-    unicode: f222
+    unicode: f224
     filter:
       - volume
       - 'off'
@@ -3195,7 +3210,7 @@ icons:
   - 
     name: Volume Up
     id: volume-up
-    unicode: f223
+    unicode: f225
     filter:
       - volume
       - up
@@ -3207,7 +3222,7 @@ icons:
   - 
     name: W3c
     id: w3c
-    unicode: f224
+    unicode: f226
     filter:
       - w3c
       - W3c
@@ -3217,7 +3232,7 @@ icons:
   - 
     name: Warning Sign
     id: warning-sign
-    unicode: f225
+    unicode: f227
     filter:
       - warning
       - sign
@@ -3229,7 +3244,7 @@ icons:
   - 
     name: Website Alt
     id: website-alt
-    unicode: f226
+    unicode: f228
     filter:
       - website
       - alt
@@ -3241,7 +3256,7 @@ icons:
   - 
     name: Website
     id: website
-    unicode: f227
+    unicode: f229
     filter:
       - website
       - Website
@@ -3251,7 +3266,7 @@ icons:
   - 
     name: Wheelchair
     id: wheelchair
-    unicode: f228
+    unicode: f22a
     filter:
       - wheelchair
       - Wheelchair
@@ -3261,7 +3276,7 @@ icons:
   - 
     name: Wordpress
     id: wordpress
-    unicode: f229
+    unicode: f22b
     filter:
       - wordpress
       - Wordpress
@@ -3273,7 +3288,7 @@ icons:
   - 
     name: Wrench Alt
     id: wrench-alt
-    unicode: f22a
+    unicode: f22c
     filter:
       - wrench
       - alt
@@ -3285,7 +3300,7 @@ icons:
   - 
     name: Wrench
     id: wrench
-    unicode: f22b
+    unicode: f22d
     filter:
       - wrench
       - Wrench
@@ -3295,7 +3310,7 @@ icons:
   - 
     name: Youtube
     id: youtube
-    unicode: f22c
+    unicode: f22e
     filter:
       - youtube
       - Youtube
@@ -3305,7 +3320,7 @@ icons:
   - 
     name: Zoom In
     id: zoom-in
-    unicode: f22d
+    unicode: f22f
     filter:
       - zoom
       - in
@@ -3317,7 +3332,7 @@ icons:
   - 
     name: Zoom Out
     id: zoom-out
-    unicode: f22e
+    unicode: f230
     filter:
       - zoom
       - out

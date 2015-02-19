@@ -1,8 +1,3 @@
-
-
-
-
-
 <?php
     $iconData = array (
         'address-book' =>
@@ -2609,6 +2604,35 @@
                     array (
                     ),
                 'created' => '1.0',
+            ),
+        'plurk' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                    ),
+                'created' => '2.0',
+            ),
+        'plurk-alt' =>
+            array (
+                'filter' =>
+                    array (
+                    ),
+                'categories' =>
+                    array (
+                        'Brand Icons',
+                    ),
+                'alias' =>
+                    array (
+                        'plurk-old'
+                    ),
+                'created' => '2.0',
             ),
         'plus' =>
             array (

@@ -1,7 +1,7 @@
 #[Elusive Icons v2.0.0](http://elusiveicons.com)
 ###The iconic font and CSS framework
 
-Elusive Icons is a full suite of 302 pictographic icons for easy scalable vector graphics on websites,
+Elusive Icons is a full suite of 304 pictographic icons for easy scalable vector graphics on websites,
 created and maintained by [Team Redux](http://twitter.com/ReduxFramework).
 Stay up to date with the latest release and announcements on Twitter:
 [@reduxframework](http://twitter.com/reduxframework).
